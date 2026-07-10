@@ -1,0 +1,55 @@
+{
+  "name": "Furikake Salmon Recipe",
+  "description": "Baked Furikake Salmon with Kewpie Mayo is a tender, flavorful salmon recipe made with Kewpie mayo, soy sauce, garlic powder, and furikake. This umami-packed salmon dish is ready in less than 15 minutes with minimal cleanup. Serve furikake salmon with Japanese rice and a vegetable for a well-rounded weeknight meal.",
+  "servings": "2",
+  "prep_time": "3m",
+  "cook_time": "12m",
+  "total_time": "15m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "salmon"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "Kewpie mayo"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "furikake"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "freshly cracked black pepper (to taste)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Prepare salmon and oven - Remove the salmon from the refrigerator and let it sit on the kitchen counter to temper, about 10 minutes. Heat the oven to 400° Fahrenheit. Line a baking sheet with parchment paper or aluminum foil, or grease the baking sheet with vegetable oil, and set aside.",
+        "Make Kewpie shoyu sauce - In a small bowl, add Kewpie mayo, soy sauce, and garlic powder. Use a spoon or chopsticks to mix the sauce until homogeneous and smooth. Set aside.",
+        "Prepare salmon - Use a sharp knife to slice the salmon across the grain into 2-4 servings. Pat the top of the salmon with a paper towel and place the servings on the prepared baking sheet with at least an inch between each piece.",
+        "Add the shoyu mayo and furikake - Use a spoon to scoop and spread the Kewpie mayo-soy sauce mixture onto the top of each salmon piece. Sprinkle furikake on top of each piece, covering the entire top of each salmon serving. Add freshly cracked black pepper to taste.",
+        "Bake the salmon - Place the tray of salmon in the oven and cook for 10-12 minutes depending on the thickness of the salmon. Remove from the oven and serve immediately."
+      ]
+    }
+  ]
+}

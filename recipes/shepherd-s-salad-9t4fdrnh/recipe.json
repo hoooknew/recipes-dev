@@ -1,0 +1,70 @@
+{
+  "name": "Shepherd's Salad",
+  "author": "Sunny Anderson",
+  "servings": "6 servings",
+  "prep_time": "15m",
+  "total_time": "1h 15m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "Roma tomatoes, seeded and chopped"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "cucumbers, seeded and chopped"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "bunch parsley, leaves picked, not chopped"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "pitted and halved black olives"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "each",
+          "ingredient": "small red onion, chopped"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "cider vinegar"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "lemon juice"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt and freshly ground black pepper"
+        },
+        {
+          "quantity": 8,
+          "unit": "oz",
+          "ingredient": "Greek feta cheese, diced"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Toss together all ingredients except feta cheese in a large bowl. Let sit at room temperature for 1 hour to allow flavors to develop. Toss in the feta cheese just before serving and taste for seasoning and adjust seasoning, if necessary."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Easy Garlic-Lemon Scallops",
+  "author": "Button",
+  "description": "This scallop recipe makes deliciously tender sautéed scallops with a buttery lemon-garlic pan sauce for a restaurant-worthy meal that's easy to make!",
+  "servings": "6",
+  "prep_time": "10m",
+  "cook_time": "5m",
+  "total_time": "15m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "minced garlic"
+        },
+        {
+          "quantity": 2,
+          "unit": "lb",
+          "ingredient": "large sea scallops"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "fresh lemon juice"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 0.125,
+          "unit": "tsp",
+          "ingredient": "pepper"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Gather all ingredients.",
+        "Melt butter in a large skillet over medium heat. Stir in garlic and cook for a few seconds until fragrant.",
+        "Arrange scallops in a single layer in the skillet; cook until golden brown on one side, about 2 minutes. Turn scallops over using tongs and continue cooking until firm and opaque, about 2 minutes more.",
+        "Transfer scallops to a platter, reserving butter in the skillet.",
+        "Whisk lemon juice, salt, and pepper into butter; pour sauce over scallops to serve.",
+        "Enjoy."
+      ]
+    }
+  ]
+}

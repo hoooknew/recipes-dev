@@ -1,0 +1,163 @@
+{
+  "name": "Vietnamese Chicken Pho soup (Pho Ga)",
+  "description": "Recipe video above. Chicken Pho (Pho Ga) - the little sister of famous Beef Pho, equally delicious but much easier to make! I call it the Vietnamese version of homemade chicken noodle soup made from scratch. Except - dare I say it - so much more exciting!You won't use all the chicken, but it's infused with lovely flavour so there's loads of uses - see Note 7.",
+  "servings": "4 - 6 people",
+  "prep_time": "10m",
+  "cook_time": "1h 30m",
+  "ingredient_sections": [
+    {
+      "name": "Charred aromatics:",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "oil , vegetable or canola (or other plain oil)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "onions , halved (skin on fine)"
+        },
+        {
+          "quantity": 5,
+          "unit": "cm",
+          "ingredient": "piece of ginger , sliced 0.75cm / 1/3″ thick (unpeeled)"
+        }
+      ]
+    },
+    {
+      "name": "Pho Soup Broth:",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "L",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "kg",
+          "ingredient": "chicken thighs, bone in skin on (Note 1)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "small bunch coriander/cilantro (Note 2)"
+        },
+        {
+          "quantity": 5,
+          "unit": "each",
+          "ingredient": "star anise pods (was short in photo & video!)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "cinnamon stick"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "cloves"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "fennel seeds"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "coriander seeds"
+        },
+        {
+          "quantity": 8,
+          "unit": "tsp",
+          "ingredient": "fish sauce"
+        },
+        {
+          "quantity": 6,
+          "unit": "tsp",
+          "ingredient": "white sugar"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "tsp",
+          "ingredient": "salt (Cooking/kosher salt, or 1/2 tsp table salt)"
+        }
+      ]
+    },
+    {
+      "name": "Noodle Bowls:",
+      "ingredients": [
+        {
+          "quantity": 360,
+          "unit": "g",
+          "ingredient": "dried rice noodles , thin flat (or 600g fresh)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "green onions stems , finely sliced"
+        }
+      ]
+    },
+    {
+      "name": "Toppings – help yourself",
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "cup",
+          "ingredient": "bean sprouts (Note 3)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "small bunch EACH Thai Basil, min, coriander/cilantro (Note 4)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "limes , cut into 4 wedges"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Hoisin sauce"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Sriracha"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Red chillies , finely sliced (optional)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "BROTH:",
+      "steps": [
+        "Char onion & ginger - Heat oil in a 6 litre / 6 quart pot (Note 5) over high heat. Place ginger and onion facedown, leave undisturbed for 2 minutes until they blacken. Turn and leave for another 2 minutes.",
+        "Put everything in pot - Add water and remaining Broth ingredients EXCEPT salt. Bring it a simmer, then lower heat so it's simmering VERY gently with the lid on, but open a crack (Note 6).",
+        "Simmer gently 1.5 hours. Scoop off scum (dirty foam) that rises to surface once or twice during the simmering.",
+        "Strain & measure - Remove chicken, then strain broth into a clean pot - you should have 1.5 litres / 1.5 quarts. If you have more, simmer to reduce. If less, top it up with water.",
+        "Salt broth - Add salt, bring broth to a gentle simmer. Broth should be slightly on the salty side - it dilutes when you add the noodles.",
+        "Keep broth warm until ready to serve",
+        "Shred chicken meat, discard bones and skin. (Note 6 Leftover Chicken ideas)"
+      ]
+    },
+    {
+      "name": "ASSEMBLING:",
+      "steps": [
+        "Place Toppings out on the table.",
+        "Reheat chicken (can briefly dunk in broth!).",
+        "Prepare noodles per packet directions, just prior to serving. Drain very well (excess water dilutes broth).",
+        "Place noodle in bowls. Top with chicken, ladle over 375ml / 1.5 cups broth. Sprinkle with green onion.",
+        "Pile on Toppings of choice, add a squeeze of lime into the broth. Consume immediately!"
+      ]
+    }
+  ]
+}

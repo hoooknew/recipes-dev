@@ -1,0 +1,72 @@
+{
+  "name": "Fajita Seasoning",
+  "author": "Traci Meeds",
+  "description": "Make your own fajita seasoning for chicken or beef fajitas with this easy recipe. No bouillon cubes means this is perfect for vegetarians, too!",
+  "servings": "Serves 4",
+  "prep_time": "5m",
+  "total_time": "5m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "cornstarch"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "chili powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "salt or to taste"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground paprika"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "white sugar"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "onion powder"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ground cumin"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "cayenne pepper"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Gather all ingredients.",
+        "Stir cornstarch, chili powder, salt, paprika, sugar, onion powder, garlic powder, cumin, and cayenne pepper together in a small bowl.",
+        "Use immediately in your favorite fajita recipe, or store in an airtight container in a cool, dry place for up to 6 months."
+      ]
+    }
+  ],
+  "notes": "Make up a larger batch and store in an airtight container for future use.\n\nhttps://www.allrecipes.com/recipe/232967/fajita-seasoning/?print",
+  "tags": [
+    "favorite"
+  ]
+}

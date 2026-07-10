@@ -1,0 +1,122 @@
+{
+  "name": "Yakitori Recipe with Homemade Sauce",
+  "description": "My mouthwatering Yakitori recipe features chicken and scallion skewers coated in a caramelized, savory-sweet glaze. These tender and juicy skewers are easy to prep in advance and grill under the broiler for a taste of Japanese pub food at home.",
+  "servings": "12 yakitori skewers",
+  "prep_time": "15m",
+  "cook_time": "45m",
+  "total_time": "1h",
+  "ingredient_sections": [
+    {
+      "name": "For the Yakitori Sauce",
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "soy sauce (use gluten-free soy sauce for GF)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "mirin"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "sake"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "brown sugar (packed and leveled off)"
+        }
+      ]
+    },
+    {
+      "name": "For the Chicken Skewers",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "Tokyo negi (long green onion) (or 9 green onions)"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "boneless, skinless chicken thighs (at room temperature)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "neutral oil (for brushing the wire rack)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "shichimi togarashi (Japanese seven spice) (optional; for a spicy kick)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Gather all the ingredients. For this recipe, I use teppogushi or “gun skewers” that have a flat tab for a handle. You can buy them at Japanese markets or on Amazon. If you can‘t find them, you can use regular bamboo skewers.",
+        "Soak 10–12 5-inch bamboo skewers in water for 30 minutes (or at least 10 minutes while you're prepping the ingredients).",
+        "Separate the green part of 2 Tokyo negi (long green onion) from the white and light green parts. Cut the white and light green parts into 1¼-inch (3-cm) pieces. Cut the green parts in half crosswise."
+      ]
+    },
+    {
+      "name": "To Make the Yakitori Sauce (Tare)",
+      "steps": [
+        "To a small saucepan, add ½ cup soy sauce, ½ cup mirin, ¼ cup sake, and ¼ cup water.",
+        "Add 2 tsp brown sugar and the green part of the Tokyo negi.",
+        "Bring it to a boil over high heat. Once boiling, reduce the heat to low and simmer, uncovered, until the sauce reduces to one-third of its original volume. It will take about 30 minutes. Let it cool to room temperature before using. The sauce will thicken with a glossy shine as it cools. Tip: You can make the sauce ahead of time. To store, remove the green onion and pour into a mason jar. Keep in the refrigerator for up to 2–3 months.",
+        "Tip: If you want to serve your yakitori with extra sauce, reserve one-third of the sauce in a small bowl for final basting, just before serving. To prevent cross-contamination, use this reserved sauce with a clean brush only after the chicken is fully cooked."
+      ]
+    },
+    {
+      "name": "To Assemble the Skewers",
+      "steps": [
+        "Cut 1 lb boneless, skinless chicken thighs into 1¼-inch (3-cm) squares.",
+        "On a flat work surface, fold a slice of chicken in half. Holding the skewer at a 45-degree angle, pierce the side of the folded meat. Then, tilt the skewer down so it‘s parallel to the work surface and thread it all the way through. Position the chicken next to the handle.",
+        "Next, add a piece of Tokyo negi perpendicular to the skewer, packing it snuggly next to the chicken piece.",
+        "Add another piece of chicken, then another piece of Tokyo negi.",
+        "End with a piece of chicken. Each 5-inch skewer will hold about 3 chicken slices and 2 Tokyo negi pieces."
+      ]
+    },
+    {
+      "name": "To Broil/Grill the Yakitori (recommended)",
+      "steps": [
+        "Line a baking sheet with aluminum foil for easy cleanup. Place an oven-safe wire rack on top. Grease the grate of the wire rack with neutral oil to keep the chicken from sticking.",
+        "Place the skewers on top in two rows, with the handles resting along the edges of the baking sheet. Cover the top and bottom of the handles with folded strips of aluminum foil to prevent burning.",
+        "Turn on the broiler to High (550ºF/288ºC) with a rack placed on the middle position of the oven, about 8 inches (20 cm) away from the heating element. Wait until the heating elements are hot, about 3–5 minutes. Then, place the skewers under the broiler. Broil for 6 minutes. Tip: When broiling, you don‘t adjust the oven temperature; instead, you control the distance between the heating element and the surface of the food. It‘s similar to using hotter and cooler zones on your grill.",
+        "After 6 minutes, brush the meat and Tokyo negi with the yakitori sauce.",
+        "Flip the skewers carefully with a pair of tongs. Brush the sauce on the other side. Continue to broil for 3–4 minutes to caramelize the sauce.",
+        "Finally, flip one more time (this is the presentation side). Baste with the sauce, then broil for an additional 1–2 minutes. Remove the baking sheet from the oven."
+      ]
+    },
+    {
+      "name": "To Pan-Fry the Yakitori (optional)",
+      "steps": [
+        "Heat a large frying pan on medium heat. When it‘s hot, add about 1 Tbsp neutral oil. When the oil is hot, place the skewers in the pan in a single layer (you may have to cook in batches). Cook until both sides are brown, about 5 minutes each side. Then, cover and cook on low heat for 2–3 minutes. Add the sauce to the pan and cook until well coated on both sides. Remove from the heat."
+      ]
+    },
+    {
+      "name": "To Serve",
+      "steps": [
+        "Transfer the skewers to a serving plate, presentation side up. Optionally, with a clean brush, baste the top of the chicken skewers with the reserved sauce. Serve with shichimi togarashi (Japanese seven spice) and enjoy!"
+      ]
+    },
+    {
+      "name": "To Store",
+      "steps": [
+        "You can keep the leftovers in an airtight container and store in the refrigerator for up to 3 days or in the freezer for up to a month. "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Honey Balsamic Glazed Whole Roasted Carrots",
+  "author": "Laurie McNamara",
+  "description": "Tender carrots glazed in a sweetly-tangy balsamic and honey glaze.",
+  "servings": "6 servings",
+  "cook_time": "30m",
+  "total_time": "35m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "bunches",
+          "ingredient": "baby carrots"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "extra light olive oil"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "freshly ground black pepper"
+        },
+        {
+          "quantity": 4,
+          "unit": "sprigs",
+          "ingredient": "fresh thyme"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "balsamic vinegar"
+        },
+        {
+          "quantity": 2.5,
+          "unit": "tbsp",
+          "ingredient": "honey"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Chop of the leafy carrot tops and scrub well.",
+        "Toss the carrots in the olive oil, salt and black pepper. Place the carrots on a rimmed baking sheet and throw on the sprigs of fresh thyme.",
+        "Slide the carrots into a preheated 425 degree oven and roast for 15 minutes. Meanwhile prepare the glaze by mixing the balsamic vinegar with the honey.",
+        "Remove the carrots from the oven and drizzle on the glaze. Toss to coat and place the carrots back into the oven for 10-15 more minutes. Just give them another toss halfway through.",
+        "Remove and discard the thyme sprigs and serve."
+      ]
+    }
+  ]
+}

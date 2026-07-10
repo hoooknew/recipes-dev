@@ -1,0 +1,66 @@
+{
+  "name": "Bacon lobster omelette",
+  "description": "Easy to make, but feels that bit special, this bacon lobster omelette is a great brunch.",
+  "servings": "2",
+  "prep_time": "5m",
+  "cook_time": "15m",
+  "total_time": "20m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 5,
+          "unit": "oz",
+          "ingredient": "bacon"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "each",
+          "ingredient": "onion"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "tomato"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "lobster tail ((1 tail is approx 2oz/65g peeled weight), pre-cooked)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "parsley (chopped)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "parmesan (grated)"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "eggs"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "milk"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Slice the bacon and dice the onion and tomato.",
+        "Warm a medium skillet/frying pan over a medium heat and add the bacon. After a minute it will start to release some fat - at this point, add the onion. Cook for a few minutes, stirring now and then, so that the onion softens and the bacon crisps slightly.",
+        "Meanwhile, break up the lobster, chop the parsley and grate the parmesan. Whisk together the eggs and milk, along with a little salt and pepper.",
+        "Once the onions and bacon have coked enough, add the tomato, lobster, parsley and parmesan on top, all scattered evenly. Carefully pour over the egg mixture and reduce the heat a little. Meanwhile, warm the broiler/grill.",
+        "Cook the omelette a couple minutes until you can see the egg has cooked around the sides. Put under the broiler/grill, watching carefully, to cook across the top. It should be cooked through and only slightly browned, if at all.",
+        "Serve either as it is or with salad or other vegetables as you prefer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "name": "Tandoori Chicken Tacos",
+  "description": "Look out for some delicious, big flavors in this. The only 2 things you might not have are the tumeric (which btw you could swap for yellow curry powder) and garam masala - but that helps make it so, you might want to get a little.",
+  "ingredient_sections": [
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "Greek yogurt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "garlic paste"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "ginger paste"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "coarse ground black pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "tumeric"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "garam masala"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "cumin"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "red food coloring (just not one with ‘red 40’ in it cuz it’s bad for you)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": null,
+          "ingredient": "Juice of 1/2 lime"
+        }
+      ]
+    },
+    {
+      "name": "Chicken",
+      "ingredients": [
+        {
+          "quantity": 1.5,
+          "unit": "lb",
+          "ingredient": "boneless, skinless chicken thighs"
+        }
+      ]
+    },
+    {
+      "name": "Sauce",
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "Greek yogurt"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "chopped cilantro, plus extra for garnishing"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "chopped green onion"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "coriander"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "cumin"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pinch kosher salt & pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": null,
+          "ingredient": "Juice of 1/2 lime"
+        }
+      ]
+    },
+    {
+      "name": "For Serving",
+      "ingredients": [
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Tortillas, flour or corn"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Combine marinade ingredients in a large bowl, mix well to combine",
+        "Cut 1/4” slices into the thighs, about 1/2 inch apart, then put into the marinade and massage until the chicken is well covered - refrigerate a couple hours to overnight",
+        "While it does, put the sauce ingredients into a bowl, and mix well - refrigerate until ready to use",
+        "When ready to cook, heat a grill (charcoal if possible) to medium high",
+        "Remove chicken and sauce from the fridge about 30 minutes prior to cooking",
+        "Clean and oil the grill grates, and then put on the chicken",
+        "Cook, turning often until beautifully charred and between about 175 and 185 degrees",
+        "Remove to a plate and let rest 10 minutes",
+        "Put tortillas on the grill until marked up",
+        "Build - spread sauce on a tortilla, add some cut up chicken, a little more sauce and chopped cilantro to garnish",
+        "Serve"
+      ]
+    }
+  ]
+}

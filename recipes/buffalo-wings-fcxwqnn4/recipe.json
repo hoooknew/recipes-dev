@@ -1,0 +1,78 @@
+{
+  "name": "Buffalo Wings",
+  "author": "Lauren Miyashiro",
+  "description": "There's nothing like homemade Buffalo wings on game day. While frying can be messy, baking the chicken is way easier and yields just as crispy results.",
+  "servings": "4 serving(s)",
+  "prep_time": "20m",
+  "total_time": "1h 20m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "lb",
+          "ingredient": "chicken wings"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "vegetable oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Freshly ground black pepper"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "hot sauce (such as Frank's)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "honey"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Ranch dressing or blue cheese dressing, for serving"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Carrot sticks, for serving"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Celery sticks, for serving"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Preheat oven to 400° and place a wire rack over a baking sheet. In a large bowl, toss chicken wings with oil and season with garlic powder, salt, and pepper. Transfer to prepared baking sheet.",
+        "Bake until chicken is golden and skin is crispy, 50 to 60 minutes, flipping the wings halfway through.",
+        "In a small saucepan, whisk together hot sauce and honey. Bring to simmer then stir in butter. Cook until butter is melted and slightly reduced, about 2 minutes. Heat broiler on low. Transfer baked wings to a bowl and toss with buffalo sauce until completely coated. Return wings to rack and broil—watching carefully!—until sauce caramelizes, 3 minutes. Serve with ranch dressing and vegetables."
+      ]
+    }
+  ]
+}

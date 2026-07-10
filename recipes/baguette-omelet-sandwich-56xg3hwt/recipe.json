@@ -1,0 +1,110 @@
+{
+  "name": "Baguette Omelet Sandwich",
+  "description": "It’s a baguette sandwich made even better with an omelet inside.",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "1. 바게트"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "2. 토마토"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "3. 시금치"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "4. 파슬리"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "5. 마늘, 버터, 꿀"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "6. 계란"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "7. 햄"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "8. 치즈, 모차렐라"
+        },
+        {
+          "quantity": 30,
+          "unit": "g",
+          "ingredient": "Butter"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "minced garlic"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "honey"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "minced parsley"
+        },
+        {
+          "quantity": {
+            "min": 4,
+            "max": 5
+          },
+          "unit": "each",
+          "ingredient": "Cute eggs"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Today’s dish is an omelet sandwich made with a baguette. Slice the tomato.",
+        "Spinach.",
+        "Parsley, my tiny green broom.",
+        "Cut it roughly.",
+        "I need garlic...one??. I need more!!.",
+        "Chop. chop.",
+        "I will make the garlic butter spread. 30g of Butter.",
+        "1TBSP minced garlic, 1TBSP of honey.",
+        "1/2TBSP minced parsley.",
+        "Cut off the top of the baguette like a lid.",
+        "Scoop out the inside of the bread to make space.",
+        "Apply the garlic butter spread inside the bread.",
+        "4-5 Cute eggs (depending on the size of the baguette).",
+        "You can put eggs straight into baguette (I used a bowl for thumbnail~).",
+        "Put eggs in the baguette (Move it onto the baking tray before adding eggs).",
+        "A little Salt.",
+        "A little Pepper. You can beat the eggs roughly or cook them as they are (up to your taste).",
+        "Parsley. To keep it from burning, I covered the baguette with aluminum foil.",
+        "Cook it in the oven pre-heated to 190°C for 5-7 min. My oven isn’t very strong, so I made a hole to cook it faster (Should’ve done it from the start).",
+        "I baked it more at 200°C for 5-7min (Adjust the time & temperature).",
+        "Your favorite cheese Tomato and cheese.",
+        "Ham. Mozzarella.",
+        "A little~. Spinach.",
+        "And this time, a lot of Mozzarella~. Trim the thick part of the bread lid to make it flat.",
+        "Spread the garlic butter on top. Cover it with the bread lid and put it in the oven.",
+        "Just melt the mozzarella for 5-8 min in a 190-200°C preheated oven (Adjust). Delicious garlic-butter scent and the super crispy baguette."
+      ]
+    }
+  ]
+}

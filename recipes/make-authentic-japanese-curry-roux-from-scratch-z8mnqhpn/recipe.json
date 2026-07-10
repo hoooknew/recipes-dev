@@ -1,0 +1,121 @@
+{
+  "name": "Make authentic Japanese curry roux from scratch",
+  "description": "Make authentic Japanese curry roux from scratch (aka curry blocks/cubes or a curry brick): a glossy, lump-free base for curry rice, katsu curry, or curry udon.",
+  "servings": "4-6 Servings",
+  "ingredient_sections": [
+    {
+      "name": "Spice Blend",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Turmeric"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Cumin"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Coriander seeds (ground)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "Cloves (ground)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "Cardamom (ground)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "Fenugreek (ground)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "Cinnamon (ground)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Garlic powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Ginger powder"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "Black peppercorns (ground)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "Bay leaves"
+        }
+      ]
+    },
+    {
+      "name": "Roux Ingredients",
+      "ingredients": [
+        {
+          "quantity": {
+            "min": 3,
+            "max": 4
+          },
+          "unit": "tbsp",
+          "ingredient": "Vegetable oil or butter"
+        },
+        {
+          "quantity": {
+            "min": 3,
+            "max": 4
+          },
+          "unit": "tbsp",
+          "ingredient": "All-purpose flour"
+        }
+      ]
+    },
+    {
+      "name": "Flavour Enhancement",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "Soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Honey or sugar"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Method",
+      "steps": [
+        "Make a brown roux: equal-weight oil/butter and flour; whisk until deep blonde/brown.",
+        "Bloom spices in the roux 60–90s (don’t burn).",
+        "Whisk in cold water gradually to smooth (prevents lumps).",
+        "Off heat: add soy, Worcestershire, honey/sugar; tuck in bay leaves to infuse.",
+        "Cool into a “brick” (or freeze). Start with 100g roux per 800ml liquid, then adjust salt/heat/thickness."
+      ]
+    }
+  ],
+  "notes": "(Use equal parts in weight, not unit, to factor in difference in density.)"
+}

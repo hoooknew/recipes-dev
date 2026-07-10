@@ -1,0 +1,66 @@
+{
+  "name": "Sirloin Tip Roast",
+  "author": "Arman Liew",
+  "description": "My sirloin tip roast recipe combines simple ingredients to make an incredibly juicy and tender cut of beef that’s ready with just 5 minutes of prep time. No dry or rubbery meat ever.",
+  "servings": "8 servings",
+  "prep_time": "1m",
+  "cook_time": "45m",
+  "total_time": "46m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "lb",
+          "ingredient": "sirloin tip roast"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "parsley (chopped)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dried thyme"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dried rosemary"
+        },
+        {
+          "quantity": 5,
+          "unit": "each",
+          "ingredient": "garlic (minced)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Preheat the oven to 180C/350F.",
+        "Rub the roast with olive oil. In a small bowl, whisk the salt, pepper, parsley, dried thyme, dried rosemary, and garlic, then rub it all over the beef.",
+        "Place the meat in a roasting pan or baking dish and roast the beef for 45-50 minutes, or until it reaches a medium-rare temperature of 135F.",
+        "Remove the beef from the oven and place it on a sheet of tin foil and loosely cover it. Let the meat rest for 10-15 minutes before carving against the grain."
+      ]
+    }
+  ],
+  "notes": "TO STORE: Once the roast cools, transfer leftovers to an airtight container and refrigerate for up to 4 days. \nTO REHEAT: Transfer leftovers to a baking dish and heat, uncovered, at 250°F, until the roast has fully warmed through and the internal temperature of the thickest part reaches 120°F. Microwaving will also work, though that’s less preferred as it tends to dry out the roast. \nTO FREEZE: Placed cooled roast in an airtight container or freezer-safe bag and freeze for up to 3 months."
+}

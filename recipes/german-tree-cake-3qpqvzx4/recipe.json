@@ -1,0 +1,120 @@
+{
+  "name": "German tree cake",
+  "description": "Aka one of the most labor-intensive cakes to make (traditionally made on a rotating spit).",
+  "ingredient_sections": [
+    {
+      "name": "Marzipan",
+      "ingredients": [
+        {
+          "quantity": 65,
+          "unit": "g",
+          "ingredient": "almond flour"
+        },
+        {
+          "quantity": 50,
+          "unit": "g",
+          "ingredient": "powdered sugar"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "orange blossom water (or almond extract - any flavoring will do)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "quantity": {
+            "min": 15,
+            "max": 20
+          },
+          "unit": "g",
+          "ingredient": "water"
+        }
+      ]
+    },
+    {
+      "name": "Cake",
+      "ingredients": [
+        {
+          "quantity": 227,
+          "unit": "g",
+          "ingredient": "butter, room temp"
+        },
+        {
+          "quantity": 200,
+          "unit": "g",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "eggs, separated"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "quantity": 130,
+          "unit": "g",
+          "ingredient": "marzipan"
+        },
+        {
+          "quantity": 50,
+          "unit": "g",
+          "ingredient": "rum"
+        },
+        {
+          "quantity": 250,
+          "unit": "g",
+          "ingredient": "cake flour"
+        },
+        {
+          "quantity": 3,
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "pinch",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 300,
+          "unit": "g",
+          "ingredient": "apricot jam"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Marzipan",
+      "steps": [
+        "1. Pulse almond powder and sugar",
+        "2. Add water, flavoring, and vanilla"
+      ]
+    },
+    {
+      "name": "Process",
+      "steps": [
+        "1. Preheat oven to high broil",
+        "2. Prepare springform pan: grease and line bottom with parchment, then grease and flour the sides",
+        "3. In a stand mixer, whisk butter, sugar, egg yolks, and vanilla",
+        "4. Warm the marzipan (to make it easier to whisk) and mix with rum until incorporated. Add to wet ingredients",
+        "5. Sift flour and baking powder",
+        "6. Fold dry ingredients into batter until no lumps remain",
+        "7. In a clean bowl, whisk egg whites and salt to stiff peaks. Fold into batter until just combined",
+        "8. Spread 3 tbsp of batter in the pan and bake for 1 to 1.5 min until golden brown",
+        "9. Spread a thin layer of apricot jam",
+        "10. Repeat steps 8 and 9 until no batter remains",
+        "11. After the final layer is baked, remove from oven and let cool for 10 min. Release from springform pan and cool completely",
+        "12. Optional: Finish with chocolate glaze and almond decor"
+      ]
+    }
+  ]
+}

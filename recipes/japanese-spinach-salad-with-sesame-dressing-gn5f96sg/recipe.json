@@ -1,0 +1,55 @@
+{
+  "name": "Japanese Spinach Salad with Sesame Dressing",
+  "author": "Lisa Kitahara",
+  "description": "This Japanese sesame spinach salad is nutty, flavourful and a delicious way to enjoy spinach! Ready in 5 minutes, this healthy Japanese side dish is great for meal prep, too.",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "bunch of spinach (225-250g)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pinch of salt"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "toasted sesame seeds"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": {
+            "min": 4,
+            "max": 5
+          },
+          "unit": "tsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "sake or mirin "
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Bring a pot of water to a boil and place spinach in stem side first. Cook the spinach for 30 seconds and then immediently strain and rinse with cold water. ",
+        "Squeeze out excess moisture and water. Gather the spinach and roughly chop the spinach 3-4 times and then place it into a bowl.",
+        "Add the toasted sesame seeds to a suribachi (motor / grinding bowl) and grind with surikogi (pestal / wooden stick) and roughly grind the sesame seeds (does not have to all be grinded). Add the sugar, soy sauce and sake/mirin and mix together. ",
+        "Pour the dressing over the spinach and toss together. Serve and enjoy! ",
+        "Leftovers can be stored in an air tight container in the fridge for up to 3 days or frozen for up to 1 month. "
+      ]
+    }
+  ]
+}

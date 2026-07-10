@@ -1,0 +1,110 @@
+{
+  "name": "Toad in the Hole",
+  "description": "Usually paired when an onion gravy, toad in the hole is basically sausages cooked in a yorkshire pudding or popover batter.",
+  "total_time": "20m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 8,
+          "unit": "each",
+          "ingredient": "sausages"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "eggs"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Plain flour"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Milk"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt & pepper (mix in just before cooking)"
+        }
+      ]
+    },
+    {
+      "name": "Onion gravy",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "Red onions"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "dessert spoon of butter"
+        },
+        {
+          "quantity": 150,
+          "unit": "ml",
+          "ingredient": "Red wine"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "heaped dessert spoon of plain flour / all purpose flour"
+        },
+        {
+          "quantity": 500,
+          "unit": "ml",
+          "ingredient": "Beef or chicken stock"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Batter",
+      "steps": [
+        "I always start with eggs, one per person.",
+        "Then I measure the flour to the same level with some gentle taps just to get it leveled out.",
+        "Eggs into the mixing bowl.",
+        "And finally, I can measure the milk against the flour.",
+        "Then flour into the bowl. I like to add a little dash of milk in as well at this stage.",
+        "Then once I have a smooth batter, I can add the rest of the milk.",
+        "I'm looking for a consistency that's something like single cream.",
+        "No seasoning at this stage. I'm covering it and I'm going to let it rest for at least 30 minutes on the side.",
+        "Adding a little salt and pepper, mixing that in. And that's my batter ready."
+      ]
+    },
+    {
+      "name": "Onion gravy",
+      "steps": [
+        "Once I got my onions halved and all of the dry papery skins removed, I like to slice them two or three times in the opposite direction to the lines, then spin 90° and slice across that.",
+        "Frying pan onto a medium heat. And I like to let that heat for a few moments, then straight in with a little bit of butter.",
+        "Then in with the onions and a good pinch of salt.",
+        "I only need to cook this for 10 or 15 minutes. Just giving them a stir every now and again until my onions look something like this.",
+        "Go in with a heap dessert spoon of plain flour. Stir that in and cook it out over a low heat for a minute or two.",
+        "Going in with 150 mls of red wine. Let the wine begin to simmer just around the edges of the pan for a moment before stirring it in.",
+        "Let that cook for a few minutes, occasionally stirring until you have a thick pasty consistency like this.",
+        "Then I'm going in with 500 mls of stock.",
+        "Bring that to a boil, then reduce the pan to a simmer and keep it simmering, occasionally stirring until you reach your desired thickness."
+      ]
+    },
+    {
+      "name": "Toad in the Hole",
+      "steps": [
+        "I always start with fridge cold sausages.",
+        "I always start with a cold pan and I fill the pan with the sausages.",
+        "I prep them two or three times [piercing] and this just helps them to not burst once they're in the oven.",
+        "Now I'm going in with a tiny amount of oil, around a teaspoon.",
+        "Give them a mix so everything's evenly coated and over to the stove top.",
+        "I'm placing them onto a medium low heat to get that cooking process started slowly. I'm just looking to get some light color on the skins in this stage. I'm leaving them for around 30 seconds before turning them.",
+        "Once my sausages are all evenly colored, I can add my batter.",
+        "Batter in, and that goes straight into a preheated oven at 220C.",
+        "That's going to stay cooking at 220 for the first 5 minutes. Then I bring the temperature down to 200 for the remaining 15 minutes in the oven."
+      ]
+    }
+  ]
+}

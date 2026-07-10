@@ -1,0 +1,107 @@
+{
+  "name": "Kimchi Jjigae Recipe - Authentic Korean Stew for Ultimate Comfort Food",
+  "author": "Sue Pressey",
+  "description": "Simple, flavorful, and incredibly comforting, this Korean kimchi jjigae recipe is your go-to for a hearty, satisfying meal that&#39;s a breeze to make.",
+  "servings": "3",
+  "prep_time": "15m",
+  "cook_time": "15m",
+  "total_time": "30m",
+  "ingredient_sections": [
+    {
+      "name": "Meat",
+      "ingredients": [
+        {
+          "quantity": 180,
+          "unit": "g",
+          "ingredient": "skinless pork belly (0.4 pounds), cut into bite size pieces"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "rice wine , sweet (mirin)"
+        },
+        {
+          "quantity": 3,
+          "unit": null,
+          "ingredient": "sprinkles ground black pepper"
+        }
+      ]
+    },
+    {
+      "name": "Kimchi & Others",
+      "ingredients": [
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "aged Kimchi (at least 2 to 3 weeks old), cut into bite size pieces if not already"
+        },
+        {
+          "quantity": 0.25,
+          "unit": null,
+          "ingredient": "small brown onion (30 g / 1 ounce), thinly sliced"
+        },
+        {
+          "quantity": 0.5,
+          "unit": null,
+          "ingredient": "stalk small green onion (5 g / 0.2 ounce), thinly sliced"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "small shiitake mushrooms (50 g / 1.4 ounces), stems removed, thinly sliced"
+        },
+        {
+          "quantity": 150,
+          "unit": "g",
+          "ingredient": "firm tofu (5.3 ounces), sliced into 1cm thickness rectangles, or other shapes you may prefer"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "water"
+        }
+      ]
+    },
+    {
+      "name": "Jjigae base (mix these in a bowl)",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "Korean chili flakes (gochugaru)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Korean chili paste (gochujang)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "minced garlic"
+        },
+        {
+          "quantity": 3,
+          "unit": null,
+          "ingredient": "sprinkles ground black pepper"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Marinate the pork belly with the rice wine and the ground black pepper for about 15 mins.",
+        "Cook the kimchi in a skillet until soft. (Alternatively, you can do this directly in the pot where you’ll make the jjigae, but only if the pot is large enough to maneuver easily.)",
+        "Place the marinated meat at the bottom of the pot. Add all the other ingredients—kimchi, onion, mushrooms, tofu, water, and the base sauce—into the pot, except for the green onion. (I used a clay pot with a capacity of just over 1 liter. I’ve also successfully made this using an 18cm (7-inch) Staub Cocotte without needing the skillet mentioned in the previous step.)",
+        "Bring the pot to a boil over medium-high heat. Once boiling, lower the heat to medium and continue cooking until the meat is completely cooked through, which should take about 10 to 15 minutes from the start of this step. To ensure the sauce is evenly incorporated, gently stir it into the soup using a spoon. Occasionally, spoon some of the broth over the other ingredients to help distribute the flavors. When the meat is done, add the green onion, give it a final gentle mix, and turn off the heat.",
+        "Serve with a bowl of rice and other Korean side dishes."
+      ]
+    }
+  ]
+}

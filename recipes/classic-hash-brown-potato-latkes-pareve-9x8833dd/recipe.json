@@ -1,0 +1,60 @@
+{
+  "name": "Classic Hash Brown Potato Latkes (pareve)",
+  "author": "Sharon Matten - Kosher Everyday",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "Hash Browns (defrosted if frozen)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "medium onion, finely diced"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "large eggs"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "cup",
+          "ingredient": "flour"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "black pepper (to taste)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "salt (optional)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Canola Oil for frying"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a large bowl mix all ingredients until thoroughly combined.",
+        "In a large skillet, heat oil.",
+        "Drop large spoonfuls of potato mixture into the oil and fry until golden brown on both sides.",
+        "Serve warm with apple sauce or sour cream."
+      ]
+    }
+  ]
+}

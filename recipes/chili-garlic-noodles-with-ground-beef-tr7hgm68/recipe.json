@@ -1,0 +1,109 @@
+{
+  "name": "Chili Garlic Noodles with Ground Beef",
+  "author": "Aaron and Claire",
+  "servings": "2 servings",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.25,
+          "unit": null,
+          "ingredient": "yellow onion (optional)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "garlic"
+        },
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "each",
+          "ingredient": "green onions, divided"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "grated ginger"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "each",
+          "ingredient": "English cucumber"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "spaghetti noodles"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tbsp",
+          "ingredient": "neutral-tasting oil"
+        },
+        {
+          "quantity": 250,
+          "unit": "g",
+          "ingredient": "ground beef"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt, to taste"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "toasted sesame oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "Korean chili pepper flakes (gochugaru)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "oyster sauce"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "mirin"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Prep Ingredients",
+      "steps": [
+        "Chop the vegetables: Finely chop the onion (if using) and garlic cloves. Thinly slice the green onions, keeping the whites and greens separate. Grate about ½ teaspoon of ginger. Cut the cucumber into thin matchsticks.",
+        "Make the sauce: Add all the sauce ingredients in a small container and mix well. Set aside."
+      ]
+    },
+    {
+      "name": "Make Chili Garlic Noodles with Ground Beef",
+      "steps": [
+        "Bring a pot of water to a boil. Cook the noodles according to the package instructions. (No need to season the water.)",
+        "Meanwhile, heat the oil in a large wok (or pan) over medium-high heat. Once it gets nice and hot, add the ground beef and spread it out evenly. Season with a pinch of salt and sear for 2 minutes or until the bottom is golden brown. Flip, break up the beef, and stir-fry for another 1 to 2 minutes or until nicely browned.",
+        "Add the onion, white parts of the green onions, garlic, and ginger. Sauté for 1 minute or until fragrant. (If your beef is too lean and doesn’t release much fat, you can add a little more oil or finely chopped bacon.) ",
+        "Add the drained noodles and stir-fry for 1 minute or until they are nicely coated.",
+        "Pour in the sauce and stir-fry for 2 minutes. Turn the heat off. Drizzle with the sesame oil and give it a final mix.",
+        "To serve, divide into two serving bowls or plates. Top with cucumbers and the green parts of the green onions. Enjoy!"
+      ]
+    }
+  ]
+}

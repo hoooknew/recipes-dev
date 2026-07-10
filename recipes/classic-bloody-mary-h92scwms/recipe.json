@@ -1,0 +1,67 @@
+{
+  "name": "Classic Bloody Mary",
+  "author": "Erin Merhar",
+  "description": "Weekend brunches call for this classic Bloody Mary recipe! This spicy, savory cocktail is made with tomato juice, vodka, and other flavorful additions.",
+  "servings": "1 serving(s)",
+  "prep_time": "5m",
+  "total_time": "5m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2.5,
+          "unit": "fl oz",
+          "ingredient": "vodka "
+        },
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "tomato juice"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "lemon juice"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "dashes hot sauce (optional)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "prepared horseradish"
+        },
+        {
+          "quantity": 1,
+          "unit": "pinch",
+          "ingredient": "celery salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "pinch",
+          "ingredient": "ground black pepper"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Leafy celery stalks, cooked bacon, sliced lemon, chopped pickle spears, cherry tomatoes, and green olives, for garnishing"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a tall glass, combine the vodka, tomato juice, lemon juice, Worcestershire sauce, hot sauce, if using, horseradish, celery salt, and pepper. Stir well. Fill the remainder of the glass with ice and stir once again. ",
+        "Garnish with a piece of celery and bacon in the glass and a skewer of chopped pickles, cherry tomatoes, and green olives."
+      ]
+    }
+  ]
+}

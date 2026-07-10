@@ -1,0 +1,146 @@
+{
+  "name": "Cincinnati Chili",
+  "author": "Food Network Kitchen",
+  "servings": "6 to 8 servings",
+  "cook_time": "1h 5m",
+  "total_time": "1h 5m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "vegetable oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "onions, chopped"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "cloves garlic, minced"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "chili powder"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "sweet paprika"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "ground cumin"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground allspice"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ground coriander"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "quantity": {
+            "min": 0.25,
+            "max": 0.5
+          },
+          "unit": "tsp",
+          "ingredient": "cayenne pepper"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "ground cloves"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "lb",
+          "ingredient": "ground beef chuck"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "6-ounce can tomato sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "diced tomatoes"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "bay leaf"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "chopped unsweetened chocolate"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "cider or red wine vinegar"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Freshly ground pepper"
+        },
+        {
+          "quantity": 12,
+          "unit": "oz",
+          "ingredient": "spaghetti"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "19-ounce can kidney beans, drained and rinsed"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "grated cheddar cheese"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Oyster crackers, for serving (optional)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Heat the oil in a medium Dutch oven or heavy pot over medium heat. Add half the chopped onions and the garlic and cook until soft, stirring, about 5 minutes. Add the chili powder, paprika, cumin, allspice, coriander, cinnamon, cayenne and cloves. Cook, stirring, until fragrant. Add the beef and cook the mixture, stirring, until the beef is no longer pink, about 5 minutes. Add 1 tablespoon salt.",
+        "Add the tomato sauce, diced tomatoes, bay leaf and 1 1/2 cups water; simmer the mixture, uncovered, stirring occasionally, until slightly thicker. Add the chocolate, vinegar and Worcestershire and cook until the mixture is thickened but still soupy, about 15 more minutes.",
+        "Meanwhile, bring a large pot of salted water to a boil over high heat. Cook the spaghetti according to the package directions. Drain well.",
+        "Discard the bay leaf and season the chili with the freshly ground pepper. Divide the spaghetti among bowls and top with the chili, beans, remaining onion and cheddar. Serve with the oyster crackers if desired."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "name": "Korean Watermelon Punch (Subak Hwachae)",
+  "author": "Sue Pressey",
+  "description": "Korean watermelon punch (Subak Hwachae) is a light, fruity summer drink that doubles as a refreshing dessert. Quick to make and perfect for hot days!",
+  "servings": "2",
+  "prep_time": "5m",
+  "total_time": "5m",
+  "ingredient_sections": [
+    {
+      "name": "FRUIT",
+      "ingredients": [
+        {
+          "quantity": 420,
+          "unit": "g",
+          "ingredient": "watermelon (15 ounces), balled or small cubed"
+        },
+        {
+          "quantity": 95,
+          "unit": "g",
+          "ingredient": "melon (3.4 ounces), balled or small cubed, optional"
+        },
+        {
+          "quantity": 40,
+          "unit": "g",
+          "ingredient": "pineapple (1.4 ounces), cubed, optional"
+        },
+        {
+          "quantity": 40,
+          "unit": "g",
+          "ingredient": "lemon (1.4 ounces), thinly sliced, optional"
+        },
+        {
+          "quantity": 20,
+          "unit": "g",
+          "ingredient": "blueberries (0.7 ounces), optional"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "fresh mint for decoration, optional"
+        }
+      ]
+    },
+    {
+      "name": "Drink Base - Option 1 (my favourite)",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "sprite"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "watermelon juice"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "ice cubes for extra chilling, optional"
+        }
+      ]
+    },
+    {
+      "name": "Drink Base - Option 2 (my second choice)",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "strawberry flavor milk"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "watermelon juice"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "ice cubes for extra chilling, optional"
+        }
+      ]
+    },
+    {
+      "name": "Drink Base - Option 3 (my third choice)",
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "milk"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "sprite"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "watermelon juice"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "ice cubes for extra chilling, optional"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Add the watermelon and your choice of fruit to a medium-sized punch bowl. Pour in your preferred drink base, such as milk, soda, or juice. Garnish with fresh mint leaves and serve immediately."
+      ]
+    }
+  ]
+}

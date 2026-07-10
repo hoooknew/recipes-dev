@@ -1,0 +1,165 @@
+{
+  "name": "Garam Masala Grilled Chicken",
+  "author": "Joel Mielle",
+  "description": "Smoky, juicy, and full of spice. Grilled, golden, and deeply spiced, these chicken thighs are marinated in garam masala, lemon, and yoghurt for a tender, rich flavour that’s easy to make but tastes restaurant-worthy.",
+  "servings": "Serves 4",
+  "prep_time": "15m plus marination",
+  "cook_time": "12m",
+  "total_time": "2h 27m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 400,
+          "unit": "g",
+          "ingredient": "14oz – 400g boneless chicken thighs (skinless)"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "plain or Greek yoghurt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "garam masala"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground cumin"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "smoked paprika"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "garlic cloves, finely grated"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "Zest and juice of 1 lemon"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "sea salt"
+        }
+      ]
+    },
+    {
+      "name": "For the cucumber salad",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large cucumber, finely sliced"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "each",
+          "ingredient": "small red onion, finely sliced"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "fresh dill or mint leaves"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "lemon juice"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pinch of sea salt"
+        }
+      ]
+    },
+    {
+      "name": "For the yoghurt tahini sauce",
+      "ingredients": [
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "plain or Greek yoghurt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "tahini"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "garlic clove, finely grated"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "lemon juice"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "water (to loosen, if needed)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pinch of sea salt"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Garam Masala Grilled Chicken",
+      "steps": [
+        "In a mixing bowl, add plain or Greek yoghurt, garam masala, cumin, smoked paprika, grated garlic, lemon zest, lemon juice, olive oil, and sea salt. Mix until smooth.",
+        "Add the chicken thighs to the marinade, coat well using clean hands or tongs. Cover and refrigerate for at least 2 hours, or overnight for best flavour.",
+        "Preheat a grill or griddle pan over medium-high heat.",
+        "Grill the marinated chicken thighs for 5 to 6 minutes on each side, or until lightly charred and fully cooked through.",
+        "Remove from the heat and rest the chicken for a few minutes before slicing.",
+        "Serve warm with a fresh cucumber, red onion, and mint salad, or wrap in flatbread with a drizzle of tahini or yoghurt sauce."
+      ]
+    },
+    {
+      "name": "For the Salad",
+      "steps": [
+        "In a mixing bowl, combine sliced cucumber, red onion, and dill or mint leaves.",
+        "Add lemon juice, olive oil, and sea salt. Toss gently and set aside to marinate.",
+        "In a separate bowl, add yoghurt, tahini, grated garlic, lemon juice, olive oil, and sea salt.",
+        "Mix until smooth. Add a splash of water if the sauce is too thick.",
+        "Serve the salad chilled alongside the grilled chicken, or use both in a warm flatbread wrap."
+      ]
+    },
+    {
+      "name": "For the yoghurt tahini sauce",
+      "steps": [
+        "Simply add all ingredients to a mixing bowl and mix well."
+      ]
+    }
+  ],
+  "notes": "If you're short on time, 30 minutes of marinating will still give decent flavour — just increase the spice a little."
+}

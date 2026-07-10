@@ -1,0 +1,55 @@
+{
+  "name": "Mediterranean-Style Mint Lemonade (Limonana)",
+  "description": "Mint lemonade, prepared Egyptian-style! Intense with flavor, frothy, and extremely refreshing! You'll love this limonana, but there is a small trick that makes all the difference.",
+  "servings": "4 -6",
+  "prep_time": "10m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "crushed ice"
+        },
+        {
+          "quantity": 4,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "large lemons (or limes, washed, cut into small pieces, and seeds removed)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "Juice of 1 large lemon"
+        },
+        {
+          "quantity": 1,
+          "unit": "bunch",
+          "ingredient": "fresh mint leaves (stems removed (about 25-40 mint leaves), more for later)"
+        },
+        {
+          "quantity": {
+            "min": 0.5,
+            "max": 0.75
+          },
+          "unit": "cup",
+          "ingredient": "sugar (more or less to your liking (you can use cane sugar or part honey, if you like))"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Add all the ingredients to the pitcher of a high-quality blender. Cover and push blend or liquefy (high-speed function), until you achieve the desired drink consistency.",
+        "Taste and add more sugar or mint leaves, if you like. Blend again.",
+        "Pour the lemonade into a serving pitcher through a mesh strainer. Add fresh mint leaves to the pitcher. Cover and refrigerate until you are ready to serve.",
+        "If you like, strain the lemonade again as you pour into serving glasses. Enjoy cold!"
+      ]
+    }
+  ]
+}

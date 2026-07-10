@@ -1,0 +1,65 @@
+{
+  "name": "Authentic Chimichurri (Uruguay & Argentina)",
+  "description": "Authentic Chimichurri from Uruguay & Argentina is the best accompaniment to any barbecued or grilled meats! Also used to serve as a dressing on salads.",
+  "servings": "8 people (as a side)",
+  "prep_time": "10m",
+  "total_time": "10m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "red wine vinegar"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "parsley (finely chopped)"
+        },
+        {
+          "quantity": {
+            "min": 3,
+            "max": 4
+          },
+          "unit": "each",
+          "ingredient": "cloves garlic (finely chopped or minced)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "red chilies (small, or 1 red chili, deseeded and finely chopped (about 1 tablespoon finely chopped chili))"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "tsp",
+          "ingredient": "dried oregano"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "coarse salt (level)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "pepper (to taste (about 1/2 teaspoon))"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Mix all ingredients together in a bowl. Allow to sit for 5-10 minutes to release all of the flavours into the oil before using. Ideally, let it sit for more than 2 hours, if time allows.",
+        "Chimichurri can be prepared earlier than needed, and refrigerated for 24 hours, if needed.",
+        "Use to baste meats (chicken or steaks) while grilling or barbecuing. We don't use it as a marinade, but choose to baste our meats with chimichurri instead. However, you can use it as a marinade if you wish. Also, add a couple of tablespoons over your steak to serve."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Sous Vide Turkey Roulade",
+  "author": "Emily Farris and Jeff Akin",
+  "description": "A roulade is a filled rolled meat or pastry (in this case, of course, it’s meat). The term comes from the French word “rouler” meaning “to roll.” For this turkey roulade, you roll herbs and garlic in turkey breast before it goes into the Anova Sous Vide Precision Cooker for three hours.",
+  "servings": "Serves 6",
+  "prep_time": "15m",
+  "cook_time": "3h",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": null,
+          "ingredient": "full turkey breast (both sides of one bird), divided into 2 breast pieces"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "orange zest"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "lemon zest"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "minced fresh parsley"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "freshly ground black pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "minced fresh thyme"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "minced fresh rosemary"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "minced garlic"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Set the Anova Sous Vide Precision Cooker to 145°F (62°C).",
+        "Season the inner side of each breast with the salt, orange zest, lemon zest, parsley, black pepper, thyme, rosemary, and garlic. ",
+        "Align the two breasts, fat end to skinny end, with the seasoned sides facing inward. Form the turkey into a compact cylinder and tie with butcher’s twine to secure. ",
+        "Place the roll in a large zipper lock or vacuum seal bag. Seal the bag using the water immersion technique or a vacuum sealer on the dry setting. Place in the water bath and set the timer for 3 hours."
+      ]
+    },
+    {
+      "name": "Finishing Steps",
+      "steps": [
+        "When the timer goes off, remove the bag from the water bath. Remove the turkey from the bag. Cut and discard the twine.",
+        "Slice turkey into 1/2-inch-thick pieces. Serve."
+      ]
+    }
+  ]
+}

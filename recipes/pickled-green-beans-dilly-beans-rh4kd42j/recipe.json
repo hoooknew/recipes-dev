@@ -1,0 +1,77 @@
+{
+  "name": "Pickled Green Beans (Dilly Beans)",
+  "author": "The Rustic Elk",
+  "description": "Easy recipe with the perfect amount of brine and spice these pickled green beans can be made into quick pickles by refrigerating or taking it a step further and canning for a shelf stable side dish or the perfect addition to salads or cocktails.",
+  "servings": "6",
+  "prep_time": "10m",
+  "cook_time": "10m",
+  "total_time": "20m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "Canning Salt (sub Kosher salt)"
+        },
+        {
+          "quantity": 3,
+          "unit": "cup",
+          "ingredient": "White Vinegar (sub 5% apple cider vinegar)"
+        },
+        {
+          "quantity": 3,
+          "unit": "cup",
+          "ingredient": "Water"
+        },
+        {
+          "quantity": 4.5,
+          "unit": "lb",
+          "ingredient": "Green beans, stems removed and trimmed into jar-length pieces"
+        },
+        {
+          "quantity": 3,
+          "unit": "tsp",
+          "ingredient": "Dill Seeds (divided, can sub sprigs of fresh dill)"
+        },
+        {
+          "quantity": 3,
+          "unit": "tsp",
+          "ingredient": "Mustard Seeds (divided)"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "Red Pepper Flakes (divided)"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "Black Peppercorns"
+        },
+        {
+          "quantity": {
+            "min": 6,
+            "max": 12
+          },
+          "unit": "each",
+          "ingredient": "Cloves Garlic"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Wash jars and lids in hot soapy water, prepare the water bath canner, and place jars filled with 2/3rds water into the prepared canner and heat to 180°F if canning. If you're not canning, just wash the glass jars you're going to use.",
+        "Prepare the brine by combining salt, vinegar, and water in a medium saucepan and bringing the mixture to a boil over medium heat. Continue boiling until salt is dissolved, then reduce heat to keep the brine hot.",
+        "Meanwhile, prepare the beans by washing them, removing the stem end, and trimming them to fit into the jars length-wise allowing for 1/2\" of headspace. Prepare the garlic by peeling 6-12 cloves.",
+        "Pack the jars by placing 1/2 teaspoon each of dill seeds (or a sprig of fresh dill) and mustard seeds, a quarter teaspoon each of red pepper flakes and black peppercorns, and 1 to 2 cloves of garlic in the bottom of the prepared jar. Then, tightly pack the green beans in lengthwise.",
+        "After the jars are packed, pour the prepared brine over the ingredients, leaving 1/2\" of headspace. Remove any air bubbles and adjust for proper headspace if necessary.",
+        "If making quick pickles, simply lid the prepared jars, allow them to come to room temperature and then place in the refrigerator for a minimum of 3 days before enjoying. Seven days will provide more flavor.",
+        "If canning, wipe jar rims, center the lid, tighten screw bands to finger tight and place in the prepared boiling water bath canner. Make sure the jars are covered by at least 2\" of water, place the lid on the canner and bring it to a boil over high heat. Once boiling, process pint jars for 10 minutes, adjusting processing time for altitude if necessary.",
+        "After processing, turn off the heat and remove the lid and allow the jars to sit in the canner for 5 minutes before removing to a towel-lined counter. Leave the jars undisturbed for 12 to 24 hours before checking for proper seals. Remove the bands of the proper sealed jars and store them for up to 18 months."
+      ]
+    }
+  ]
+}

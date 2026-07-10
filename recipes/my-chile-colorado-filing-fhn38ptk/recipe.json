@@ -1,0 +1,107 @@
+{
+  "name": "My Chile Colorado filing",
+  "description": "The easiest yet the most delicious tamales, this recipe is a different and fun way to enjoy tamales that takes half of the time.",
+  "ingredient_sections": [
+    {
+      "name": "My Chile Colorado filing",
+      "ingredients": [
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "lb",
+          "ingredient": "chuck beef tender roast"
+        },
+        {
+          "quantity": 12,
+          "unit": "each",
+          "ingredient": "New Mexico chile pods"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "chile anchos"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "each",
+          "ingredient": "onion"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "garlic cloves"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "cumin seeds"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "oregano"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Salt"
+        }
+      ]
+    },
+    {
+      "name": "masa",
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "cup",
+          "ingredient": "instant corn masa for tamales"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "lard or shortening"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "quantity": 6,
+          "unit": "cup",
+          "ingredient": "liquid (3 cups broth add 3 cups water)❗️you can use all 6 cups of broth but warning!!!! masa will be extra oily, to prevent that use less shortening"
+        },
+        {
+          "quantity": 1,
+          "unit": null,
+          "ingredient": "serving of love 💕"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Cook meat in a pressure cooker with salt, peppercorn, onion, garlic, and bay leaf covered with water on high for 50 minutes.",
+        "Remove meat from the pot and shred. Remove bay leaf, onion, and garlic.",
+        "Soak clean chile pods (ancho and New Mexico) in broth for 5 minutes.",
+        "Transfer softened chilies to a blender, strain the broth.",
+        "Add onion, garlic cloves, cumin, oregano, and 3 cups of broth to the blender and blend until smooth.",
+        "Heat oil in a pot and add the sauce (strain if needed). Bring to a simmer.",
+        "Add shredded meat to the sauce and cook for 10 minutes. Set aside to cool.",
+        "Beat 8 oz lard in a mixer on medium speed for 5 minutes.",
+        "Add 2 teaspoons baking powder and salt, then alternate adding masa and beef broth until incorporated.",
+        "Beat on medium-high speed for 15 minutes.",
+        "Perform a float test with a small amount of masa in water; let rest for 20 minutes.",
+        "Lightly grease a Bundt pan and add half of the masa, spreading evenly.",
+        "Create a hole in the masa with a spatula and place the filling inside.",
+        "Cover with the remaining masa and top with pre-soaked corn husks.",
+        "Cover with foil and steam over medium heat for 55 minutes.",
+        "Rest for 15 to 20 minutes before flipping onto a serving plate."
+      ]
+    }
+  ],
+  "notes": "Tip** Taste the masa for salt after adding all the ingredients, Make sure your masa floats, by doing so, you will make sure your tamales are soft, moist and fluffy! Serve and enjoy as soon as you flip over, to store, wrap in plastic wrap! Oil the Bundt pan with lard to prevent the masa from drying out!!!!!"
+}

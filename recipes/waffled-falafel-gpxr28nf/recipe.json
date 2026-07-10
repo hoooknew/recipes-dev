@@ -1,0 +1,94 @@
+{
+  "name": "Waffled Falafel",
+  "author": "The Gruntled Gourmand",
+  "description": "Waffled falafel is a delicious twist on a classic. Falafel is cooked on a waffle iron to make a fun way to enjoy this favorite to serve with toppings.",
+  "servings": "4",
+  "prep_time": "15m",
+  "cook_time": "15m",
+  "total_time": "30m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "cooking spray"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "15 ounce cans garbanzo beans (chickpeas), drained and rinsed"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "medium onion, chopped"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "large egg whites"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "chopped fresh cilantro"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "chopped fresh parsley"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "cloves roasted garlic, or more to taste"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tbsp",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "ground cumin"
+        },
+        {
+          "quantity": 1.75,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground coriander"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "ground black pepper"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "cayenne pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "pinch",
+          "ingredient": "ground cardamom"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Preheat a waffle iron according to manufacturer's instructions. Spray the inside of the waffle iron with cooking spray.",
+        "Process garbanzo beans in a food processor until coarsely chopped. Add onion, egg whites, cilantro, parsley, garlic, flour, cumin, salt, coriander, black pepper, cayenne pepper, and cardamom to garbanzo beans. Pulse, scraping down the sides of the bowl occasionally, until falafel batter resembles a coarse meal. Pour batter into a bowl and stir with a fork.",
+        "Spoon about 1/4 cup falafel batter onto each section of the preheated waffle iron. Cook until evenly browned, about 5 minutes. Repeat with remaining batter."
+      ]
+    }
+  ]
+}

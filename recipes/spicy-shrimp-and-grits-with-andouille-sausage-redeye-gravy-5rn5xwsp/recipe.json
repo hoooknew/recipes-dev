@@ -1,0 +1,131 @@
+{
+  "name": "Spicy Shrimp and Grits with Andouille Sausage Redeye Gravy",
+  "author": "Food Network",
+  "servings": "4 entrees or 8 appetizers",
+  "cook_time": "40m",
+  "total_time": "1h 25m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "canola oil"
+        },
+        {
+          "quantity": 8,
+          "unit": "oz",
+          "ingredient": "andouille sausage, sliced into 1/4-inch rounds"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "large shallots, medium dice"
+        },
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "garlic, thinly sliced"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "Creole or Cajun spice mix"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "chicken stock or broth"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "strong brewed coffee"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "Tabasco sauce"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "lb",
+          "ingredient": "shrimp, peeled and deveined"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Cheesy Grits, recipe follows"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Green onions, chopped, for garnish"
+        }
+      ]
+    },
+    {
+      "name": "Cheesy Grits",
+      "ingredients": [
+        {
+          "quantity": 2.5,
+          "unit": "cup",
+          "ingredient": "whole milk"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "kosher salt, plus more for seasoning"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground black pepper, plus more for seasoning"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "quick-cooking grits"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "shredded sharp Cheddar"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Heat the oil in a 12-inch skillet over medium-high heat. Add the andouille sausage, shallots, garlic and 1 teaspoon Creole spice mix and cook until the shallots become translucent and the sausage browns, 10 to 12 minutes.",
+        "Add the chicken stock, coffee, Worcestershire sauce and Tabasco sauce to the skillet and bring to a boil. Add the butter, reduce the heat and simmer until reduced by one-third. Add the shrimp and remaining teaspoon Creole spice mix and simmer until the shrimp are just cooked through, 5 to 6 minutes. ",
+        "Divide the cheesy grits among bowls and top with the shrimp and redeye gravy. Garnish with the green onions."
+      ]
+    },
+    {
+      "name": "Cheesy Grits",
+      "steps": [
+        "Combine the milk, butter, salt, pepper and 2 1/2 cups water in a 4-quart saucepan over high heat. Just before the mixture comes to a boil, slowly add the grits, stirring constantly to avoid clumps. Turn the heat to low and cook for 15 minutes, stirring occasionally. Stir in the Cheddar until completely melted. Adjust seasoning if necessary. If the grits are a little thick, add more water until the desired consistency is reached. Cover and keep warm."
+      ]
+    }
+  ],
+  "tags": [
+    "favorite"
+  ]
+}

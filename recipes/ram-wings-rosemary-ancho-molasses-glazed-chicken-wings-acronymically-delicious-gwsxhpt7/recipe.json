@@ -1,0 +1,112 @@
+{
+  "name": "Ram Wings (Rosemary, Ancho, Molasses Glazed Chicken Wings) – Acronymically Delicious",
+  "author": "Chef John",
+  "description": "Overly contrived recipes are usually a bad idea, but these rosemary, ancho, and molasses glazed chicken wings really did come out very well, despite the fact that those ingredients were only chosen because they spelled out the word, “ram.”",
+  "servings": "4 large portions",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2.5,
+          "unit": "lb",
+          "ingredient": "chicken wing sections"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "vegetable oil"
+        },
+        {
+          "quantity": 3,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "finely minced rosemary"
+        },
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "tbsp",
+          "ingredient": "ground ancho chili powder, or other chili powder*"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "cayenne"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "white distilled vinegar"
+        },
+        {
+          "quantity": {
+            "min": 1,
+            "max": 2
+          },
+          "unit": "tbsp",
+          "ingredient": "molasses (can substitute maple syrup, honey, or brown sugar)"
+        }
+      ]
+    },
+    {
+      "name": "For the finishing glaze (use a clean bowl)",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "molasses"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "honey"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ancho chili powder"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "pinch of cayenne"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "pinch of salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "fresh juiced lime"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Bake at 400 F. for 45 minutes or until the bones come out clean"
+      ]
+    },
+    {
+      "name": "For the finishing glaze (use a clean bowl)",
+      "steps": [
+        "2 teaspoons molasses",
+        "1 tablespoon honey",
+        "1 teaspoon ancho chili powder",
+        "pinch of cayenne",
+        "pinch of salt",
+        "1 fresh juiced lime"
+      ]
+    }
+  ],
+  "notes": "* If you can't find ancho chili powder, you can use 4 parts paprika mixed with 1 part ground chipotle."
+}

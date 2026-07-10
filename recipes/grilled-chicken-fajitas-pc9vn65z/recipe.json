@@ -1,0 +1,78 @@
+{
+  "name": "Grilled Chicken Fajitas",
+  "description": "These delicious marinated and Grilled Chicken Fajitas are made with juicy chicken and tender, smoky peppers and onions.",
+  "servings": "4",
+  "prep_time": "15m",
+  "cook_time": "6m",
+  "total_time": "2h 21m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "extra virgin olive oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "lime juice (freshly squeezed)"
+        },
+        {
+          "quantity": {
+            "min": 3,
+            "max": 4
+          },
+          "unit": "each",
+          "ingredient": "garlic (minced)"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "fajita seasoning (homemade or store-bought)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "fresh cilantro (chopped)"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "lb",
+          "ingredient": "chicken breasts (sliced lengthwise into cutlets)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "bell peppers (red and yellow)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large onion (white or yellow)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Tortillas (for serving)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a bowl or a ziptop bag, mix together 3 tablespoons olive oil, soy sauce, lime juice, garlic, 2 tablespoons fajita seasoning, and chopped cilantro to make the marinade.",
+        "Add the chicken to the marinade, and mix until it’s well coated. Seal the bag or cover the bowl, place in the fridge and allow to marinate for 2-24 hours.",
+        "Core and slice the bell peppers in halves, and the onions in quarters keeping them intact. Drizzle the remaining olive oil all over them, and sprinkle the fajita seasoning.",
+        "Peheat the grill to medium-high heat then clean and oil the grill grates. Remove the chicken from the marinade, and place on the grill along with the vegetables, and cook for 3 minutes, then flip and cook for 3 more minutes or until the internal temperature of the chicken reaches 165°F/74°C with an Instant read thermometer.",
+        "Remove from the grill onto a clean dish, allow to cool for 5 minutes then slice and serve with warm tortillas and your favorite toppings."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Brown Sugar and Cinnamon Steel Cut Oats (in the Instant Pot)",
+  "description": "Perfectly cooked every time! This easy brown sugar and cinnamon steel cut oat recipe is a classic that all ages enjoy.",
+  "servings": "6 servings",
+  "prep_time": "5m",
+  "cook_time": "22m",
+  "total_time": "27m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "butter (optional, for toasting the oats; sub coconut oil or avocado oil)"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "steel cut oats (look for gluten-free variety, if needed)"
+        },
+        {
+          "quantity": 4.5,
+          "unit": "cup",
+          "ingredient": "water (sub: any kind of milk)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "brown sugar (packed; sub: coconut sugar or maple syrup)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Optional: If you’d like to toast the oats, set the 6-quart Instant Pot to “Sauté.” Place the butter in the pot. When the butter has melted, add the oats and cook, stirring often, for about 5 minutes, until fragrant. Press “Cancel.”",
+        "Add water or milk, salt, brown sugar, and cinnamon to the pot and stir. Make sure all the oats are submerged in the liquid.",
+        "Lock and seal the lid. Cook at high pressure for 12 minutes. Allow the pressure to release naturally for 10 minutes, then quick release the remaining pressure. When you open the pot, you’ll notice there is excess liquid. Give it a stir to incorporate.",
+        "Stir in additional milk to reach the desired consistency. Serve with your favorite toppings (see ideas in the article above)."
+      ]
+    }
+  ]
+}

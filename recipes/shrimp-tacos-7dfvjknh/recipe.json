@@ -1,0 +1,97 @@
+{
+  "name": "Shrimp Tacos",
+  "author": "Ali",
+  "description": "This easy shrimp tacos recipe is made with zesty shrimp, cilantro lime coleslaw, sliced avocado and a spicy chipotle crema.  See notes above for possible recipe variations and shortcuts too.",
+  "servings": "8 to 10 tacos",
+  "prep_time": "35m",
+  "cook_time": "5m",
+  "total_time": "40m",
+  "ingredient_sections": [
+    {
+      "name": "Shrimp Taco Ingredients:",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": null,
+          "ingredient": "batch cilantro lime slaw"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "large shrimp peeled and deveined"
+        },
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "tbsp",
+          "ingredient": "taco seasoning"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "fine sea salt and freshly-cracked black pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "avocado oil (or olive oil)"
+        },
+        {
+          "quantity": {
+            "min": 8,
+            "max": 10
+          },
+          "unit": "each",
+          "ingredient": "flour tortillas (or corn tortillas)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "avocados peeled, pitted and thinly-sliced"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "optional toppings: chopped fresh cilantro chopped red or white onion, sliced jalapeño or serrano peppers, crumbled cotija cheese, and/or lime wedges"
+        }
+      ]
+    },
+    {
+      "name": "Chipotle Crema Ingredients:",
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "plain Greek yogurt (or mayo)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "chipotle chile in adobo sauce (or 1/2 teaspoon chipotle powder)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "lime juice"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "fine sea salt"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Prep the slaw and crema: Prepare the cilantro lime slaw according to instructions. Combine all of the chipotle crema ingredients in a blender and pulse until smooth.*",
+        "Cook the shrimp. In a mixing bowl, toss the shrimp with the taco seasoning, plus a generous pinch of salt and black pepper, until evenly coated.  Heat oil in a large non-stick sauté pan over medium-high heat.  Cook the shrimp for 3 to 4 minutes, flipping once, until they are opaque and cooked through.  Transfer to a clean plate and set aside.",
+        "Assemble the tacos: Fill each flour tortillas with a generous serving of the slaw, a few slices of avocado, a few shrimp, a drizzle of chipotle crema and sprinkle of your favorite toppings.",
+        "Serve. Serve warm and enjoy!"
+      ]
+    }
+  ]
+}

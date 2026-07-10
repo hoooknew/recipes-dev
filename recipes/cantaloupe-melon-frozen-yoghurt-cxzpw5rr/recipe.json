@@ -1,0 +1,38 @@
+{
+  "name": "Cantaloupe Melon Frozen Yoghurt",
+  "description": "This cantaloupe melon frozen yoghurt makes a delicious refreshing summer dessert or snack. It's perfect as a cool sweet treat for hot days and has only 3 ingredients too!",
+  "servings": "4",
+  "prep_time": "10m",
+  "total_time": "30m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 300,
+          "unit": "g",
+          "ingredient": "cantaloupe melon (skin and seeds remove, cubed)"
+        },
+        {
+          "quantity": 40,
+          "unit": "g",
+          "ingredient": "runny honey"
+        },
+        {
+          "quantity": 250,
+          "unit": "ml",
+          "ingredient": "natural Greek yoghurt"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Blend the melon in a food processor or with a stick blender.&nbsp; &nbsp;",
+        "Mix in the yoghurt and then the honey.   You may need a little more or less depending on how sweet you want the frozen yoghurt to be.   Keep tasting and add more or less if necessary.",
+        "Pour into an ice cream maker and leave to churn.   Alternatively, look at the method here if you don't have an ice cream maker.",
+        "When you're ready to serve, take it out of the freezer for 10 minutes before scooping as it freezes quite hard."
+      ]
+    }
+  ]
+}

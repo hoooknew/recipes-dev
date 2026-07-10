@@ -1,0 +1,112 @@
+{
+  "name": "CHICKEN TIKKA MASALA WITH BASMATI RICE",
+  "description": "With the pot-in-pot method, you can cook Indian-style chicken and a bowl of steamed rice in the Instant Pot, all at the same time. Tender chunks of chicken are napped with a creamy, well-spiced (but not too spicy) sauce.",
+  "servings": "6",
+  "prep_time": "20m",
+  "cook_time": "30m",
+  "total_time": "1h",
+  "ingredient_sections": [
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "plain yogurt (page 32)"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "garlic cloves, minced"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "garam masala"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "sweet paprika"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ground turmeric"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "cayenne pepper (optional)"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        }
+      ]
+    },
+    {
+      "name": "IngRedients",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "lb",
+          "ingredient": "boneless, skinless chicken breasts or tenders, cut into 1-inch pieces"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "basmati rice"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "ghee (page 291) or coconut oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "15-ounce can tomato sauce"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "heavy cream or coconut cream"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "chopped fresh cilantro"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Warmed naan for serving"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a medium bowl, combine the marinade ingredients and stir to mix. Add the chicken and stir to evenly coat. Cover and let stand at room temperature for 15 to 20 minutes, or refrigerate for up to 6 hours.",
+        "While the chicken is marinating, in a 1½-quart stainless-steel bowl, combine the rice, 1½ cups of the water, and the remaining ½ teaspoon salt and stir to mix.",
+        "Select the Sauté setting on the Instant Pot and heat the ghee. Add the chicken in an even layer and pour the marinade over top. Cook for about 3 minutes, until the chicken is beginning to turn opaque, then stir and continue to cook for about 2 minutes more, until mostly opaque. It's fine if the chicken is not fully cooked through.",
+        "Pour in the tomato sauce and remaining ½ cup water and stir to combine. Place a tall steam rack in the pot, making sure all of its legs are resting firmly on the bottom. Place the bowl of rice on top of the rack. (The bowl should fit inside the pot and not touch the lid when the pot is closed.)",
+        "Secure the lid and set the Pressure Release to Sealing. Press the Cancel button to reset the cooking program, then select the Pressure Cook or Manual setting and set the cooking time for 10 minutes at high pressure. (The pot will take about 10 minutes to come up to pressure before the cooking program begins.)",
+        "Let the pressure release naturally for 10 minutes, then move the Pressure Release to Venting to release any remaining steam. Open the pot and, wearing heat-resistant mitts, remove the bowl and rack from the pot.",
+        "Press the Cancel button to reset the cooking program and select the Sauté setting. Stir the cream into the chicken mixture and cook for about 5 minutes, until the sauce is slightly thickened. Press the Cancel button to turn off the pot.",
+        "Transfer the chicken to a serving bowl and sprinkle with cilantro. Fluff the rice with a fork and serve alongside the chicken, with the naan."
+      ]
+    }
+  ],
+  "tags": [
+    "favorite"
+  ]
+}

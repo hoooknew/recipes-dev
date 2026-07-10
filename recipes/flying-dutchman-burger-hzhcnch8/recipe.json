@@ -1,0 +1,117 @@
+{
+  "name": "Flying Dutchman Burger",
+  "servings": "1 burger, plus extra sauce and onions",
+  "ingredient_sections": [
+    {
+      "name": "Burger",
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "oz",
+          "ingredient": "ground beef, preferably 80/20"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "slices American cheese"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "burger bun, optional"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Mustard"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt and pepper"
+        }
+      ]
+    },
+    {
+      "name": "Grilled Onions",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "yellow or brown onion"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Neutral oil, such as vegetable or canola oil"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt"
+        }
+      ]
+    },
+    {
+      "name": "Special Sauce",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "mayonnaise"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "ketchup"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "dill or sweet relish"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt and pepper, to taste"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Special Sauce",
+      "steps": [
+        "Make the special sauce by combining all the ingredients in a bowl. Taste and adjust seasoning, then store in the fridge."
+      ]
+    },
+    {
+      "name": "Prep",
+      "steps": [
+        "Cut the onion into whole onion slices. Be gentle so the individual onion rings do not separate.",
+        "Weigh out two 2 oz portions of ground beef and form them into patties about the same size as your bun. You can use a cookie cutter, smash them with a spatula between burger paper or parchment paper, or shape them by hand."
+      ]
+    },
+    {
+      "name": "Burgers",
+      "steps": [
+        "Heat a large skillet or griddle over medium heat. Add some oil, then add 2 onion slices. Cook them for a few minutes, then gently flip. Repeat until they are nicely browned. Remove from the pan.",
+        "Add the beef patties to the pan or griddle and season with salt and pepper. Cook for about 3 minutes. Right before flipping, squirt them with mustard. Flip, then add a slice of American cheese to each patty. Squirt a little water into the pan, cover, and let the cheese melt for about 1 minute. Remove from heat.",
+        "Sandwich the burger patties between the two grilled onion slices. Wrap in parchment or burger paper if possible. Add a dollop of sauce between each bite.",
+        "To add buns, dry toast them in a pan, then add some sauce to each bun, followed by the onion-wrapped Flying Dutchman.",
+        "Enjoy."
+      ]
+    }
+  ],
+  "notes": "https://theeburgerdude.com/flying-dutchman-burger/\n\nOriginal recipe is vegan"
+}

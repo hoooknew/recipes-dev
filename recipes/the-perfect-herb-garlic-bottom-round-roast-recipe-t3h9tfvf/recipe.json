@@ -1,0 +1,46 @@
+{
+  "name": "The Perfect Herb & Garlic Bottom Round Roast Recipe",
+  "description": "This  Perfect Herb & Garlic Bottom Round Roast Recipe is a simple three ingredient roast beef recipe with a simple method of cooking the BEST roast ever!",
+  "servings": "6",
+  "prep_time": "5m",
+  "cook_time": "1h 35m",
+  "total_time": "2h 40m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": null,
+          "ingredient": "four  pound beef bottom round roast"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "rosemary"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "minced garlic"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Preheat the oven to 500 degrees Fahrenheit.",
+        "Pat the bottom round roast dry with paper towels to allow the butter mixture to stick.",
+        "Place the roast in an oven safe skillet. Combine butter, rosemary and minced garlic. Spread the mixture by hand over the roast covering as much as you can.",
+        "Place the roast in the oven, close the oven door and reduce the temperature to 475 degrees Fahrenheit.",
+        "Roast for 7 minutes per pound and then turn the oven off completely (keeping the oven door closed).",
+        "After 1 hour, turn the oven on to 200 degrees Fahrenheit and cook for approximately 1 hour or until the internal temperature of your roast reaches your desired temperature (rare, medium, etc)."
+      ]
+    }
+  ]
+}

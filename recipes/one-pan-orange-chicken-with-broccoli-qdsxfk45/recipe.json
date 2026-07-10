@@ -1,0 +1,126 @@
+{
+  "name": "One-Pan Orange Chicken with Broccoli",
+  "description": "Adapted from the provided transcript: a no-deep-fry, food-court-style orange chicken made in one pan with lots of broccoli instead of rice.",
+  "servings": "2",
+  "ingredient_sections": [
+    {
+      "name": "Chicken and broccoli",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "boneless, skinless chicken thighs"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt, to taste"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "Cornstarch, enough to coat chicken well, about ½ cup"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "large broccoli crowns, cut into florets"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Avocado oil or another neutral high-heat oil"
+        }
+      ]
+    },
+    {
+      "name": "Sauce",
+      "ingredients": [
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "each",
+          "ingredient": "garlic cloves, minced"
+        },
+        {
+          "quantity": 1,
+          "unit": "inch",
+          "ingredient": "piece fresh ginger, minced"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large orange, zested and juiced"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "Use 2 oranges if yours are small"
+        },
+        {
+          "quantity": {
+            "min": 3,
+            "max": 4
+          },
+          "unit": "tbsp",
+          "ingredient": "Soy sauce, to taste, about 3–4 tablespoons total"
+        },
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "tbsp",
+          "ingredient": "Rice vinegar, to taste, about 2–3 tablespoons"
+        },
+        {
+          "quantity": 50,
+          "unit": "g",
+          "ingredient": "¼ cup / 50 g granulated sugar"
+        },
+        {
+          "quantity": {
+            "min": 1,
+            "max": 2
+          },
+          "unit": "tsp",
+          "ingredient": "cornstarch, extra, for thickening as needed"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Chili flakes, to taste"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Steam the broccoli.",
+        "Heat a large 12-inch pan over high heat. Add a thin film of water, then add the broccoli. Cover loosely and steam for about 5 minutes, until just barely fork-tender.",
+        "Shock the broccoli.",
+        "Transfer the broccoli to a bowl and rinse or soak with cold running water to stop the cooking. Leave it in the water until needed, then drain before adding it back to the pan.",
+        "Prepare the chicken.",
+        "Cut the chicken thighs into large bite-size chunks. Season with salt, then coat thoroughly with cornstarch. The pieces should feel dry and powdery, not wet or sticky.",
+        "Crisp the chicken.",
+        "Heat the same pan until very hot. Add a generous film of oil. Add the chicken pieces one by one, leaving excess cornstarch behind. Let them form a crust before nudging or stirring. Stir-fry for about 8 minutes, until deeply browned and crispy in spots. The chicken does not need to be fully cooked yet.",
+        "Add aromatics.",
+        "Add the garlic and ginger to the pan. Stir for about 1 minute, just until softened and fragrant.",
+        "Build the sauce.",
+        "Add an initial splash of soy sauce, rice vinegar, the orange juice, and the sugar. Stir well, scraping up browned bits from the pan.",
+        "Add broccoli.",
+        "Drain the broccoli and add it to the pan. A little clinging water is fine; it helps loosen the sauce and prevents the sugar from burning.",
+        "Adjust and thicken.",
+        "Taste the sauce. Add more soy sauce for saltiness or more rice vinegar for brightness. If the sauce is too thin, sprinkle 1–2 teaspoons cornstarch over the chicken and broccoli, then stir aggressively until the sauce thickens.",
+        "Finish.",
+        "Add chili flakes. Turn off the heat. Sprinkle the orange zest over the top, let it sit briefly, then stir it in right before serving. This keeps the zest from becoming bitter.",
+        "Serve.",
+        "Serve as-is for a lower-carb meal, or with rice if desired."
+      ]
+    }
+  ],
+  "notes": "Cut the chicken larger than you think you need; it shrinks as it cooks.\nChicken thighs are forgiving and work better here than breast meat.\nThe cornstarch coating gives a crisp, almost battered texture without deep-frying.\nAdd the orange zest at the very end to preserve fresh orange flavor and avoid bitterness.\n\nhttps://www.youtube.com/watch?v=zc63e7ZKUrg"
+}

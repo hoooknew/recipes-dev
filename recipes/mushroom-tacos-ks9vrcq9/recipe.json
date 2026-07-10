@@ -1,0 +1,123 @@
+{
+  "name": "Mushroom Tacos",
+  "author": "Lauren Allen",
+  "description": "Take off the meat and turn up the heat with this kicky Mushroom Tacos recipe made with portobello mushrooms, jalapeños, onion, and garlic. Serve on warm corn or flour tortillas and top off with black beans, corn, and creamy avocado. Garnish with tangy cilantro.",
+  "servings": "Serves 4",
+  "prep_time": "10m",
+  "cook_time": "15m",
+  "total_time": "25m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "olive oil, divided"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "Portobello mushroom caps, stems removed, or 1 lb cremini mushrooms or shitake mushrooms, chopped"
+        },
+        {
+          "quantity": 0.5,
+          "unit": null,
+          "ingredient": "onion, chopped"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "fresh jalapeño pepper, minced, (remove the seeds and veins for less heat)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "garlic cloves, minced"
+        },
+        {
+          "quantity": {
+            "min": 1,
+            "max": 2
+          },
+          "unit": "tbsp",
+          "ingredient": "taco seasoning, to taste"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "each",
+          "ingredient": "lime"
+        },
+        {
+          "quantity": {
+            "min": 4,
+            "max": 8
+          },
+          "unit": null,
+          "ingredient": "warm corn or flour tortillas, for serving"
+        }
+      ]
+    },
+    {
+      "name": "Topping ideas:",
+      "ingredients": [
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "fresh cilantro"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salsa or pico de gallo"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Cheese, (cotija, Mexican blend, oaxaca)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "bell peppers, sautéed"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "cabbage, or lettuce, Shredded"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "black beans, warmed"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "corn, warmed"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "avocado"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Hot sauce"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Use a spoon to scrape off the gills from the portobello mushrooms and slice into long thin pieces.",
+        "In a large skillet, heat the oil over medium heat. Once the oil is hot, add the onion and jalapeños. Sauté for 5 minutes. Add garlic and cook for 30 seconds.",
+        "Add mushrooms to a bowl and toss with 1 tablespoon of oil, a sprinkle of lime juice, and taco seasoning.",
+        "Raise the skillet heat to medium high and add the mushrooms. Cook, stirring only occasionally, for about 10 minutes.",
+        "Warm the tortillas. Add mushroom filling inside each tortilla and desired toppings."
+      ]
+    }
+  ],
+  "notes": "Mushrooms: Portobello mushrooms are preferred for tacos as they are “meatier” in texture, where cremini mushrooms get really soft when cooked.\n\nGrilled Mushroom Tacos: Leave the portobellos whole, and no need to remove the gills. Prepare as directed above and grill over medium high heat for 4-5 minutes on each side. Then slice into strips for serving."
+}

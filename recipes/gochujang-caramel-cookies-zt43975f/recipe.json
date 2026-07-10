@@ -1,0 +1,79 @@
+{
+  "name": "Gochujang Caramel Cookies",
+  "author": "John Mitzewich",
+  "description": "These gochujang caramel cookies, adapted from a sugar cookie marbled with Korean chili paste and invented by cookie genius Eric Kim of the New York Times, are spicy-sweet, savory, and have the perfect chewy texture.",
+  "servings": "18 cookies",
+  "prep_time": "15m",
+  "cook_time": "15m",
+  "total_time": "1h 5m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 8,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter, softened, divided"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "rounded tablespoon gochujang (Korean chili paste)"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "white sugar"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "baking soda"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large egg, room temperature"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Mix 1 tablespoon butter with brown sugar and gochujang in a small bowl to form a paste; set aside.",
+        "Add white sugar, salt, baking soda, cinnamon, vanilla extract, egg, and remaining 7 tablespoons butter into a bowl. Use an electric hand mixer, whisk, or a spatula to mix everything until light and fluffy. Add flour; use a spatula to mix until the flour disappears.",
+        "Flatten mixture in the bowl with the flat side of the spatula, then slightly roughen the surface with the edge of the spatula to make some shallow cracks and crevices.",
+        "Use a teaspoon to apply small dollops of gochujang mixture over the top, then use the spatula to fold cookie dough up over the gochujang mixture, gently stirring and folding, to create well-defined streaks of chili paste marbled throughout the dough.",
+        "Refrigerate dough for about 20 minutes.",
+        "Preheat the oven to 350 degrees F (175 degrees C). Line 2 baking sheets with parchment.",
+        "Scoop cookie dough by 2 tablespoonfuls; arrange 8 cookies per pan on the prepared baking sheet, leaving plenty of room between cookies; dough will spread out.",
+        "Bake in the preheated oven until the edges are very lightly golden, 13 to 15 minutes. Cool on the pan for 5 minutes before transferring to a wire rack to cool completely."
+      ]
+    }
+  ]
+}

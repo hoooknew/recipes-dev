@@ -1,0 +1,148 @@
+{
+  "name": "Sheet Pan London Broil with Asparagus Gribiche",
+  "author": "Food Network Kitchen",
+  "description": "Gribiche is a dressing made of hard-boiled eggs and lots of punchy, acidic flavors. All those elements translate to a tasty sauce that takes roasted asparagus to unbelievable new heights—plus nicely balances the richness of a charred steak like London broil. And speaking of steak, that also gets bathed in a ton of flavors like lemon, Worcestershire, garlic and plenty of pepper to make sure every bite is thoroughly seasoned and perfectly tender. This is an easy sheet pan supper that is guaranteed to one-up the standard steakhouse fare!",
+  "servings": "6 servings",
+  "cook_time": "40m",
+  "total_time": "1h 40m",
+  "ingredient_sections": [
+    {
+      "name": "London broil",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "extra-virgin olive oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "garlic, smashed"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Juice of 1 lemon"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt and freshly ground black pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "lb",
+          "ingredient": "top round London broil steak (1/2 inch to 1 inch thick)"
+        }
+      ]
+    },
+    {
+      "name": "Gribiche",
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "large eggs"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "extra-virgin olive oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "Dijon mustard"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "white wine vinegar"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "garlic, grated"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt and freshly ground black pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "fresh parsley, finely chopped"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "dried chives"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "drained capers, roughly chopped"
+        },
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "cornichons, roughly chopped"
+        }
+      ]
+    },
+    {
+      "name": "Asparagus",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "lb",
+          "ingredient": "pencil-thin asparagus, woody stems removed"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "extra-virgin olive oil"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt and freshly ground black pepper"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "London broil",
+      "steps": [
+        "For the London broil: Set a large resealable plastic bag in a medium saucepan and pull the edges of the bag over the sides of the pan for easy access to the bag. Add the olive oil, Worcestershire sauce, garlic cloves, lemon juice, 1 teaspoon salt and 1 teaspoon pepper to the bag and whisk to combine. Add the London broil and seal the bag tightly. Remove the bag from the pan and use your hands to rotate the meat, coating thoroughly in the marinade. Lay the bag flat on a cutting board and marinate at room temperature for 1 hour, flipping the bag after 30 minutes. (The seasoned meat can also be stored in the refrigerator overnight. Let rest at room temperature for 20 minutes before cooking.)"
+      ]
+    },
+    {
+      "name": "Gribiche",
+      "steps": [
+        "For the gribiche: Meanwhile, bring a medium saucepan filled with water to a boil over high heat. Use a large spoon to gently add the eggs. Boil for 10 minutes. Drain the eggs and rinse under cold water to stop the cooking. Crack, peel and roughly chop the eggs.",
+        "Whisk the oil, mustard, vinegar, garlic and 1/2 teaspoon each of salt and pepper in a medium bowl. Stir in the parsley, chives, capers and cornichons. Fold in the chopped eggs. Cover and set aside to marinate. (The gribiche can be refrigerated for up to 2 days; return to room temperature before using.)"
+      ]
+    },
+    {
+      "steps": [
+        "While the gribiche is marinating, position an oven rack about 4 inches from the heating element and preheat the broiler to high. Cover a rimmed baking sheet with aluminum foil and place in the oven to preheat.",
+        "Remove the steak from the bag and discard any stuck-on garlic cloves. Pull the preheated sheet pan from the oven and place the steak in the center. Broil until nicely charred and an instant-read thermometer inserted sideways into the center of the steak registers between 120 and 125 degrees F, 6 to 10 minutes depending on thickness. Transfer the steak to the cutting board and let rest for 10 minutes."
+      ]
+    },
+    {
+      "name": "Asparagus",
+      "steps": [
+        "For the asparagus: While the steak rests, add the asparagus to the same sheet pan and toss with the olive oil. Season with 1/2 teaspoon salt and 1/4 teaspoon pepper. Broil until the asparagus is vibrantly green and crisp-tender, about 3 minutes.",
+        "Divide the asparagus among plates and spoon the gribiche over the top. Thinly slice the rested steak against the grain and divide among the plates."
+      ]
+    }
+  ]
+}

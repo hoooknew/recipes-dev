@@ -1,0 +1,61 @@
+{
+  "name": "Creamy Cheesy Spicy Ramen",
+  "author": "Instant Pot Culinary Team",
+  "description": "Give your instant noodles a makeover! This take on instant noodles lends to delicious oozy, creamy, and spicy goodness. Get ready for your new favorite weeknight dinner.",
+  "servings": "1 Serving",
+  "prep_time": "2m",
+  "cook_time": "9m",
+  "total_time": "11m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "packet instant noodles plus seasoning packet"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "of water"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "oyster sauce"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "chili crisp"
+        },
+        {
+          "quantity": 0.333,
+          "unit": "cup",
+          "ingredient": "heavy cream"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "shredded mozzarella"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Furikake, for seasoning"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Select Sauté – Normal/Medium for 15 Minutes on your Instant Pot. All the pot to come to temperature.",
+        "Add the water and let it sit for 1-2 minutes, until small bubbles start forming on the surface in a small simmer.",
+        "Unfold the instant noodles and lay in the middle of the inner pot. Add the seasoning packet, oyster sauce, and chili crisp and stir. Let the noodles sit for 1 minute, then flip over. Let it sit for another 30 seconds until the noodles start to hydrate.",
+        "As soon as the noodles are hydrated, start to stir and incorporate the noodles into the sauce. Once the sauce is boiling, add the cream and cheese. Let the sauce boil and thicken, another 3-5 minutes. The sauce will deepen in color and thicken as it evaporates. Stir constantly to ensure there is no sticking at the bottom of the pot.",
+        "Place into a large bowl. Sprinkle with furikake and additional chili crisp to your preferred spic level! Enjoy!"
+      ]
+    }
+  ]
+}

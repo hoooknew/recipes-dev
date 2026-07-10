@@ -1,0 +1,53 @@
+{
+  "name": "Five-Spice Green Beans",
+  "author": "Cooking Channel",
+  "description": "Asian-themed recipes are a staple in our kitchen. Hardly a day goes by without a meal that has some type of Asian-inspired flavors and spices. We prepare favorite vegetables, like green beans, and quickly stir-fry them in a pan with five-spice powder, instantly transforming a plain dish into an amazing side with just one tablespoon. These five-spice green beans are quick, wonderfully healthy and accessible for the novice cook.",
+  "servings": "4 to 6 servings",
+  "prep_time": "15m",
+  "cook_time": "15m",
+  "total_time": "30m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "vegetable oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "medium garlic clove, finely minced"
+        },
+        {
+          "quantity": 0.5,
+          "unit": null,
+          "ingredient": "half an onion, sliced (yellow or red)"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "fresh green beans, cleaned and ends trimmed"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "five-spice powder"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a saucepan, heat oil, then add the garlic and onions. Cook onions and garlic until fragrant and slightly brown.",
+        "Add green beans and cook for about 2 minutes until almost tender. If the pan is too dry, add about one to two tablespoons water. Then add five-spice powder, and stir well into green beans. Cook for about another minute or until green beans are tender."
+      ]
+    }
+  ]
+}

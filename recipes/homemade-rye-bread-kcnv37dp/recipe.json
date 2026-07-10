@@ -1,0 +1,76 @@
+{
+  "name": "Homemade Rye Bread",
+  "author": "Alexandra Stafford",
+  "description": "Adapted from my cookbook, Bread Toast Crumbs.",
+  "servings": "1 loaf",
+  "prep_time": "5h",
+  "cook_time": "45m",
+  "total_time": "5h 45m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "cup",
+          "ingredient": "bread or all-purpose flour"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "rye flour, see note"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "kosher salt, see note"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "instant yeast, see note"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "caraway seeds, see note"
+        },
+        {
+          "quantity": 1.75,
+          "unit": "cup",
+          "ingredient": "lukewarm water"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "honey or maple syrup"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "extra-virgin olive oil, divided"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Softened unsalted butter, for greasing"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a large bowl, whisk together the flours, salt, instant yeast, and caraway seeds, if using. In a medium bowl, whisk together the water and the honey until the honey is dissolved. Add to the flour, followed by 1 tablespoon of the oil. Using a rubber spatula, mix until the liquid is absorbed and the ingredients form a sticky dough ball.",
+        "Cover the bowl with a damp tea towel or a cloth bowl cover or plastic wrap and set aside in a warm spot to rise for 2 to 3 hours, until the dough has doubled in volume.",
+        "Preheat the oven to 375ºF. Grease an 8.5×4.5-inch (or 9×5-inch) loaf pan generously with softened butter.",
+        "When the dough has doubled, drizzle the remaining tablespoon of olive oil over the top and use your hand to rub the oil over the surface to coat. Use your hand again to release the dough from the sides of the bowl, then flip the ball over so that the oil side is down. Roll the dough into a coil or into a loaf shape, then transfer to your prepared pan seam side down. Watch this video for guidance. ",
+        "Let the dough rise on the countertop (preferably in a warm, draft-free spot) for 45 minutes to an hour or until the dough has risen significantly in the pan — it should be doming above the rim of the pan by about one inch. See photos for reference.",
+        "Transfer the pan to the oven and bake for 45 minutes, or until the top is evenly browned. Remove the pan from the oven and turn the loaf out onto a cooling rack. Let the loaf cool for at least 30 minutes before slicing."
+      ]
+    }
+  ],
+  "notes": "Flour: You could play around with increasing the proportion of rye flour in this recipe (which is roughly 20% by weight), but keep in mind that the more rye flour you use, the denser your bread will be. This is because rye flour is high in bran, the sharp shape of which cuts the gluten network, inhibiting its ability to trap air and produce a lofty loaf of bread. \n\nSalt: I always use Diamond Crystal kosher salt. If you are using Morton's kosher salt or fine sea salt use half the amount by volume or the same amount by weight.\nYeast: If using active dry yeast, sprinkle the yeast over the lukewarm water-honey mixture and let stand for 10 minutes; then proceed with the recipe.\nCaraway: If you don't like the flavor of caraway, simply omit the seeds or use less: 1 to 2 teaspoons or to taste.",
+  "tags": [
+    "favorite"
+  ]
+}

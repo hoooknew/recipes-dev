@@ -1,0 +1,157 @@
+{
+  "name": "Chicken Pot Pie",
+  "description": "Chicken Pot Pie, when done right, is one of the best comfort foods that the USA has to offer. A classic recipe with a rich filling and a double crust.",
+  "ingredient_sections": [
+    {
+      "name": "The Pie Dough",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "Bread Flour (250g)"
+        },
+        {
+          "quantity": 2.2,
+          "unit": "each",
+          "ingredient": "Unsalted Butter (205g)"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "tsp",
+          "ingredient": "Kosher Salt (3g)"
+        },
+        {
+          "quantity": {
+            "min": 0.25,
+            "max": 0.25
+          },
+          "unit": "cup",
+          "ingredient": "Ice Water (70-85g), more if needed"
+        }
+      ]
+    },
+    {
+      "name": "The Pie Filling",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "Pie Crust Recipes (see recipe)"
+        },
+        {
+          "quantity": 4,
+          "unit": "cup",
+          "ingredient": "cooked Chicken Breast & Thigh, shredded"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "Chicken Fat"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "Unsalted Butter"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "Garlic, minced"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "Small Leek, cleaned and sliced thin"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "medium Onion, diced"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "Celery Stalks, diced"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "small Carrots, diced"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "Fresh Thyme"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "Kosher Salt, more to taste"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "Black Pepper"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "AP Flour"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "Chicken Bouillon Powder"
+        },
+        {
+          "quantity": 2.5,
+          "unit": "cup",
+          "ingredient": "Chicken Stock"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "Heavy Cream"
+        },
+        {
+          "quantity": 0.66,
+          "unit": "cup",
+          "ingredient": "Parmesan Cheese, grated"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "Frozen Peas, thawed"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "cup",
+          "ingredient": "Parsley, chopped"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Egg Yolk + dash of water, beaten for egg wash"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Mix all the dough ingredients together; dough needs to rest in the fridge for 4 hours or overnight.",
+        "Slice vegetables into similar sizes (large dice).",
+        "Melt butter and chicken fat in a large pan or Dutch oven. Add onions, carrots, celery, leeks, garlic, thyme, pepper, and salt. Sweat the vegetables over low-medium heat for 5-6 minutes.",
+        "Add AP flour and chicken bouillon powder; stir for about 2 minutes.",
+        "Add chicken stock and heavy cream, stirring to combine. Bring to a simmer.",
+        "Fold in shredded chicken, parmesan cheese, parsley, and peas.",
+        "Spread filling on a sheet tray and cool in the fridge.",
+        "Roll out dough to 1/4 inch and line the pie tin(s).",
+        "Fill with the cooled filling. Top with the second crust and create an air hole.",
+        "Crimp the edges, brush with egg wash, and sprinkle with salt.",
+        "Bake at 400°F for about 40 to 50 minutes on the middle rack.",
+        "Allow to cool before serving to ensure the filling sets."
+      ]
+    }
+  ]
+}

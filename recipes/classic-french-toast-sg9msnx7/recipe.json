@@ -1,0 +1,77 @@
+{
+  "name": "Classic French Toast",
+  "author": "Brie Goldman",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "large eggs"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "heavy cream, half-and-half, or milk"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "quantity": null,
+          "unit": "pinch",
+          "ingredient": "ground nutmeg"
+        },
+        {
+          "quantity": null,
+          "unit": "pinch",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "slices (1-inch-thick) bread, preferably day old"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "vegetable oil"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pure maple syrup, for serving (optional)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Whisk together eggs, cream, vanilla, cinnamon, nutmeg, and salt in a medium bowl; set aside.",
+        "Place bread in a shallow baking dish large enough to hold bread slices in a single layer.",
+        "Pour egg mixture over bread; soak 10 minutes. Turn slices over; soak until soaked through, about 10 minutes more.",
+        "Preheat oven to 250°F. Place a wire rack on a baking sheet, and set aside.",
+        "Heat 2 tablespoons butter and 2 tablespoons vegetable oil in a skillet over medium heat. Fry half the bread slices until golden brown, 2 to 3 minutes per side. Transfer to wire rack and place in preheated oven while cooking remaining French toast.",
+        "Wipe skillet, and repeat with remaining butter, oil, and bread.",
+        "Serve warm with pure maple syrup, if desired."
+      ]
+    }
+  ],
+  "notes": "https://www.marthastewart.com/333918/classic-french-toast\n\nThe rack allows for air circulation so the slices stay crisp. If they were sitting directly on the baking rack or were stacked on top of each other, they could get soggy.\n\nHow to Store and Reheat Leftover French Toast\nLeftover French toast can be refrigerated in an airtight container for up to 4 days. For longer storage, place slices of French toast between pieces of wax paper, then place in a freezer bag and freeze for up to 3 months.\n\nRefrigerated French toast can be reheated in a 350-degree Fahrenheit oven or air-fryer until hot, about 5 minutes, or in the microwave for 1 minute.\n\nVariations\nFrench toast is an infinitely variable dish. Flavor the egg mixture with spices, booze (Martha likes Grand Marnier), citrus zest, or flavored extracts, such as almond. Take it up a notch by making a baked French toast casserole or stuffed French toast. \n\nIf you're avoiding dairy, simply swap the amount of cow's milk in the recipe for the same amount of an alternative milk. If possible, we recommend using a thicker dairy-free milk—like oat milk or soy milk—for the egg mixture rather than a thinner one.",
+  "tags": [
+    "favorite"
+  ]
+}

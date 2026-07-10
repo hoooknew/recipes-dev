@@ -1,0 +1,109 @@
+{
+  "name": "Beef Kibbeh",
+  "author": "Ricardocuisine",
+  "description": "These eastern-Mediterranean-inspired portable meat pockets with a crunchy crust and a moist, fragrant stuffing pop with a simple squeeze of lemon. The secret to their authentic flavour? A mix of spices that are common in Middle Eastern dishes, from keftas to pilafs. We tried baking our kibbeh, but that didn’t do justice to the classic deep-fried version, which crisps up the bulgur.",
+  "servings": "18 serving(s)",
+  "prep_time": "45m",
+  "cook_time": "12m",
+  "total_time": "57m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground allspice"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ground coriander"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "ground nutmeg"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "ground black pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "pinch",
+          "ingredient": "ground cloves"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "fine bulgur wheat"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "lb",
+          "ingredient": "lean ground beef"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "onion, 1/2 finely chopped, 1/2 cut into chunks"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "garlic clove, finely chopped"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "cup",
+          "ingredient": "walnuts, chopped"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Vegetable oil, for frying"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Lemon wedges"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Spice Mixture",
+      "steps": [
+        "In a small bowl, combine all the ingredients and set aside. "
+      ]
+    },
+    {
+      "name": "Kibbeh",
+      "steps": [
+        "In a bowl, cover the bulgur with cold water and soak for 15 minutes. Rinse and drain through a fine-mesh sieve. Wrap the bulgur in a clean cloth and wring to remove excess water. Set aside. ",
+        "In a skillet over medium-high heat, cook 2/3 cup (155 g) of the beef in the butter for 5 minutes or until it begins to brown, breaking it up with a wooden spoon. Add the finely chopped onion, garlic, 1 1/2 tsp of the spice mixture and 1/2 tsp of the salt. Continue cooking for 3 minutes. Stir in the nuts. Set the mixture aside on a plate and let cool. ",
+        "In a food processor, finely chop the onion chunks. Add the bulgur and the remaining raw meat, spice mixture and salt. Process until well combined. ",
+        "Using a 2-tbsp (30 ml) ice cream scoop, shape the bulgur mixture into balls. Working with lightly oiled hands, shape each ball into a cone. With the cone still in your hand, hollow out the centre with your finger. Stuff with 1 tbsp of the cooked meat mixture. Pinch to seal the bulgur mixture around the filling, then carefully shape into a pointed oval (similar to a small football). Set aside on a plate. ",
+        "Preheat the oil in a deep fryer to 350°F (180°C). Line a baking sheet with two layers of paper towels. ",
+        "Working in batches, fry the kibbeh for 2 minutes or until golden brown and cooked through. Watch out for splattering. Drain on the paper towels. Serve the kibbeh with lemon wedges."
+      ]
+    }
+  ]
+}

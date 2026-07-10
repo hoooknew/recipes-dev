@@ -1,0 +1,95 @@
+{
+  "name": "Thai Instant Pot Massaman Curry with Beef",
+  "author": "Paint the Kitchen Red",
+  "description": "Fragrant and Flavorful Instant Pot Thai Massaman Curry with Beef has creamy coconut, tender beef, potatoes and crunchy peanuts that combine to make this a highly satisfying dish that can be put together quickly for a delicious weeknight meal.",
+  "servings": "6 servings",
+  "prep_time": "15m",
+  "cook_time": "27m",
+  "total_time": "42m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "oz",
+          "ingredient": "Thai massaman curry paste"
+        },
+        {
+          "quantity": 13.5,
+          "unit": "oz",
+          "ingredient": "coconut milk"
+        },
+        {
+          "quantity": 2,
+          "unit": "lb",
+          "ingredient": "beef stew meat ((1 kg) 1-inch cubes)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "tamarind paste (or Thai tamarind concentrate [See Note 1])"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "fish sauce (or to taste)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "brown sugar (or palm sugar, to taste)"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "potatoes (1-inch cubes [See Note 2])"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "onion (1-inch cubes)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "roasted peanuts"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Instant Pot Instructions",
+      "steps": [
+        "Stir together 4 oz. Thai massaman curry paste and 1/2 can of coconut milk and cook in Saute mode until mixture is bubbly, about two minutes.",
+        "Press Cancel to turn off Instant Pot.  Stir in 2 lb beef stew meat, remaining coconut milk, 1/4 cup water, 1 Tbsp tamarind paste, 1 Tbsp fish sauce, and 1 Tbsp  brown sugar. [See Note 3].",
+        "Close Instant Pot and pressure cook on High Pressure for 15 minutes.",
+        "Do a quick release of pressure (You can also choose to do a natural release).  [Read More: The Different Pressure Release Methods].",
+        "Open Instant Pot and stir in 2 cups potatoes, 1/2 cup onion, and 1/2 cup roasted peanuts.",
+        "Close Instant Pot and pressure cook on high pressure for 5 minutes.",
+        "Do a quick release of pressure.",
+        "Open the Instant Pot and carefully stir Instant Pot Massaman Curry.",
+        "Taste, and adjust seasonings as needed.",
+        "Transfer Instant Pot Beef Massaman Curry to a serving dish. Serve with Instant Pot Jasmine Rice."
+      ]
+    },
+    {
+      "name": "Stovetop Instructions",
+      "steps": [
+        "Heat beef and broth or water in a large pot over high heat. There should be enough liquid to cover the beef. [See Note 3].",
+        "Bring to a boil, reduce heat, cover and simmer for 2 hours or until beef is very tender.",
+        "Transfer beef pieces to a dish, and set aside 1½ cups of liquid.",
+        "Heat ½ can of coconut milk and curry paste over medium heat in a large pot. Let the mixture bubble and thicken until the oil separates from the mixture, stirring frequently.",
+        "Stir in the remaining coconut milk, tamarind paste, fish sauce, and brown sugar.",
+        "Add the reserved liquid, beef, potatoes, onions, and peanuts. If there’s not enough liquid to cover the beef and potatoes, add some more coconut milk or broth.",
+        "Cook the curry over medium-low heat for 15 minutes or until the potatoes are cooked through.",
+        "Taste and adjust seasonings if needed."
+      ]
+    }
+  ]
+}

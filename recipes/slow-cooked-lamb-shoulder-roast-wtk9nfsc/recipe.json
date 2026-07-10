@@ -1,0 +1,84 @@
+{
+  "name": "Slow-Cooked Lamb Shoulder Roast",
+  "description": "Would you like to make the most amazing lamb roast ever? This rosemary garlic and honey slow-cooked lamb shoulder is what you're looking for. Succulent, fall-apart meat on the inside, crispy browned on the outside and with the most delicious, caramelized pan sauce.",
+  "servings": "6 servings",
+  "prep_time": "15m",
+  "cook_time": "3h",
+  "total_time": "3h 15m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "lb",
+          "ingredient": "lamb shoulder (about 1.2-1.4 kilograms)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "smoked paprika"
+        },
+        {
+          "quantity": 5,
+          "unit": "each",
+          "ingredient": "sprigs rosemary (needles pulled off and chopped)"
+        },
+        {
+          "quantity": {
+            "min": 6,
+            "max": 8
+          },
+          "unit": "each",
+          "ingredient": "cloves garlic (cut in halves lengthways)"
+        },
+        {
+          "quantity": 0.66,
+          "unit": "cup",
+          "ingredient": "red wine"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "honey"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Preheat the oven to 180 C / 356 F.",
+        "Pull the needles off the rosemary sprigs and chop them into small pieces. Cut the garlic cloves (lengthways) into 2-3 pieces each.",
+        "Place the lamb shoulder on a cutting board, meatier side up. Use a sharp knife to score the top with deep cuts (see photo).",
+        "Drizzle with olive oil and rub it in.",
+        "Sprinkle each side with salt, pepper, smoked paprika and chopped rosemary, rubbing everything into the meat cuts.",
+        "Insert garlic pieces in the cuts and any folds of the meat.",
+        "Add 1 cup of water and ⅔ cup of red wine to a deep roasting pan. Place the lamb shoulder inside, meatier side up. Cover with one piece of foil, tucking the edges close to the meat and with another piece of foil covering the edges of the pan. It's a double foil wrap.",
+        "Place in the preheated oven, middle shelf, and cook for about 2 hours and 15 minutes.",
+        "After 2 hours, remove from the oven and take off the foil. Scoop some of the juices from the pan and drizzle over the lamb meat. Then drizzle generously with honey, about 4 tablespoons, spreading it evenly over the meat. You don't need to turn the lamb shoulder over, just drizzle the top.",
+        "Pop back in the oven with no foil wrap and cook for another 30 minutes. I find this is long enough and the top of the meat will be well-browned and the honey caramelized. The liquid in the pan will reduce quite a bit, with the honey and lamb juices incorporated into the sauce and caramelized.",
+        "Remove from the oven and cover with foil for about 5-10 minutes to rest. Then use the spoon to scoop and drizzle the sauce in the pan over the lamb. Serve as is or carve the meat and serve in the pan sauce."
+      ]
+    }
+  ]
+}

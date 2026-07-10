@@ -1,0 +1,51 @@
+{
+  "name": "Masters Azalea Cocktail",
+  "author": "alexmorgan",
+  "description": "Sip on this vibrant pink Masters Azalea Cocktail, a refreshing and easy-to-make drink perfect for spring gatherings or celebrating the Masters golf tournament. Made with vodka, lemon, pineapple, and a splash of grenadine.",
+  "servings": "1",
+  "prep_time": "5m",
+  "ingredient_sections": [
+    {
+      "name": "Main Ingredients",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "fl oz",
+          "ingredient": "Vodka"
+        },
+        {
+          "quantity": 1,
+          "unit": "fl oz",
+          "ingredient": "Lemon Juice"
+        },
+        {
+          "quantity": 1,
+          "unit": "fl oz",
+          "ingredient": "Pineapple Juice"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "fl oz",
+          "ingredient": "Grenadine"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Ice"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Instructions",
+      "steps": [
+        "Fill a cocktail shaker with ice.",
+        "Add vodka, fresh lemon juice, pineapple juice, and grenadine to the shaker.",
+        "Shake well until thoroughly chilled, about 15-20 seconds.",
+        "Strain the mixture into a chilled cocktail glass.",
+        "Garnish with a lemon slice and a cherry, if desired."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Watermelon, Feta, and Mint Salad",
+  "author": "J. Kenji López-Alt",
+  "description": "There are only a few simple steps to a perfect watermelon, feta, and mint salad. This easy recipe lays them out.",
+  "servings": "4 to 6 servings",
+  "prep_time": "10m",
+  "total_time": "10m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "lb",
+          "ingredient": "seedless watermelon (about 1 small or 1/4 large), rind removed, cut into 1-inch chunks (about 2 pounds/1kg chunks after rind is discarded)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "juice from 1 lemon, plus 4 (2-inch) strips zest, removed with a sharp vegetable peeler"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "roughly chopped fresh mint leaves"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "extra-virgin olive oil, plus more for drizzling"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Up to 4 oz arugula leaves (optional; see note)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt and freshly ground black pepper"
+        },
+        {
+          "quantity": 4,
+          "unit": "oz",
+          "ingredient": "feta cheese (see note)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Place watermelon chunks in a large bowl. Finely chop lemon zest. Add lemon juice and half of zest to bowl with watermelon. Add mint, oil, and arugula (if using) and toss until watermelon is evenly dressed. Season lightly to taste with salt and pepper. (The cheese will add saltiness, so go light on the salt at this stage.)",
+        "Transfer salad to a wide, shallow bowl or a large plate and spread out evenly. Crumble feta over top. Sprinkle with remaining lemon zest. Drizzle with more olive oil and a few grinds of black pepper. Serve immediately."
+      ]
+    }
+  ],
+  "notes": "This dish greatly depends on the quality of the feta. If you have options at your supermarket, look for true Greek or Bulgarian sheep's milk feta, which tends to be creamier and tangier than domestic cow's-milk versions.\n\nTo make this salad more substantial, add arugula."
+}

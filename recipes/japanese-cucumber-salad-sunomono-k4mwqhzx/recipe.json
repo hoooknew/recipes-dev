@@ -1,0 +1,125 @@
+{
+  "name": "Japanese Cucumber Salad (Sunomono)",
+  "description": "For a light and incredibly refreshing side dish, try my classic Japanese Cucumber Salad (Sunomono) recipe. This crunchy salad with wakame seaweed and sweet-and-sour dressing goes with any Japanese meal. I'll share 3 seafood variations you can try, too.",
+  "servings": "4",
+  "prep_time": "15m",
+  "total_time": "15m",
+  "ingredient_sections": [
+    {
+      "name": "For the Dressing",
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "rice vinegar (unseasoned)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "Diamond Crystal kosher salt"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "soy sauce (use GF soy sauce for gluten-free)"
+        }
+      ]
+    },
+    {
+      "name": "For the Sunomono",
+      "ingredients": [
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "each",
+          "ingredient": "Japanese cucumbers (or 3–4 Persian cucumbers; 11 oz, 300 g)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Diamond Crystal kosher salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dried wakame seaweed (3 g; 20–30 g after rehydration)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "toasted white sesame seeds"
+        }
+      ]
+    },
+    {
+      "name": "For the Variations (Optional)",
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "real or imitation crabmeat (skip for vegan/vegetarian)"
+        },
+        {
+          "quantity": 2,
+          "unit": "oz",
+          "ingredient": "octopus sashimi (boiled octopus) (skip for vegan/vegetarian)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "shirasu (boiled salted baby anchovies) (skip for vegan/vegetarian)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "red radishes (for vegan/vegetarian)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Gather all the ingredients."
+      ]
+    },
+    {
+      "name": "To Make the Dressing",
+      "steps": [
+        "In a saucepan, combine 4 Tbsp rice vinegar (unseasoned), 2 Tbsp sugar, ½ tsp Diamond Crystal kosher salt, and ½ tsp soy sauce. Alternatively, you can use a microwave-safe bowl and heat it in the microwave until the sugar dissolves.",
+        "Place the saucepan over medium heat and whisk the ingredients together well (I use this whisk). Once the sugar dissolves completely, remove from the heat and let it cool. Tip: If you decrease the sugar amount (which I don't recommend), you may find that the vinegar tastes too strong. If it's still too strong for you after adding the cucumbers, you can dilute it at this stage with a very small amount of Dashi (Japanese soup stock), Vegan Dashi, or water."
+      ]
+    },
+    {
+      "name": "To Make the Sunomono",
+      "steps": [
+        "Soak 1 Tbsp dried wakame seaweed in a bowl of water and let it rehydrate for 5 minutes.",
+        "Meanwhile, peel the skin of 2–3 Japanese cucumbers alternately to create a striped pattern. Then, thinly slice the cucumbers into rounds.",
+        "Sprinkle 1 tsp Diamond Crystal kosher salt on the cucumber and gently massage it in. Set aside for 5 minutes. The salt draws out the moisture from the cucumbers so it doesn't dilute the dressing later.",
+        "Use your hand(s) to squeeze out the liquid from the rehydrated wakame seaweed and add it to a medium bowl. ",
+        "Squeeze out the liquid from the cucumber slices. Add them to the bowl with the wakame.",
+        "Add ½ Tbsp toasted white sesame seeds and pour the dressing on top.",
+        "Toss to combine everything together. Serve in individual bowls or a large serving bowl."
+      ]
+    },
+    {
+      "name": "To Make the Variations",
+      "steps": [
+        "Crabmeat: Cut 4 pieces real or imitation crabmeat into thirds lengthwise. Add to the cucumber and wakame seaweed mixture in Step 7. Boiled octopus: Slice 2 oz octopus sashimi (boiled octopus) thinly. Add in Step 7. Boiled salted baby anchovies: Add 2 Tbsp shirasu (boiled salted baby anchovies) in Step 7."
+      ]
+    },
+    {
+      "name": "To Store",
+      "steps": [
+        "Keep in an airtight container and store in the refrigerator for up to 3 days for the classic version and 2 days for the seafood variations. However, the cucumber may release more moisture and dilute the sauce, so enjoy it soon!"
+      ]
+    }
+  ]
+}

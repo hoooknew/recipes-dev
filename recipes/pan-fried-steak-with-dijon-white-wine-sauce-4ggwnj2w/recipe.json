@@ -1,0 +1,60 @@
+{
+  "name": "pan fried steak with dijon white wine sauce",
+  "description": "20 minutes start to finish and you've just made something better than they serve in 95 percent of restaurants.",
+  "servings": "2",
+  "prep_time": "5m",
+  "cook_time": "15m",
+  "total_time": "20m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "nicely marbled striploin or rib steaks ( - about 1 inch thick)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "white wine"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "veal stock (or chicken stock)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dijon mustard"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "salt and coarse ground pepper"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Pre-heat your oven to 375F.",
+        "Heat an oven proof skillet over medium heat. Season the steaks with salt and pepper. Add1 Tbsp butter and 1 Tbsp olive oil to the pan until the butter stops sizzling. Watch out - you don't want the butter to burn.",
+        "Add the steaks and pan fry for about 90 seconds per side then place in pre-heated oven for about 3-4 minutes for rare to medium rare. I can't predict this for you. Steaks are different thicknesses. Use your instant read thermometer to be certain - 125F is the magic number for beef.",
+        "Remove pan from oven, put a cloth on the handle to remind you it's screaming hot, and remove steaks. Place pan over medium heat. Add white wine, scraping up any browned bits and reduce to a syrupy glaze. This is called deglazing. Add veal stock or demi-glace and simmer briefly. Whisk in the mustard.",
+        "Off heat, whisk in the remaining 2 Tbsp butter one tablespoon at a time. Taste sauce and adjust seasoning if necessary."
+      ]
+    }
+  ]
+}

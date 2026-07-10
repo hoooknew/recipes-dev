@@ -1,0 +1,267 @@
+{
+  "name": "Grilled Fish Tacos with Avocado Relish, Smoky Tomato-Greek Yogurt Crema and Red Cabbage-Citrus Slaw",
+  "author": "Bobby Flay",
+  "servings": "6 to 8 servings",
+  "cook_time": "1h 10m",
+  "total_time": "1h 10m",
+  "ingredient_sections": [
+    {
+      "name": "Relish",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "cloves garlic, crushed"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "serrano chile, seeded and roughly chopped"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "pine nuts"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt and freshly ground black pepper"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "fresh cilantro leaves, chopped"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "ripe Hass avocados, halved, pitted and diced"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "lime juice"
+        }
+      ]
+    },
+    {
+      "name": "Crema",
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "plum tomatoes, halved"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Canola oil"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt and freshly ground black pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "red wine vinegar"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "chipotles in adobo"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "cloves garlic, chopped"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "small Spanish onion, roughly chopped"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "fresh cilantro leaves"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dried Mexican oregano"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "2-percent or nonfat Greek yogurt"
+        }
+      ]
+    },
+    {
+      "name": "Slaw",
+      "ingredients": [
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "lemon juice"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "orange juice"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "clover honey"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "Dijon mustard"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "fresh basil leaves, chopped"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt and freshly ground black pepper"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "canola oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "thinly sliced Napa cabbage"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "thinly sliced red cabbage"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large carrot, peeled and grated on the large holes of a box grater"
+        }
+      ]
+    },
+    {
+      "name": "Rub",
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "ancho chile powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground cumin"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ground black pepper"
+        }
+      ]
+    },
+    {
+      "name": "Fish",
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "8-ounce mahi mahi fillets"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Canola oil, for brushing"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt and freshly ground black pepper"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "6-inch flour or corn tortillas"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "cilantro leaves, roughly chopped"
+        },
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "leaves Boston lettuce, for wrapping"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Relish",
+      "steps": [
+        "For the relish: Put the garlic, pine nuts, serrano and some salt in a mortar and pestle and mash to a chunky, pesto-like consistency. Add the cilantro and continue to mash; the pesto should be very coarse.",
+        "Put the avocados and lime juice in a bowl and sprinkle with salt and pepper. Gently fold in the pesto until just combined, being careful not to mash the avocado too much."
+      ]
+    },
+    {
+      "name": "Crema",
+      "steps": [
+        "For the crema: Heat a grill to high. Toss the tomato halves with some canola oil and season with salt and pepper. Grill until the tomatoes are charred and softened, turning once or twice, about 5 minutes total.",
+        "Combine the grilled tomatoes, vinegar and chipotles in a food processor and pulse a few times to combine. Add the garlic, onions, cilantro, oregano and some salt and pepper and pulse until slightly smooth.",
+        "Put the yogurt in a medium bowl and swirl in some of the salsa, being careful not to stir it in completely."
+      ]
+    },
+    {
+      "name": "Slaw",
+      "steps": [
+        "For the slaw: Put the lemon juice, orange juice, honey, mustard, basil and some salt and pepper in a blender and blend until smooth. With the motor running, drizzle in the canola oil until emulsified.",
+        "Combine the Napa cabbage, red cabbage and carrot in a large bowl; add half of the dressing and toss to coat. Season with salt and pepper; add more dressing if needed, reserving a little for fish."
+      ]
+    },
+    {
+      "name": "Rub",
+      "steps": [
+        "For the rub: Combine the ancho powder, cinnamon, cumin, salt, brown sugar and black pepper in a bowl. Mix to blend."
+      ]
+    },
+    {
+      "name": "Fish",
+      "steps": [
+        "For the fish: Brush the top of the fish filets with canola oil, and sprinkle them with salt, pepper and about 3 tablespoons of the spice rub. Let stand for 5 minutes, then grill the filets, spice-side down, over direct heat until the fish is lightly charred and comes away from the grill easily, about 2 minutes. Flip and cook another 2 minutes to sear on the reverse side. Move the fish over indirect heat, cover the grill, and cook until the fish is just cooked through, another 3 to 4 minutes; the fish should be just firm when squeezed lightly on the sides. Remove the fish to a platter and let rest for a few minutes.",
+        "While the fish rests, grill the tortillas over direct heat until slightly charred and just warm, about 5 seconds per side. With a fork, flake the fish into large chunks. Drizzle with the remaining slaw dressing and top with cilantro leaves.",
+        "Serve the fish family-style with the tortillas and butter lettuce (for wrapping), and the avocado relish, tomato crema, and cabbage slaw in bowls on the side."
+      ]
+    }
+  ]
+}

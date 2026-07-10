@@ -1,0 +1,180 @@
+{
+  "name": "Homemade Lamb Doner Kebab",
+  "description": "A simple and delicious homemade lamb doner kebab that will truly surprise you with its authentic restaurant-style flavor! Juicy, flavorful, and perfectly seasoned, this dish is a Middle Eastern classic you can make right in your own kitchen.",
+  "ingredient_sections": [
+    {
+      "name": "For the Kebab:",
+      "ingredients": [
+        {
+          "quantity": 500,
+          "unit": "g",
+          "ingredient": "minced lamb"
+        },
+        {
+          "quantity": 500,
+          "unit": "g",
+          "ingredient": "minced beef"
+        },
+        {
+          "quantity": 250,
+          "unit": "g",
+          "ingredient": "grated onion"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "yogurt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "grated garlic"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "paprika"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "cumin"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dried parsley"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "black pepper"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "cinnamon powder"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ginger powder"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ground cardamom"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "ground cloves"
+        }
+      ]
+    },
+    {
+      "name": "For the Sauce:",
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "yogurt"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "mayonnaise"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "dried parsley"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "black pepper"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt to taste"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "clove garlic, grated"
+        }
+      ]
+    },
+    {
+      "name": "To Serve:",
+      "ingredients": [
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pita bread or flatbread"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Sliced onions and tomatoes"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pickles"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Lettuce"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Hot sauce"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a large mixing bowl, add: Minced lamb (about 500 grams).",
+        "Then add minced beef, also 500 grams.",
+        "Next, grated onion, around 250 grams for flavor and moisture.",
+        "Add one-fourth cup of yogurt to keep the meat soft and juicy.",
+        "Then one tablespoon of grated garlic. Now for the spices: one tablespoon each of paprika, cumin, and dried parsley, plus one teaspoon each of salt and black pepper.",
+        "And half a teaspoon each of cinnamon, ginger, cardamom, and cloves for that perfect Middle Eastern aroma.",
+        "Mix everything really well until all the flavors come together beautifully.",
+        "Now spread a portion of the meat evenly on a sheet of parchment paper.",
+        "Roll the parchment sheet tightly with the meat inside to form a log.",
+        "Place your rolled kebab logs in an oven-safe dish.",
+        "Bake them in a preheated oven at 450°F (250°C) for about 15 minutes.",
+        "Once baked, pour out any excess juices from the dish.",
+        "Unroll the kebab logs carefully onto a baking tray.",
+        "Turn on the oven broiler and broil for up to 5 minutes, just until golden.",
+        "Brush the top with melted butter for that perfect shine and flavor.",
+        "Now break the kebab into small, thin slices — just like at the restaurant!",
+        "Time to make the creamy sauce! In a small bowl, mix together: Half a cup of yogurt (about 120 grams).",
+        "Add half a cup of mayonnaise, that’s 120 grams too.",
+        "Then one teaspoon dried parsley and one-fourth teaspoon black pepper.",
+        "Add salt to taste.",
+        "Finally, a little grated garlic (about 5 grams. Mix it well).",
+        "Now let’s build our doner sandwich! Spread a good layer of the sauce on fresh pita bread.",
+        "Add sliced pickles for a tangy crunch.",
+        "Then add the doner kebab.",
+        "Top it with sliced onions and fresh tomatoes.",
+        "A drizzle of hot sauce for some heat,",
+        "And finally, crisp lettuce for freshness."
+      ]
+    }
+  ],
+  "notes": "You can prepare the meat ahead of time and freeze it for later. Try using only lamb for a richer, more traditional flavor. Adjust the spice level to your liking by adding more or less hot sauce."
+}

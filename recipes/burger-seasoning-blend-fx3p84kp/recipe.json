@@ -1,0 +1,62 @@
+{
+  "name": "Burger seasoning blend",
+  "description": "Enough for 6 pounds of beef",
+  "ingredient_sections": [
+    {
+      "name": "Seasoning",
+      "ingredients": [
+        {
+          "quantity": 1.5,
+          "unit": "tbsp",
+          "ingredient": "coarse kosher salt"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tbsp",
+          "ingredient": "coarse-ground black pepper"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tbsp",
+          "ingredient": "sweet or regular paprika"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "onion powder"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "tsp",
+          "ingredient": "ground mustard, optional"
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "ingredients": [
+        {
+          "quantity": 6,
+          "unit": "lb",
+          "ingredient": "Ground beef"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Mix it all together",
+        "Put on burgers"
+      ]
+    }
+  ],
+  "tags": [
+    "favorite"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Asian Lettuce Wraps",
+  "author": "Sunny Anderson",
+  "servings": "4 servings",
+  "prep_time": "20m",
+  "cook_time": "8m",
+  "total_time": "28m",
+  "ingredient_sections": [
+    {
+      "name": "Sauce",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "2-inch piece ginger, peeled and finely grated"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "scallions, chopped"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "cloves garlic, minced"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "red pepper flakes"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "hoisin sauce"
+        }
+      ]
+    },
+    {
+      "name": "Ingredients",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "vegetable oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "ground beef"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "chopped peanuts"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt and freshly ground black pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "head Boston lettuce, leaves separated, cleaned and dried"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "1 head Boston lettuce, leaves separated, cleaned and dried In a skillet over medium-high heat, add the vegetable oil and saute beef until brown.",
+        "Stir in ginger, scallions, garlic, soy sauce, red pepper flakes, and hoisin and cook for 1 minute.",
+        "Remove from the heat and stir in the peanuts.",
+        "Season with salt and pepper and serve warm wrapped in lettuce cups."
+      ]
+    }
+  ],
+  "notes": "…",
+  "tags": [
+    "favorite"
+  ]
+}

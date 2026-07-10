@@ -1,0 +1,68 @@
+{
+  "name": "Smoked Turkey Rub",
+  "author": "The Online Grill",
+  "description": "This easy smoked turkey rub blends paprika and cayenne pepper with brown sugar for the perfect blend of smoky-sweet. Take your smoked whole turkey, turkey breast, or thighs to the next level with this simple homemade BBQ seasoning.",
+  "prep_time": "10m",
+  "total_time": "10m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "brown sugar"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "smoked paprika"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "mustard powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "cayenne pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground cumin"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "onion powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "ground black pepper"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a small bowl, combine all the dry rub ingredients. Use a fork to crush or remove any lumps that may form.",
+        "Rinse your turkey under cold water and pat dry with paper towels",
+        "Apply the rub to the turkey, covering all sides generously and working into any crevices or folds in the meat",
+        "Smoke immediately"
+      ]
+    }
+  ]
+}

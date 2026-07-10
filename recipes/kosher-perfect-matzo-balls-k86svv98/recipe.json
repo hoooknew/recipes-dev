@@ -1,0 +1,94 @@
+{
+  "name": "Kosher Perfect Matzo Balls",
+  "author": "Feral Grandpa",
+  "description": "OK, OK, I know; your bubbie made the perfect matzo balls. But they are finicky little rascals that are made a 1000 different ways and everyones bubbies always made them best. What I want to share here is the simplest, no nonsence methode of the creation of soft and/or firm matzo balls; for just like white and dark meat people, there are soft and firm matzo ball people.",
+  "servings": "18-24 Matzo Balls",
+  "prep_time": "10m",
+  "cook_time": "40m",
+  "total_time": "50m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "matzo meal"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "eggs"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "oil or 4   tablespoons   melted schmaltz (fat)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "water or 4   tablespoons    broth"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "baking powder (delete for firm matzo balls)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "onion powder (optional)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "garlic powder (optional)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dried parsley (optional)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "dill weed (optional)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "pepper (optional)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Follow these instructions carefully.",
+        "Measure and mix dry ingredients into a bowl.",
+        "Individually break the eggs into a clear glass, discarding any with blood spots, and then pour into a second bowl.",
+        "Add oil or schmaltz (and water or broth for firm matzo balls) to the eggs and stir gently with a fork until the yolks are broken and the oil just mixed.",
+        "Pour egg mixture into the dry mixture and gently mix with the fork.",
+        "DO NOT OVER MIX.",
+        "Treat it like a muffin mixture; if you over mix they will be tough.",
+        "Place in the fridge for 1 hour.",
+        "Bring a large pot of water to a rolling boil on the stove.",
+        "After matzo ball mix has set, gently remove teaspoon fulls of the batter and roll into 1-2\" balls and drop into the water.",
+        "When all the balls are in the water leave it to boil until all the balls float to the top, then lower the temperature to a rolling simmer for 40 minutes and your matzo balls will be ready.",
+        "DO NOT STIR AT ANY TIME.",
+        "The matzo balls may be removed from the water with a slotted spoon and served in soup, with a stew, as a side dish with gravy or placed on a cookie sheet and frozen covered for a later use."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Chicken Fajita",
+  "author": "Peter Allen",
+  "description": "The fajita is a gem brought to the world from Tex-Mex culture. I love fajitas because they are very quick to prepare and very quick to please.",
+  "ingredient_sections": [
+    {
+      "name": "Chicken Fajita Marinade",
+      "ingredients": [
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "vegetable oil, not olive oil as it will burn"
+        },
+        {
+          "quantity": 1,
+          "unit": "oz",
+          "ingredient": "fresh lime juice"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "garlic, finely minced"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "jalapeno, seeded and finely minced (optional)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "black or white pepper"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "cumin"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "chili powder"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "cilantro, minced"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "lb",
+          "ingredient": "chicken, sliced thin (about the size of your pinkie finger)"
+        }
+      ]
+    },
+    {
+      "name": "Chicken Fajitas",
+      "ingredients": [
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Marinated chicken"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "bell peppers, seeded and cut into strips"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "onion, cut into strips"
+        },
+        {
+          "quantity": {
+            "min": 8,
+            "max": 12
+          },
+          "unit": "each",
+          "ingredient": "flour tortillas"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "vegetable oil, divided in half"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Hot sauce, optional"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt and pepper to taste"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Chicken Fajita Marinade",
+      "steps": [
+        "Mix all of the ingredients except the chicken. Taste for seasoning and adjust if necessary. Add the chicken and make sure to coat it well. Store in the refrigerator for at least 1 hour, but not more than 3 hours, as the lime juice will start to cook the chicken, making the final result tough."
+      ]
+    },
+    {
+      "name": "Chicken Fajitas",
+      "steps": [
+        "Start by “baking” the tortillas. Heat a heavy skillet to a medium heat. Place a tortilla in the skillet for about 1 minute, then flip and repeat. We are just looking to heat the tortilla, not crisp it. I like to use my hands for this so I don’t tear the tortilla. Bake all the tortillas, then stack them on a plate, covering with a towel to keep warm. I don’t use any oil when I bake my tortillas, they tend to get greasy if you do.",
+        "I like to do this part as a 2 step process, the end result is worth the extra step.  Heat a heavy skillet or sauté pan to a medium high heat. Add 1 tablespoon of oil (remember, not olive, unless it’s blended). Drain excess marinade from the chicken and add to the skillet. You should be prepared to stir the chicken quite often. You want to get good color on the chicken without burning or over cooking it.",
+        "Here’s the extra step part, remove the chicken from the pan when it is just cooked, before it can dry out. Allow the pan to get good and hot again, it’s ok if the pan starts to smoke or appear to burn. Add the remaining oil, peppers, onions, a pinch of salt and pepper, and a dash of hot sauce. Stir vigorously, scraping the bottom as you go. The veggies are done when they start to get good color, and before they start to go limp. Add the chicken back to the pan, stir and kill the heat.",
+        "I like to keep the chicken and veggies in the skillet, placed on a trivet on the table, so everyone can make their own fajita. You can serve them with shredded cheese, guacamole, salsa, sour cream, black beans, or anything else, the possibilities are endless. Enjoy!"
+      ]
+    }
+  ]
+}

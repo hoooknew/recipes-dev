@@ -1,0 +1,64 @@
+{
+  "name": "Air Fried Asian Chicken",
+  "author": "Anabella Alfaro",
+  "servings": "4 Servings",
+  "total_time": "20m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "chicken thighs, skinless"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Drizzle of soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "sesame oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground garlic"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ginger powder"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "‎ Salt"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Green part of a green onion, for garnishing"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Sesame seeds, for garnish"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Marinate the thighs in all the ingredients for at least 1 Hour, covered, in the refrigerator.",
+        "On the Instant Vortex control panel, press Air Fry and then set time to 20 Minutes and temperature to 375°F (190°C). Press Start.",
+        "Once Add Food appears on the display, open the basket and put the thighs in. Close.",
+        "When the fryer indicates it, turn the thighs over.",
+        "Lastly, serve and add the green part of the green onion and sesame seeds on top.",
+        "Serve with a mix of brown rice and quinoa, and a salad."
+      ]
+    }
+  ]
+}

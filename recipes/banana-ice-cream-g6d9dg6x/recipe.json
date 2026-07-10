@@ -1,0 +1,75 @@
+{
+  "name": "Banana Ice Cream",
+  "author": "Erin Clarke",
+  "description": "This is classic, real-deal homemade banana ice cream made with milk and cream. Pick some add-ins or eat as-is, it's a treat either way!",
+  "servings": "8 servings (1 quart)",
+  "prep_time": "5m",
+  "cook_time": "20m",
+  "total_time": "9h",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "heavy cream"
+        },
+        {
+          "quantity": 5,
+          "unit": "each",
+          "ingredient": "large egg yolks (save the whites for another use)"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "whole milk (yes, it must be WHOLE milk!)"
+        },
+        {
+          "quantity": 0.66,
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": {
+            "min": 3,
+            "max": 4
+          },
+          "unit": "each",
+          "ingredient": "large very ripe bananas ((or 4 medium) the more brown, the better)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dark rum ( or vodka*)"
+        },
+        {
+          "quantity": 4,
+          "unit": "oz",
+          "ingredient": "bittersweet chocolate (roughly chopped (about ⅔ cup))"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Prep your workstation: Create an ice bath by placing a moderate amount of ice and water in a large bowl. Set an empty, medium bowl in the larger one on top of the ice. Pour the heavy cream into the medium bowl and set a strainer on top. In a separate bowl, whisk the egg yolks until well combined.",
+        "In a medium saucepan over medium heat, stir together the milk, sugar, and salt until small bubbles form along the edges and the sugar has dissolved. Do not let boil.",
+        "Gradually pour some of the milk into the bowl with the egg yolks, whisking constantly as you pour (I like to use a ladle for this). Once you've poured in some of the milk, return the saucepan to the stove over low heat. Slowly pour the yolks into the saucepan, stirring constantly. This process is called tempering and will keep the eggs from scrambling.",
+        "Continue cooking the egg-milk mixture (also called custard) over low heat, stirring constantly and scraping the bottom of the saucepan with a rubber spatula or wooden spoon, until the custard thickens enough to coat the back of the spatula. Strain the custard into the bowl with the heavy cream.",
+        "Place half of the custard into a blender or food processor with the bananas. Puree until smooth, then pour it back into the bowl with the rest of the custard. Stir in the vanilla extract and rum. Cover, pressing a piece of plastic wrap against the surface, then chill thoroughly in the refrigerator for at least 4 hours or, if time allows, overnight.",
+        "Freeze the ice cream in your ice cream maker according to the manufacturer’s instructions, adding the chocolate during the last 5 minutes of churning. Transfer the ice cream to an airtight container and freeze 3 hours or overnight. Let stand at room temperature 10 minutes before serving."
+      ]
+    }
+  ]
+}

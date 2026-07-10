@@ -1,0 +1,69 @@
+{
+  "name": "Homemade Luxardo Cherries",
+  "author": "anerdcooks.com",
+  "description": "These Homemade Luxardo Cherries are the perfect addition to your home bar and to a cocktail. They are particularly good in an Old Fashioned!",
+  "servings": "70",
+  "prep_time": "15m",
+  "cook_time": "15m",
+  "total_time": "30m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "turbinado sugar"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "tart cherry juice"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "almond extract"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "cinnamon stick"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "ground nutmeg"
+        },
+        {
+          "quantity": 1,
+          "unit": "pinch",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "Luxardo Maraschino Liqueur"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "sweet red cherries (pitted and stemmed)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Combine sugar, cherry juice, vanilla and almond extracts, cinnamon, nutmeg, and salt in a saucepan, and bring it to a simmer. Stir occasionally as the sugar dissolves.",
+        "Add the Luxardo Maraschino Liqueur and whisk to combine. Add the pitted cherries. Stir to coat all of the cherries in the syrup. Simmer for 10-15 minutes to soften the cherries slightly. ",
+        "Turn off the heat, discard the cinnamon stick, and allow the cherries to cool. Once cooled, store in the fridge in a tightly sealed jar. "
+      ]
+    }
+  ]
+}

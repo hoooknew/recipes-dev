@@ -1,0 +1,68 @@
+{
+  "name": "Hawaiian Roll Ham Sandwiches",
+  "author": "Leah Beyer",
+  "description": "Melt in your mouth buttery, cheesy King's Hawaiian Roll ham sandwiches are the perfect recipe for any party or weeknight meal.",
+  "servings": "12 sandwiches",
+  "prep_time": "20m",
+  "cook_time": "25m",
+  "total_time": "45m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 12,
+          "unit": "each",
+          "ingredient": "Hawaiian sweet rolls"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "onion (minced or grated with food chopper)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "stick butter"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "Dijon Mustard"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": 3,
+          "unit": "tsp",
+          "ingredient": "poppy seeds"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "lb",
+          "ingredient": "deli ham"
+        },
+        {
+          "quantity": 8,
+          "unit": "each",
+          "ingredient": "slices Swiss cheese"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Melt butter in a small skillet. Once melted add onions.",
+        "When onions begin to soften add mustard, Worcestershire sauce, and poppy seeds into onions and butter. Simmer for two to three minutes.",
+        "Remove rolls from package, keeping them all connected and cut the rolls in half lengthwise. Place the bottoms in a 13 x 9 pan lined with aluminum foil.",
+        "Spread 1/2 of the butter and onion mixture across rolls bottoms follow by the ham and then the cheese.",
+        "Top with the rolls tops and spread the remaining butter and onion mixture over the top of the rolls. Cover with aluminum.",
+        "Bake covered with foil for 20 minutes on 350 or till all the cheese is melted."
+      ]
+    }
+  ],
+  "notes": "*You can freeze and refrigerate these sandwiches. If frozen cook in a 50 degree cooler over for 15-20 minutes longer. Recommended to thaw in fridge before baking though. Sandwiches that come out of the fridge to oven may take 30 minutes on 350."
+}

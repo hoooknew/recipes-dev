@@ -1,0 +1,89 @@
+{
+  "name": "Tiramisu Cheesecake",
+  "author": "Amelia",
+  "description": "This Tiramisu Cheesecake recipe combines the bold flavors of espresso-soaked ladyfingers with the creamy richness of mascarpone and cream cheese for a stunning dessert fusion. Perfect for special occasions or make-ahead treats.",
+  "servings": "12 slices",
+  "prep_time": "25m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": {
+            "min": 20,
+            "max": 25
+          },
+          "unit": null,
+          "ingredient": "ladyfingers (or graham crackers)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "brewed espresso or strong coffee"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "unsalted butter, melted"
+        },
+        {
+          "quantity": 24,
+          "unit": "oz",
+          "ingredient": "cream cheese (full fat, softened)"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "mascarpone cheese (room temp)"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "large eggs"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "brewed espresso (cooled)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "coffee liqueur (optional)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Unsweetened cocoa powder, for dusting"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Whipped cream or mascarpone whipped topping (optional)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Preheat oven to 325°F (163°C). Lightly grease a 9-inch springform pan.",
+        "Make the crust: Crush ladyfingers or graham crackers into fine crumbs. Mix with melted butter and 2 tbsp espresso. Press firmly into the pan. Bake for 10 minutes, then cool.",
+        "Prepare the filling: Beat cream cheese and mascarpone until smooth. Add sugar, then eggs one at a time. Mix in vanilla, espresso, and optional liqueur.",
+        "Pour filling over cooled crust. Wrap the pan in foil and place in a water bath.",
+        "Bake for 55–65 minutes until the center jiggles slightly. Let cool in the oven with the door cracked for 1 hour.",
+        "Chill in the fridge for at least 4 hours, preferably overnight.",
+        "Before serving, dust with cocoa powder and top with whipped cream if desired."
+      ]
+    }
+  ]
+}

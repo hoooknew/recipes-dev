@@ -1,0 +1,62 @@
+{
+  "name": "Grilled Cheese Hot Dogs",
+  "author": "Brad Prose",
+  "description": "These Grilled Cheese Hot Dogs combine the bite of a savory hot dog enveloped in a golden cheese crust with insane textures and pure comfort. Strap in, this wild fusion of hot dogs with grilled cheese is a simple recipe that anyone will enjoy.",
+  "servings": "6",
+  "prep_time": "5m",
+  "cook_time": "15m",
+  "total_time": "20m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "hot dogs, skinless"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "shredded cheddar cheese"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "shredded Monterrey jack cheese"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "Sedona Sand All-Purpose Seasoning"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pickles or pickled jalapenos"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "hot dog buns"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Score the hot dogs with a sharp knife diagonally so they open up and crisp with more texture when cooked. This step is optional but recommended.",
+        "Mix up the 2 cheeses together and season as desired.",
+        "Heat up the griddle to a medium heat. Cook the hot dogs for a few minutes on each side until desired. Flip as needed to crisp up. Remove from the heat and set aside.",
+        "Prepare the buns. Using half of the cheese, sprinkle some into each of the hot dog buns. Add in the pickles, cooked hot dog, and rest of the cheese. Pack the top layer of cheese tight over the hot dog, as it will need to be flipped for searing.",
+        "Melt the butter on the griddle and spread it around. Quickly flip and sear the hot dogs, cheese-side down. Do this for a few minutes until the cheese has melted and formed a crispy crust. Flip over the grilled cheese hot dog and toast the back of the bun. Remove after a couple of minutes once toasted.",
+        "Serve with any favorite hot dog toppings, or use honey mustard as a dipping sauce."
+      ]
+    }
+  ]
+}

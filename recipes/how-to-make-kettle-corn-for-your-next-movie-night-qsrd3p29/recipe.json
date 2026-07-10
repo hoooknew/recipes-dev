@@ -1,0 +1,41 @@
+{
+  "name": "How to Make Kettle Corn for Your Next Movie Night",
+  "description": "Want to know how to make kettle corn at home? All you need is four ingredients and six minutes, and you'll be digging into this salty-sweet snack in no time.",
+  "servings": "6 - 8 serving(s)",
+  "prep_time": "2m",
+  "total_time": "6m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "1/4 c. coconut oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "1/2 c. popcorn kernels"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "1/4 c. granulated sugar"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Heat the coconut oil in a shallow 5- to 6-quart saucepan with a handle over medium-high heat. Add the popcorn kernels, then the granulated sugar. Using a rubber spatula, stir to combine. Cover with a tight-fitting lid. Wait until you hear the first few kernels popping, then remove the pan from the heat, shake for 3 seconds and return the pan to the heat for 10 seconds. Continue to do this until the popcorn has almost reached the lid of the pot and the pops begin to slow (2 to 3 seconds between each pop).",
+        "Remove the pan from the heat and give it one more good shake, then pour the kettle corn onto a large sheet tray. Sprinkle all over with kosher salt."
+      ]
+    }
+  ]
+}

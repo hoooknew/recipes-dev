@@ -1,0 +1,105 @@
+{
+  "name": "Stir-fried Beef with Green Beans, Gochujang and Kimchi",
+  "description": "Full of umami flavours, tender beef and kimchi, it’s a treat for the tastebuds! Have everything prepared and ready to go before you start cooking.",
+  "servings": "Serves: 2",
+  "ingredient_sections": [
+    {
+      "name": "Sauce",
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "gochujang (Korean red pepper paste)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "honey"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "grated fresh ginger"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "garlic, crushed"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "sesame oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "rice vinegar"
+        },
+        {
+          "quantity": {
+            "min": 0.5,
+            "max": 1
+          },
+          "unit": "tsp",
+          "ingredient": "chilli flakes, to taste"
+        }
+      ]
+    },
+    {
+      "name": "To cook and serve",
+      "ingredients": [
+        {
+          "quantity": 300,
+          "unit": "g",
+          "ingredient": "beef schnitzel, sliced into very thin strips (see Cook’s note)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "sea salt and ground pepper"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "vegetable oil"
+        },
+        {
+          "quantity": 200,
+          "unit": "g",
+          "ingredient": "slim green beans, thinly sliced on the diagonal"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "kimchi"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "toasted sesame seeds and finely chopped coriander, to serve"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "hot cooked noodles or rice, to serve"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Sauce: Mix all the ingredients together and set aside.",
+        "To cook and serve: Season the steak with salt and pepper. Heat a large frying pan with a little oil until searing hot. Add the steak in small batches and cook for 10-15 seconds. Transfer to a plate and cover to keep warm while you cook the remaining steak. Add a little more oil to the pan, add the beans and cook until lightly blistered. Add the kimchi and cook for 2 minutes, tossing together. Tip in the sauce and let it bubble up. Add the beef and resting juices and stir everything together.",
+        "Divide between bowls and top with the sesame seeds and coriander. Serve with noodles or rice.",
+        "Cook's note: The steak needs to be wafer-thin so it will cook in seconds and remain tender. Place the schnitzel between 2 pieces of plastic wrap and flatten with a rolling pin before cutting into 2cm-wide strips."
+      ]
+    }
+  ]
+}

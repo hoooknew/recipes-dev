@@ -1,0 +1,73 @@
+{
+  "name": "Welsh Rarebit",
+  "description": "It’s a very yummy upgrade on cheese on toast with a tangy, slightly hot (if you wish) roux topping, that bubbles and creates pockets for extra Worcestershire sauce or seasonings, it’s very, very nice indeedy!",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "plain flour"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "English mustard powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Cayenne Pepper (optional, plus more to taste)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Worcestershire sauce (plus more to taste)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pinch of salt & pepper"
+        },
+        {
+          "quantity": 130,
+          "unit": "ml",
+          "ingredient": "of ale or beer or apple juice"
+        },
+        {
+          "quantity": 200,
+          "unit": "ml",
+          "ingredient": "Milk or Single / Double cream"
+        },
+        {
+          "quantity": 400,
+          "unit": "g",
+          "ingredient": "cheddar cheese, grated (use a Welsh one again if you want!)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Bread, thickly sliced"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Get a saucepan and melt the butter until foaming over a low heat, stir in the flour and mix well to combine stirring often to thicken up, do this for a few minutes, keeping it moving.",
+        "Whisk in the cayenne pepper and mustard powder for a final minute and remove from the heat.",
+        "Pour in the cream whisking off the heat and the alcohol / apple juice if using whisking through to combine. Please note the cream is quite traditional, milk would also be fine.",
+        "Place back on the heat and warm stirring often until hot, turn the heat down to low, add in the cheese and whisk it through until the cheese is melted through and you are left with a lovely smooth mixture.",
+        "Take off the heat and put your bread in the toaster.",
+        "Once the bread is toasted, spoon the topping onto the toast, as it cools it’ll form a small skin and set in place a bit so don’t overload it, just coat the edges.",
+        "Repeat with other slices of toast, place under the grill / broiler until browned and bubbling. As it cools down use a knife / chopstick etc to make lines in the topping going in both directions (the video shows this well) this forms pockets for more flavour to sit on top of it. So sprinkle on some more Worcester sauce and a light dusting of cayenne if you wish. Super delicious and not a rabbit in sight!"
+      ]
+    }
+  ]
+}

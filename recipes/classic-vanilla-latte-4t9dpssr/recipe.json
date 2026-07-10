@@ -1,0 +1,74 @@
+{
+  "name": "Classic Vanilla Latte",
+  "description": "An easy and simple vanilla latte recipe that uses homemade salted vanilla syrup and aeration for a texture better than most cafes.",
+  "ingredient_sections": [
+    {
+      "name": "Salted vanilla syrup",
+      "ingredients": [
+        {
+          "quantity": 200,
+          "unit": "g",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 100,
+          "unit": "g",
+          "ingredient": "hot water"
+        },
+        {
+          "quantity": 10,
+          "unit": "g",
+          "ingredient": "vanilla paste"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "g",
+          "ingredient": "kosher salt"
+        }
+      ]
+    },
+    {
+      "name": "To cook and serve",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "shots of espresso"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "fl oz",
+          "ingredient": "salted vanilla syrup"
+        },
+        {
+          "quantity": 5,
+          "unit": "fl oz",
+          "ingredient": "lactose-free whole milk"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Salted vanilla syrup",
+      "steps": [
+        "Into a carafe or bowl, add 200 g of sugar and 100 g of hot water.",
+        "Stir for about 15 seconds to dissolve the sugar.",
+        "Add 10 g of vanilla paste and stir again.",
+        "Add 0.5 g of kosher salt and stir.",
+        "Let cool to room temperature."
+      ]
+    },
+    {
+      "name": "To cook and serve",
+      "steps": [
+        "Add 0.5 fl oz of salted vanilla syrup to a pitcher, shaker, or cup.",
+        "Add a double shot of espresso.",
+        "Add 5 fl oz of lactose-free whole milk.",
+        "Using a handheld milk frother, froth the mixture near the top of the milk for about 15 seconds to aerate.",
+        "Pour the latte over a glass filled with ice."
+      ]
+    }
+  ],
+  "notes": "I recommend making the syrup in batches that you'll use within a month. \n\ntest."
+}

@@ -1,0 +1,51 @@
+{
+  "name": "VANILLA ICE CREAM #2 (EXTRA RICH AND CREAMY)",
+  "servings": "Makes about 1 quart",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 7,
+          "unit": "each",
+          "ingredient": "large egg yolks"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "half-and-half"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "heavy cream"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "vanilla extract"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a medium mixing bowl, beat the sugar and salt into the egg yolks until thickened and pale yellow. Set aside.",
+        "Bring the half-and-half to a simmer in a heavy medium sauce pan. Slowly beat the hot half-and-half into the eggs and sugar. Pour the entire mixture back into the pan and place over very low heat or in a double boiler. Stir constantly with a whisk or wooden spoon until the custard thickens slightly. Be careful not to let the mixture boil or the eggs will scramble.",
+        "Remove from the heat and pour the hot custard through a strainer into a large, clean bowl. Allow the custard to cool slightly, then stir in the cream and vanilla. Cover and refrigerate until cold or overnight.",
+        "Stir the chilled custard, then freeze in 1 or 2 batches in your ice cream machine according to the manufacturer's instructions. When finished, the ice cream will be soft but ready to eat. For firmer ice cream, transfer to a freezer-safe container and freeze at least 2 hours."
+      ]
+    }
+  ],
+  "notes": "With so many egg yolks in this recipe, it's easy to \"scramble\" this custard. So either use a very low heat or cook this custard in a double boiler or stainless steel bowl set over a pot of simmering water. This takes a bit longer, but it is a safe way to ensure a smooth custard.\n\nVariations\nBITTERSWEET CHOCOLATE-LACED VANILLA ICE CREAM Add 1 cup shaved bittersweet chocolate to the machine when the ice cream is semifrozen. Allow the machine to mix in the chocolate. Proceed with the recipe as directed."
+}

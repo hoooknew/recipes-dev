@@ -1,0 +1,109 @@
+{
+  "name": "Thai inspired basil chicken dish (Pad Ka Prao)",
+  "description": "This Thai inspired basil chicken dish (Pad Ka Prao) has earned a spot on the regular rotation in my house. It comes together in about 25 minutes so it’s perfect for a weeknight, but tasty enough for the weekend.",
+  "prep_time": "25m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "boneless skinless chicken thighs (pre-ground chicken works too)"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "shallots, rough chopped"
+        },
+        {
+          "quantity": 5,
+          "unit": "each",
+          "ingredient": "garlic, minced"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "ginger, grated or minced"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "green beans, cut into 2”/5cm pieces"
+        },
+        {
+          "quantity": 4,
+          "unit": "cup",
+          "ingredient": "raw spinach"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "fresh basil, chiffonade(d)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "eggs"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "High smoke point oil (peanut, canola, grapeseed, etc)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pinch red chili flakes"
+        }
+      ]
+    },
+    {
+      "name": "SAUCE",
+      "ingredients": [
+        {
+          "quantity": 1.5,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tbsp",
+          "ingredient": "fish sauce"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "oyster sauce (or hoisin if you can’t find it)"
+        },
+        {
+          "quantity": 3.33,
+          "unit": "tbsp",
+          "ingredient": "chicken stock"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "brown sugar"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "If grinding your own chicken, cut chicken into chunks. Place in an even layer on a small tray and freeze for 10 minutes.",
+        "Prep/cut veg and mix sauce sauce while you wait for chicken to freeze.",
+        "To make the sauce, stir the following together until dissolved: soy sauce, fish sauce, oyster sauce, chicken stock, brown sugar.",
+        "Add the 10-min frozen chicken to a food processor and process to break down into a coarse medium grind.",
+        "Preheat a large saute pan over high and add a glug/long squeeze of oil. Add cut green beans and a pinch of salt and stir to combine. Cook for 3-4 mins, stirring until they’re charred on the outside and slightly softened. Remove green beans from the pan and set aside.",
+        "Add another glug/squeeze of oil and add the chicken to the pan with a pinch of salt, breaking up the chicken while you cook for about 3 minutes until beginning to brown. Add chopped shallots and continue to cook for another 2 minutes. Add garlic, ginger, and pinch of chili flake. Continue to cook for about 30 seconds. Add back in cooked green beans and raw spinach. When spinach is wilted in, stir in sauce. Cook for 20-30 seconds or until sauce has reduced a bit. Remove from heat and stir in basil.",
+        "Serve over rice and top with fried egg (I like to cook mine on medium high to get crisped edges)"
+      ]
+    }
+  ]
+}

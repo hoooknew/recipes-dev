@@ -1,0 +1,59 @@
+{
+  "name": "Balsamic Vinaigrette Recipe",
+  "description": "Slightly sweet, tangy balsamic vinaigrette is versatile as can be. As a dressing for salad, drizzled on roasted vegetables and chicken wraps, everyone loves this recipe.",
+  "servings": "20 tablespoons",
+  "prep_time": "5m",
+  "total_time": "5m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "honey"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dijon mustard"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "fine sea salt"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "freshly crushed black pepper (finely ground)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large garlic clove (minced)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "balsamic vinegar"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "extra virgin olive oil"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a small mixing bowl, whisk together the honey, balsamic, mustard, salt, pepper and garlic. Add the oil and whisk thoroughly to combine. Continue whisking until the dressing is fully emulsified.",
+        "Store in a jar with a lid and refrigerate. Shake well before serving. Enjoy!"
+      ]
+    }
+  ],
+  "tags": [
+    "favorite"
+  ]
+}

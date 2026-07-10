@@ -1,0 +1,116 @@
+{
+  "name": "Gochujang Garlic Eggs",
+  "description": "Gochujang garlic eggs are considered the arch rival of soy marinated eggs and are an addictive Korean side dish.",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "green onions"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "cloves of garlic"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "green and red chilies (optional)"
+        },
+        {
+          "quantity": 12,
+          "unit": "each",
+          "ingredient": "large eggs"
+        },
+        {
+          "quantity": 8,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "lb",
+          "ingredient": "ground beef"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "gochujang (Korean chili paste)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "Korean chili pepper flakes"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "oyster sauce"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "chicken bouillon powder"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "honey"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "black pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "toasted sesame oil"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "toasted sesame seeds"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Take three green onions and thinly slice them. Separate the white parts and green parts.",
+        "Smash three cloves of garlic and finely chop them. Thinly slice some green and red chilies.",
+        "For the seasoning paste, in a small container, add 2 tbspoons of gochujang, 2 tbsps of Korean chili pepper flakes, 1 tbsp of soy sauce, 1 tbsp of oyster sauce, half a tablespoon of chicken bouillon powder, half a tablespoon of sugar, 1 tbsp of honey, some black pepper, and give it a good mix.",
+        "Fill your pot with eight cups of water and bring it to a boil. Carefully add 12 large eggs and let them cook on a gentle heat for about 7 minutes.",
+        "Once time's up, take them out and shock them in some ice water, then peel.",
+        "Add 1 tbsp of oil to a large pan and heat over medium-high heat. Add a half pound of ground beef, sear for 1 minute, flip, and cook for 1 to 2 minutes until no longer pink.",
+        "Add the white parts of the green onions and garlic, and stir fry for 1 minute.",
+        "Reduce heat to low, add the seasoning paste, and sauté for 2 minutes.",
+        "Add two cups of water, stir, and bring to a boil. Reduce heat to medium-high, add the eggs, and cook down for 7 minutes.",
+        "Turn heat off, add green onions, chilies, half a tablespoon of toasted sesame oil, and a generous amount of toasted sesame seeds. Give it a final mix."
+      ]
+    }
+  ]
+}

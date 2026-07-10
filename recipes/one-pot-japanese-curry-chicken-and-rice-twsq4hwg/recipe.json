@@ -1,0 +1,99 @@
+{
+  "name": "One-Pot Japanese Curry Chicken and Rice",
+  "author": "Kay Chun",
+  "description": "Usually milder and sweeter than Indian curries, classic Japanese curry is a thick beef-and-vegetable stew served over rice. This recipe is not a traditional one, but rather an easy weeknight version, a one-pot meal featuring juicy chicken thighs, vegetables and rice.",
+  "servings": "4 servings",
+  "total_time": "1h",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "lb",
+          "ingredient": "bone-in, skin-on chicken thighs (about 4 to 6 thighs)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "canola oil"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Salt and black pepper"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "finely chopped white or yellow onion"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "Madras curry powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "minced garlic"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "minced fresh ginger"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "tsp",
+          "ingredient": "ground nutmeg"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "short-grain white rice, rinsed until water runs clear"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large baking potato (about 1 pound), such as russet, white or Idaho, peeled and cut into 1/2-inch cubes"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "medium carrots, sliced 1/2-inch thick"
+        },
+        {
+          "quantity": 3.5,
+          "unit": "cup",
+          "ingredient": "low-sodium chicken broth"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Chopped scallions, pickles, kimchi and/or hot sauce, for serving"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Heat oven to 375 degrees. Rub chicken with 1 tablespoon oil, and season with salt and pepper.",
+        "In a large Dutch oven or heavy pot, heat remaining 1 tablespoon oil with 1 tablespoon butter over medium until butter is melted. Working in two batches, brown chicken 3 to 4 minutes per side, and transfer to a plate.",
+        "Add onion to the pot, season with salt and pepper, and cook, stirring, until softened, 2 minutes. Add curry powder, garlic, ginger, nutmeg and the remaining 2 tablespoons butter, and stir until butter is melted and spices are fragrant, 1 minute.",
+        "Add rinsed rice and stir until evenly coated in spices. Add potato, carrots, broth and Worcestershire sauce, scraping bottom of pot to lift up any browned bits. Season broth generously with salt and pepper. Arrange chicken (and any accumulated juices) on top, skin side up, and bring to a boil over high. Cover and bake for 20 minutes. Uncover and bake until most of the liquid is absorbed and chicken is golden and cooked through, about 10 minutes longer.",
+        "Divide chicken and rice among bowls, and garnish with scallions. Serve with any combination of pickles, kimchi and hot sauce."
+      ]
+    }
+  ]
+}

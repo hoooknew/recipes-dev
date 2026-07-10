@@ -1,0 +1,81 @@
+{
+  "name": "Instant Pot Mushroom Risotto",
+  "author": "Chungah",
+  "description": "Truly the EASIEST no-fuss risotto! Amazingly rich + creamy, loaded with mushrooms, spinach, peas and Parmesan!",
+  "servings": "6 servings",
+  "prep_time": "15m",
+  "cook_time": "20m",
+  "total_time": "35m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter (divided)"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "garlic (minced)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "onion (diced)"
+        },
+        {
+          "quantity": 8,
+          "unit": "oz",
+          "ingredient": "cremini mushrooms (thinly sliced)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt and freshly ground black pepper (to taste)"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "chicken broth"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "arborio rice"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "dried thyme"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "baby spinach"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "frozen peas (thawed)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "freshly grated Parmesan"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Set a 6-qt Instant Pot® to the high saute setting. Melt 2 tablespoons butter; add garlic and onion, and cook, stirring often, until onions have become translucent, about 3-4 minutes.",
+        "Add mushrooms and cook, stirring occasionally, until tender, about 3-4 minutes; season with salt and pepper, to taste.",
+        "Stir in chicken broth, rice and thyme. Select manual setting; adjust pressure to high, and set time for 6 minutes. When finished cooking, quick-release pressure according to manufacturer&#8217;s directions.",
+        "Stir in spinach and remaining 2 tablespoons butter until the spinach has wilted, about 2 minutes. Stir in peas and Parmesan until heated through, about 30 seconds to 1 minute.",
+        "Serve immediately."
+      ]
+    }
+  ]
+}

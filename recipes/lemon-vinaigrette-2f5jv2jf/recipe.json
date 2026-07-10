@@ -1,0 +1,69 @@
+{
+  "name": "Lemon Vinaigrette",
+  "author": "Jeanine Donofrio, Phoebe Moore",
+  "description": "This easy lemon vinaigrette recipe is a great one to have in your back pocket. It's delicious and versatile - perfect for tossing with salads, roasted vegetables, and more!",
+  "servings": "6 to 8",
+  "prep_time": "5m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "fresh lemon juice"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "small garlic clove (grated)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Dijon mustard"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "sea salt (more to taste)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Freshly ground black pepper"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "honey"
+        },
+        {
+          "quantity": {
+            "min": 0.25,
+            "max": 0.33
+          },
+          "unit": "cup",
+          "ingredient": "extra-virgin olive oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "fresh or dried thyme (optional)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a small bowl, whisk together the lemon juice, garlic, mustard, salt, pepper, and honey, if using.",
+        "Drizzle in the olive oil while whisking and continue to whisk until the dressing is emulsified. Alternatively, combine everything in a jar with a tight-fitting lid and shake to combine.",
+        "If your dressing is too tangy, add more olive oil, to taste.",
+        "Add the thyme, if desired, and season to taste. Store in the fridge for up to 1 week. The olive oil will solidify a bit in the fridge. To soften, let the dressing sit at room temp for a few minutes and stir before using."
+      ]
+    }
+  ],
+  "tags": [
+    "favorite"
+  ]
+}

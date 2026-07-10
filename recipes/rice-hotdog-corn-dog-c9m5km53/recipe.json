@@ -1,0 +1,67 @@
+{
+  "name": "Rice Hotdog (Corn dog)",
+  "description": "A savory and healthy rice hotdog. Good for a meal or a snack. It's even more convenient as it doesn't get on your hands when you eat.",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "sausage"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "bowls of rice (1/2 bowl per hotdog)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "cheese"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "dried seaweed"
+        }
+      ]
+    },
+    {
+      "name": "Sauce",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 0.66,
+          "unit": "tbsp",
+          "ingredient": "cooking wine"
+        },
+        {
+          "quantity": 0.66,
+          "unit": "tbsp",
+          "ingredient": "corn syrup or honey"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Make a few slits on both sides of the sausages.",
+        "Grill sausages in a pan with cooking oil over medium low heat.",
+        "Remove the excess cooking oil with paper towel.",
+        "Mix 2 bowls of cooked rice with 2/3 Tablespoon of sesame oil and a little salt.",
+        "Place cheese and sausage on the dried seaweed and roll it. Put a little rice at the end to attach it firmly.",
+        "Make a rice ball with 1/2 bowl of rice. Spread it like a blanket.",
+        "Put sausage and roll it. If the blanket is big, simply cut out it.",
+        "Press and shape the rice hotdog.",
+        "Grill the rice hotdogs in a pan with a little cooking oil over medium low heat, turning to grill evenly.",
+        "Change the heat to low heat before applying the sauce. Apply the sauce and grill until it turns to light brown.",
+        "Add sticks and garnish with toasted black sesame seeds."
+      ]
+    }
+  ]
+}

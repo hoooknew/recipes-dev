@@ -1,0 +1,118 @@
+{
+  "name": "Shrimp Puttanesca",
+  "author": "Kate McKiernan",
+  "description": "Our 30-minute shrimp puttanesca recipe features a fiery mix of olives, capers, and garlic. It doesn't just show up—it demands your attention.",
+  "servings": "4 servings",
+  "prep_time": "15m",
+  "cook_time": "15m",
+  "total_time": "30m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "olive oil, divided"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "uncooked shrimp (31-40 per pound), peeled and deveined"
+        },
+        {
+          "quantity": {
+            "min": 0.75,
+            "max": 1
+          },
+          "unit": "tsp",
+          "ingredient": "crushed red pepper flakes, divided"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "small onion, chopped"
+        },
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "each",
+          "ingredient": "anchovy fillets, finely chopped"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "garlic cloves, minced"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "grape tomatoes or small cherry tomatoes"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "dry white wine or vegetable broth"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "cup",
+          "ingredient": "pitted Greek olives, coarsely chopped"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "drained capers"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Sugar to taste"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Chopped fresh Italian parsley"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Hot cooked spaghetti, optional"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Cook the shrimp",
+      "steps": [
+        "In a large skillet, heat 1 tablespoon of oil over medium heat. Saute the shrimp with 1/2 teaspoon of pepper flakes until the shrimp turn pink, two to three minutes. Stir in salt and then remove the shrimp from the pan."
+      ]
+    },
+    {
+      "name": "Start the sauce",
+      "steps": [
+        "In the same pan, heat the remaining oil over medium heat and saute the onion until tender, about two minutes. Add the anchovies, garlic and remaining pepper flakes, then cook and stir until they're fragrant, about one minute. Stir in the tomatoes, wine, olives and capers, and bring the sauce to a boil."
+      ]
+    },
+    {
+      "name": "Simmer the sauce",
+      "steps": [
+        "Reduce the heat and simmer the sauce, uncovered, until tomatoes are softened and the mixture thickens. It should take 8 to 10 minutes."
+      ]
+    },
+    {
+      "name": "Add the shrimp and finish",
+      "steps": [
+        "Stir in the shrimp. Add sugar to taste, and sprinkle with the chopped parsley. If desired, serve the sauce with spaghetti. Editor's Tip: Always taste your sauce before serving. You never know if it needs more sugar or salt until it touches your tongue."
+      ]
+    }
+  ],
+  "notes": "Editor's Tip: Always taste your sauce before serving. You never know if it needs more sugar or salt until it touches your tongue."
+}

@@ -1,0 +1,69 @@
+{
+  "name": "BANANA PUDDING",
+  "description": "In this recipe, Matt makes homemade banana pudding completely from scratch the old-school Southern way. We’re talking rich vanilla custard cooked by hand, ripe bananas and layers of vanilla wafers that soften into pure comfort food magic.",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 6,
+          "unit": "tbsp",
+          "ingredient": "cornstarch"
+        },
+        {
+          "quantity": 6,
+          "unit": "cup",
+          "ingredient": "whole milk"
+        },
+        {
+          "quantity": 8,
+          "unit": "each",
+          "ingredient": "egg yolks"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "quantity": 4,
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Mini vanillas wafers"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "ripe bananas"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Making the Pudding",
+      "steps": [
+        "In a medium stockpot, whisk together the sugar and cornstarch. Gradually whisk in the milk until smooth.",
+        "Cook on medium heat, stirring constantly until the custard thickens and begins to bubble (10-12mins).",
+        "Whisk the egg yolks together in a bowl. Slowly whisk 1/2 cup of the hot custard to temper them. Slowly mix egg mixture into the custard. Cook and stir constantly until custard is thick and smooth. 2-3 mins. The custard should coat the back of a spoon.",
+        "Remove from heat. Stir in vanilla and butter and let cool 10 - 15 mins."
+      ]
+    },
+    {
+      "name": "Building the Pudding",
+      "steps": [
+        "We used small mason jars in this video to build our pudding but it can also be done in ramekins or a large bowl.",
+        "Start by placing 4 mini wafers and 3 banana slices at the bottom of your jar. Top with the custard until you reach halfway up the jar. Repeat a layer of wafers and banana and fill the rest of the jar with custard.",
+        "Place in the fridge for 4 hours or overnight to let the pudding set. Once cooled, top with crushed wafers and enjoy!"
+      ]
+    }
+  ]
+}

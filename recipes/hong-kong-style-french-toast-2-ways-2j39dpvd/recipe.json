@@ -1,0 +1,132 @@
+{
+  "name": "Hong Kong Style French Toast - 2 Ways",
+  "description": "A recent trip to Hong Kong had us eating this most amazing of French Toasts. Both are great versions, just depends on your mood: PB vs Beef Satay :)",
+  "servings": "As many as you'd like",
+  "ingredient_sections": [
+    {
+      "name": "Peanut Butter",
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "slices milk bread, or any good white bread"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Peanut butter"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "eggs, beaten"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Oil for frying"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Butter"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Sweetened Condensed Milk"
+        }
+      ]
+    },
+    {
+      "name": "Satay Beef Stuffed",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "steak (flank or skirt would be great) cut into thin strips"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "soy"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "brown sugar"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "finely chopped green onions"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "neutral oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "garlic paste"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "ginger paste"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "sesame oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "baking soda"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Milk bread, or any good white bread"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Oil for frying"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Butter"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Peanut Butter",
+      "steps": [
+        "Heat about an inch of oil in a skillet to 350 degrees",
+        "Spread peanut butter on 2 slices of the bread, then stack them and put the 3rd slice on top",
+        "Cut off crusts, dip in beaten egg then carefully add to the oil",
+        "Cook about 2 minutes a side, then each of the 4 edges until golden brown",
+        "Remove to a rack for a few seconds, then plate with a pat of butter and a drizzle of the sweetened condensed milk"
+      ]
+    },
+    {
+      "name": "Satay Beef Stuffed",
+      "steps": [
+        "Combine all satay ingredients (except oil & butter) in a bowl and mix well - refrigerate an hour",
+        "When ready to cook, add a tablespoon of neutral oil to a hot pan, then add about 1/2 the beef",
+        "Cook, stirring quickly until done, this should take no more than a minute - set aside and repeat with remaining beef",
+        "When ready to make the French toast, heat about an inch of oil in a skillet to 350 degrees",
+        "Put about 3 tablespoons of the cooled beef on one slice of bread, top with the other slice",
+        "Cut off crusts, dip in beaten egg then carefully add to the oil",
+        "Cook about 2 minutes a side, until golden brown",
+        "Remove to a rack for a few seconds, then plate with a pat of butter"
+      ]
+    }
+  ]
+}

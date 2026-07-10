@@ -1,0 +1,75 @@
+{
+  "name": "Cucumber Tomato Salad",
+  "author": "Jeanine Donofrio, Phoebe Moore",
+  "description": "This cucumber tomato salad recipe is one of my favorite summer side dishes! Featuring juicy tomatoes, sliced cucumbers, onion, herbs, and a tangy dressing, it's refreshing, delicious, and simple to make.",
+  "servings": "4",
+  "prep_time": "20m",
+  "total_time": "20m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large English cucumber (sliced into thin half-moons (2½ cups))"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "large tomatoes (about 1½ pounds, chopped)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "thinly sliced red onion"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "fresh lemon juice"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "red wine vinegar"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "sea salt"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Freshly ground black pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "extra-virgin olive oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "chopped fresh herbs (such as basil, parsley, dill, and/or mint)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Flaky sea salt"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a large bowl, toss together the cucumber, tomatoes, red onion, lemon juice, vinegar, salt, and several grinds of pepper. Chill in the refrigerator for 10 minutes.",
+        "Transfer to a serving bowl, leaving any excess juices behind. Drizzle with the olive oil, sprinkle with the herbs, and toss. Sprinkle with flaky sea salt, season to taste, and serve."
+      ]
+    }
+  ],
+  "tags": [
+    "favorite"
+  ]
+}

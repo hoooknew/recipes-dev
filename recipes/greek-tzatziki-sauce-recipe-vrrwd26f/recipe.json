@@ -1,0 +1,57 @@
+{
+  "name": "Greek Tzatziki Sauce Recipe",
+  "description": "I learned how to make this Greek Tzatziki Sauce Recipe while I was visiting Athens – everyone who tries it tells me that it’s the authentic tzatziki recipe they were looking for and it only takes 15 minutes!",
+  "servings": "8",
+  "prep_time": "15m",
+  "total_time": "15m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.5,
+          "unit": "each",
+          "ingredient": "of a large cucumber (unpeeled)"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "plain full fat Greek yogurt"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "large garlic cloves (finely minced)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "extra virgin olive oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "white vinegar"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "minced fresh dill"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Grate the cucumber and drain through a fine mesh sieve overnight in the fridge. If you don't have time to do the overnight drain, just gently press the cucumber in the sieve to press out more of the liquid.",
+        "Combine the yogurt, garlic, oil, vinegar, and salt in a large bowl. Cover and refrigerate overnight. If you want to serve this immediately, then you can skip the overnight part.",
+        "Transfer the grated cucumber and fresh dill to the yogurt mixture and stir to combine. Serve chilled with pita bread for dipping."
+      ]
+    }
+  ]
+}

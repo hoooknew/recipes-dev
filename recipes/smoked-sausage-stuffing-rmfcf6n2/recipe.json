@@ -1,0 +1,77 @@
+{
+  "name": "Smoked Sausage Stuffing",
+  "author": "Susie Bulloch (heygrillhey.com)",
+  "description": "This Smoked Sausage Stuffing is the perfect stuffing for your Thanksgiving meal. It's savory with just a touch of sweet from the dried cranberries.",
+  "servings": "8",
+  "prep_time": "20m",
+  "cook_time": "1h 30m",
+  "total_time": "1h 50m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 16,
+          "unit": "oz",
+          "ingredient": "16-ounce bag stuffing cubes"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter (melted)"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "sage pork sausage (casing removed)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "medium yellow onion (chopped)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "ribs celery (with leaves, chopped)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "Kosher salt"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "dried cranberries"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "Italian flat leaf parsley"
+        },
+        {
+          "quantity": 3,
+          "unit": "cup",
+          "ingredient": "chicken broth"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "eggs"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Preheat. Turn on your smoker and allow it to fully preheat to 225 degrees F.",
+        "Cook the sausage and vegetables. Melt 2 Tablespoons of butter in a 12\" cast iron skillet over medium-high heat. Add the sausage and break it up with a wooden spoon. Cook for about 5 minutes. Add the onion, celery, and salt. Cook until the vegetables get soft, about 5 minutes.",
+        "Add remaining ingredients. Turn off the heat and stir in the bread, dried cranberries, and parsley, stirring gently to evenly distribute.",
+        "Add the broth. In a large bowl, combine the broth and eggs, and pour it over the bread cube mixture in the skillet. Top with 2 Tablespoons of melted butter.",
+        "Smoke. Place the skillet full of stuffing on the smoker and cook for 60 minutes until the top is crisp and golden.",
+        "Enjoy. Remove the cast iron skillet from the smoker and serve immediately or keep warm until ready to serve."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Chef John's Chicken Lazone",
+  "author": "John Mitzewich",
+  "description": "Creamy, Cajun-spiced Chicken Lazone is an incredibly delicious one-pan recipe for chicken breasts in a flavorful pan sauce, adapted from the famous New Orleans dish by Chef Lazone Randolph.",
+  "servings": "4",
+  "prep_time": "10m",
+  "cook_time": "20m",
+  "total_time": "1h 30m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "chili powder"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "smoked paprika"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "cayenne"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "black pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "onion powder"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "large boneless skinless chicken breasts"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tsp",
+          "ingredient": "kosher salt, or to taste"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "vegetable oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "each",
+          "ingredient": "lemon, juiced"
+        },
+        {
+          "quantity": 0.66,
+          "unit": "cup",
+          "ingredient": "heavy cream"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "sliced green onions"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "cold butter, cubed"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Mix chili powder, smoked paprika, cayenne, black pepper, garlic powder, and onion powder together in a small bowl; set aside. Half will be used for the chicken rub and half for the sauce.",
+        "Season chicken on both sides with salt. Sprinkle half the spice mixture over both sides of chicken. Wrap and refrigerate for 1 hour (or up to overnight), or until ready to cook.",
+        "Heat oil in a heavy-duty nonstick pan over medium-high heat. Sear chicken, turning once, about 3 to 4 minutes per side; chicken will be about 75% cooked at this point, and will finish cooking in the sauce. Turn off heat; transfer chicken to a plate and set aside.",
+        "Add remaining spice mixture to the pan and stir around in the hot oil for 30 seconds. Add lemon juice, cream, and water. Stir in a pinch of salt.",
+        "Bring to a simmer over medium-high heat, stirring occasionally. Reduce to medium-low and return chicken to the pan along with any accumulated juices. Simmer gently, turning occasionally to coat with sauce, until chicken is no longer pink at the center and juices run clear, 8 to 10 minutes. Time will vary based on size of chicken breasts. An instant-read thermometer inserted near the center will read 165 degrees F (74 degrees C).",
+        "Reduce heat to low and add green onions and butter. Stir into the sauce, while also basting chicken with the sauce. Taste for seasoning and serve."
+      ]
+    }
+  ]
+}

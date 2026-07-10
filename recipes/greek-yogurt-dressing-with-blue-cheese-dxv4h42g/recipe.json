@@ -1,0 +1,55 @@
+{
+  "name": "Greek Yogurt Dressing With Blue Cheese",
+  "author": "Cultures For Health",
+  "description": "Creamy yogurt salad dressing with the sharp note of blue cheese is delicious over cold salads.",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "Greek-style yogurt"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "crumbled blue cheese"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "apple cider vinegar"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "each",
+          "ingredient": "small lemon, juiced"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "cloves garlic, minced finely"
+        },
+        {
+          "quantity": 0.125,
+          "unit": "tsp",
+          "ingredient": "black pepper"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Sea salt"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a small bowl, combine all ingredients, adding salt to taste. If the dressing is too thick, adding a little milk or milk kefir will help make it thinner.",
+        "Pour the dressing into a clean jar, screw the lid on, and shake really well.",
+        "Chill at least 3 hours before serving."
+      ]
+    }
+  ]
+}

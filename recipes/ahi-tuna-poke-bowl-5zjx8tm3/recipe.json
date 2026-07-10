@@ -1,0 +1,64 @@
+{
+  "name": "Ahi Tuna Poke Bowl",
+  "author": "Melissa Belanger",
+  "description": "Inspired by the classic Hawaiian dish, this ahi tuna poke recipe is light and healthy, featuring fresh raw tuna marinated with soy, sesame and onion. You'll love how quick and easy it is to make.",
+  "servings": "4 servings",
+  "prep_time": "15m",
+  "total_time": "15m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "rice vinegar"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "sesame oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "crushed red pepper flakes"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "thinly sliced green onion"
+        },
+        {
+          "quantity": {
+            "min": 1.5,
+            "max": 2
+          },
+          "unit": "tbsp",
+          "ingredient": "sesame seeds"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "ahi tuna (cubed)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Combine all ingredients in a large mixing bowl. Stir to coat the tuna with the sauce ingredients.",
+        "Cover and let marinate for at least 30 minutes.",
+        "Serve over rice and top with extra green onions and sesame seeds."
+      ]
+    }
+  ],
+  "tags": [
+    "favorite"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Teriyaki Chicken",
+  "author": "Setsuko Yoshizuka",
+  "description": "Try this basic recipe for making Japanese teriyaki chicken on a stove top pan using five simple ingredients for the teriyaki sauce.",
+  "servings": "2 servings",
+  "prep_time": "20m",
+  "cook_time": "15m",
+  "total_time": "35m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.75,
+          "unit": "lb",
+          "ingredient": "chicken thighs (boneless, skin-on; or skinless, chicken breasts, or pork tenderloin)"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "mirin (sweet sake)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "sake"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 1,
+          "unit": "pinch",
+          "ingredient": "fresh ginger (grated; add more to taste)"
+        },
+        {
+          "quantity": {
+            "min": 1,
+            "max": 2
+          },
+          "unit": "tsp",
+          "ingredient": "olive oil (or other cooking oil; for cooking chicken)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Gather the ingredients.",
+        "Poke the chicken using a fork to help absorb the flavors of the teriyaki sauce during cooking.",
+        "Make the teriyaki sauce. In a large bowl, combine the soy sauce, mirin, sake, sugar, and ginger and mix well.",
+        "Add chicken to the bowl and marinate the chicken in the teriyaki sauce for 15 minutes in the refrigerator.",
+        "In a large skillet, heat the olive oil over medium-high heat. Place the chicken skin-side down (if your chicken has skin) in the skillet, cooking until browned.",
+        "Flip the chicken over to cook the other side, reducing the heat to low.",
+        "Pour the teriyaki sauce that was used to marinate the chicken into the skillet. Cover the skillet with a lid and steam cook the chicken on low heat until done—the internal temperature of the chicken should reach 165 F and the juices should run clear.",
+        "Remove the lid and simmer until the sauce thickens slightly. Remove the pan from the heat.",
+        "Slice the chicken and serve on a plate. Pour the remaining thickened teriyaki sauce over the chicken.",
+        "Optional: If you like, garnish the teriyaki chicken with additional grated ginger."
+      ]
+    }
+  ],
+  "notes": "Tips:\n- Use boneless chicken thighs for tender and juicy meat, or substitute with leaner boneless chicken breasts or tenderloin cuts.\n- For best cooking results use boneless chicken with the skin on, and after the chicken is cooked you have the option of removing the skin before eating. When skinless chicken is used, there's a chance that the chicken will dry out when it is cooking.\n- Adjust the amount of sugar to tailor the sweetness of the teriyaki sauce to your taste.\n- Freshly grated ginger may be substituted with easy to use pre-grated raw ginger in a tube, available at Japanese and Asian grocery stores. It's shelf-stable until it's opened and can be stored in the refrigerator. It's a great, no-mess shortcut for adding raw ginger to any recipe.\n- There is no need to add potato starch or cornstarch to thicken the sauce. The sauce with thicken naturally after a few minutes of cooking."
+}

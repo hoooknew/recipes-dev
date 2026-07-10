@@ -1,0 +1,133 @@
+{
+  "name": "Salisbury steak",
+  "author": "Chef John",
+  "description": "One of the most popular TV dinner entrees of that era was the Salisbury steak, and this is my not-too-modern take on that classic dish.",
+  "ingredient_sections": [
+    {
+      "name": "Steak patties",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "ground beef (85/15 blend)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "freshly ground black pepper"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "dry mustard"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "tomato ketchup"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "beaten egg"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "cayenne"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "plain breadcrumbs"
+        }
+      ]
+    },
+    {
+      "name": "Gravy",
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "sliced mushrooms"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "diced onion"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "salt"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "flour"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "ketchup"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": 3,
+          "unit": "cup",
+          "ingredient": "beef broth"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Steak patties",
+      "steps": [
+        "Mix the ground beef, freshly ground black pepper, dry mustard, 2 tablespoons tomato ketchup, 1 tablespoon Worcestershire sauce, soy sauce, egg, cayenne, and plain breadcrumbs with a fork until thoroughly combined.",
+        "Pat the mixture down, wrap it up, and place in the fridge for at least a few hours or overnight.",
+        "Moisten hands with water and form the mixture into four patties about 1/2 inch thick.",
+        "Season both sides with salt."
+      ]
+    },
+    {
+      "name": "Gravy",
+      "steps": [
+        "Melt 2 tablespoons of butter over high heat in a large non-stick pan.",
+        "Add sliced mushrooms, diced onion, and a pinch of salt. Saute until nicely browned.",
+        "Stir in flour and cook for about 3 minutes.",
+        "Add 1 tablespoon ketchup, a little Worcestershire sauce, and 3 cups beef broth.",
+        "Bring to a simmer over high heat, then reduce to medium and simmer for about 10 minutes until thickened.",
+        "Transfer gravy to a bowl and reserve."
+      ]
+    },
+    {
+      "name": "Cooking",
+      "steps": [
+        "Heat a couple tablespoons of butter in the pan used for the gravy over medium-high heat.",
+        "Brown the patties for 2 to 3 minutes per side.",
+        "Transfer the gravy back into the pan with the patties.",
+        "Once simmering, back heat down to medium and cook for about 5 more minutes, basting with a spoon, until cooked through."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Goma-ae",
+  "author": "Katie Workman",
+  "description": "This Japanese cold spinach dish is very flavorful, thanks to an umami-rich sesame-soy dressing.",
+  "servings": "8",
+  "prep_time": "10m",
+  "cook_time": "1m",
+  "total_time": "11m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "1 pound (16 ounces) ounces spinach"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "sesame seeds ((plus more to garnish if desired))"
+        },
+        {
+          "quantity": 4,
+          "unit": "tsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "sake ((or to taste))"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "mirin ((or to taste))"
+        },
+        {
+          "quantity": null,
+          "unit": "Big pinch",
+          "ingredient": "sugar ((see Note))"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Bonito flakes ((to serve; optional))"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "blanch the spinach",
+      "steps": [
+        "Bring a large pot of salted water to a boil. Fill a large bowl with ice water. When the water comes to a boil, dunk the spinach into the pot. Cook for 30 seconds, then drain and immediately plunge into the ice water bath. Let sit for 3 minutes, swishing it around, until cool."
+      ]
+    },
+    {
+      "name": "toast the sesame seeds",
+      "steps": [
+        "While the spinach is cooling, make the sauce. Place the sesame seeds in a small, dry skillet. Heat over medium heat until you can smell the sesame and they start to turn golden brown, about 3 minutes. As soon as the seeds start to color and the aroma becomes notable, remove them from the heat — they can go from light brown to overtoasted very quickly. "
+      ]
+    },
+    {
+      "name": "grind the sesame seeds",
+      "steps": [
+        "Turn the sesame seeds out of the pan into a mortar or a small food processor. Grind or pulse to crush the seeds. Add the soy sauce, sake, mirin, and sugar, and use a mortar and pestle or the back of a fork to mush together."
+      ]
+    },
+    {
+      "name": "build the salad",
+      "steps": [
+        "Drain the spinach and use your hands to squeeze out all of the excess water. Give the spinach a few chops with a knife on a cutting board. Toss the spinach with the dressing and mound onto a plate. "
+      ]
+    },
+    {
+      "name": "garnish and serve",
+      "steps": [
+        "Serve cold, topped with additional sesame seeds and bonito flakes, if desired."
+      ]
+    }
+  ]
+}

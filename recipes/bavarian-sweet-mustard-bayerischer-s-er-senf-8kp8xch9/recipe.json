@@ -1,0 +1,100 @@
+{
+  "name": "Bavarian Sweet Mustard (Bayerischer Süßer Senf)",
+  "description": "The famous mustard eaten at the annual Oktoberfest!",
+  "servings": "8 half pints",
+  "prep_time": "15m",
+  "cook_time": "10m",
+  "total_time": "25m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2.5,
+          "unit": "cup",
+          "ingredient": "quality white wine vinegar"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "apple juice"
+        },
+        {
+          "quantity": 16,
+          "unit": "oz",
+          "ingredient": "Mexican piloncillo"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large yellow onion (,quartered)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large clove garlic (,halved)"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "juniper berries (,fyi, you also need these for making Rotkohl)"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "allspice berries"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "whole cloves"
+        },
+        {
+          "quantity": 8,
+          "unit": "each",
+          "ingredient": "black peppercorns"
+        },
+        {
+          "quantity": 0.125,
+          "unit": "tsp",
+          "ingredient": "ground nutmeg"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large bay leaf"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "kosher or sea salt"
+        },
+        {
+          "quantity": 9,
+          "unit": "oz",
+          "ingredient": "yellow mustard seeds"
+        },
+        {
+          "quantity": 9,
+          "unit": "oz",
+          "ingredient": "brown mustard seeds"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Bring all ingredients, except for the mustard seeds, to boil in a medium stock pot. Simmer covered for 10 minutes. Turn off the heat and let steep for 1 hour. Strain the ingredients and place the vinegar solution in a large non-reactive bowl (preferably glass).",
+        "Use a spice or coffee grinder to very coarsely grind the mustard seeds.",
+        "Stir the coarsely ground mustard seeds into the vinegar solution.&nbsp; The mixture will initially be liquidy and will thicken over time.&nbsp; Cover and refrigerate for at least 3 weeks before using to allow the flavors to meld and deepen. The mustard will initially be quite hot but over this resting period the heat will become more subdued.",
+        "Stored in the fridge, this mustard will keep up to 6 months."
+      ]
+    }
+  ],
+  "notes": "Note:&nbsp; This recipe can be halved or quartered if you don't want to make a large amount."
+}

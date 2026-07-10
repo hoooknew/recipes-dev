@@ -1,0 +1,70 @@
+{
+  "name": "Grilled Shrimp Skewers",
+  "description": "These grilled shrimp skewers are shrimp marinated in garlic, lemon and herbs, then threaded onto sticks and cooked to perfection. Shrimp kabobs can be on your table in just 20 minutes, which makes them perfect for a busy night!",
+  "servings": "4",
+  "prep_time": "5m",
+  "cook_time": "10m",
+  "total_time": "15m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "large shrimp (peeled and deveined (you can either leave tails on or remove them))"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "lemon juice"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "minced garlic"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "chopped parsley"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "lemon wedges for serving"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Place the olive oil, lemon juice, salt, pepper, Italian seasoning and garlic in a resealable plastic bag. Seal and shake to combine.",
+        "Add the shrimp to the bag and seal. Toss to coat evenly with the marinade.",
+        "Marinate for at least 15 minutes or up to 2 hours. You don't want to marinate for longer than that, as the acid in the lemon juice will start to cook the shrimp.",
+        "Thread the shrimp onto skewers.  Heat a grill or grill pan over medium high heat.",
+        "Place the skewers on the grill. Cook for 2-3 minutes on each side or until shrimp are pink and opaque.",
+        "Broiler directions: Preheat the broiler. Place the shrimp skewers on a sheet pan coated with cooking spray. Broil for 2-3 minutes on each side or until shrimp are pink and opaque.",
+        "Sprinkle with parsley and serve with lemon wedges."
+      ]
+    }
+  ],
+  "tags": [
+    "favorite"
+  ]
+}

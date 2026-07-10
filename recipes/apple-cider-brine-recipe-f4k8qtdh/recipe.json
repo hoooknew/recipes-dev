@@ -1,0 +1,43 @@
+{
+  "name": "Apple Cider Brine Recipe",
+  "author": "coupleinthekitchen",
+  "description": "Want the juiciest smoked pork chops? Start with this apple cider brine recipe.",
+  "prep_time": "2m",
+  "total_time": "12h 2m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "cup",
+          "ingredient": "apple cider"
+        },
+        {
+          "quantity": 0.333,
+          "unit": "cup",
+          "ingredient": "coarse salt"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "bay leaves"
+        },
+        {
+          "quantity": 8,
+          "unit": "each",
+          "ingredient": "whole cloves"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Mix all apple cider brine ingredients together.",
+        "Add pork chops to the brine.",
+        "Let the brine sit overnight in the refrigerator. ",
+        "Prior to making your apple cider brined pork chops, remove them from the brine, rinse, and add your favorite rub. (Our sweet and savory pork rib rub recipe is great on pork chops too!)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "French Apple Cake",
+  "author": "John Mitzewich",
+  "description": "Chef John's French apple cake is packed with tender chunks of Honeycrisp apple in a buttery cake batter for a sweet and delicious fall dessert.",
+  "servings": "8",
+  "prep_time": "30m",
+  "cook_time": "45m",
+  "total_time": "1h 45m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "large baking apples (such as Honeycrips), cubed (about 4 cups)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "apple cider vinegar"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "(1 stick) room temp unsalted butter"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "granulated white sugar"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "large eggs"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "dark rum"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "granulated white sugar for the top"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "powdered sugar, optional"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch round cake pan with butter and line the bottom with parchment paper.",
+        "Peel (or leave skin on) and core apples; cut into cubes between 1/4 and 3/8-inch in size. A little smaller is okay, but if your cubes are any larger, they won’t get tender enough when baked.  Add to a large bowl and toss with apple cider vinegar.",
+        "Mix together flour, baking powder, and salt in a small bowl.",
+        "In another bowl, beat butter, 1/2 cup white sugar, and brown sugar with an electric mixer until light and fluffy. Beat in 1 egg on high speed until it is fully incorporated and the mixture is smooth. Add the second egg and repeat.",
+        "Mix in rum, vanilla extract, and 1/2 of the flour mixture.  When the flour disappears add the rest, and fold in with a spatula.",
+        "Fold in apples until evenly mixed into the batter. Transfer batter to the prepared pan, making sure all the batter is pressed in firmly. Smooth top and dust with remaining 3 tablespoons sugar.",
+        "Bake in the preheated oven until a skewer inserted into the center comes out clean, about 45 minutes.",
+        "Remove cake from oven and let cool in the pan for about 30 minutes. Invert cooled cake onto a wire rack, place a serving plate on top, and flip back over. Dust top with powdered sugar and serve."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Southern Pimento Cheese",
+  "author": "QUEENREYNEY",
+  "description": "Pimento cheese is jazzed up with jalapeño and cayenne pepper for a creamy spreadable cheese that's delicious on crackers, as a dip, or in sandwiches.",
+  "servings": "12",
+  "prep_time": "15m",
+  "total_time": "15m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "shredded extra-sharp Cheddar cheese"
+        },
+        {
+          "quantity": 8,
+          "unit": "oz",
+          "ingredient": "cream cheese, softened"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "mayonnaise"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "(4 ounce) jar diced pimento, drained"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "jalapeno pepper, seeded and minced"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "ground cayenne pepper"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "onion powder"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "salt and black pepper to taste"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Gather all ingredients.",
+        "Place Cheddar cheese, cream cheese, mayonnaise, pimento, minced jalapeño, garlic powder, cayenne pepper, and onion powder in a large bowl.",
+        "Mix until thoroughly combined.",
+        "Season to taste with salt and black pepper.",
+        "Enjoy!"
+      ]
+    }
+  ]
+}

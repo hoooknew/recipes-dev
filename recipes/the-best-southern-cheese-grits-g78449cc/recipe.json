@@ -1,0 +1,65 @@
+{
+  "name": "The Best Southern Cheese Grits",
+  "author": "https://www.lanascooking.com/#/schema/person/eaf6016a0217f811c2a467095f85a464",
+  "description": "Classic Southern Cheese Grits go with any meal from breakfast to supper and are fabulous with anything from chicken to fried fish to shrimp.",
+  "servings": "4 servings",
+  "prep_time": "5m",
+  "cook_time": "10m",
+  "total_time": "15m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 6,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 4.5,
+          "unit": "tbsp",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": 2.25,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "grits (stone-ground, quick cooking, or regular)"
+        },
+        {
+          "quantity": 1.125,
+          "unit": "tsp",
+          "ingredient": "black pepper"
+        },
+        {
+          "quantity": 1.125,
+          "unit": "tsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": 11.25,
+          "unit": "oz",
+          "ingredient": "sharp cheddar cheese (grated)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Bring the water, butter and salt to a boil in a small saucepan.",
+        "Stir the grits into the boiling water using a whisk.",
+        "Cover the pot, lower the heat to a simmer and cook the grits according to the package directions.",
+        "When the grits are done, stir in the black pepper and garlic powder.",
+        "Add the cheese and stir until blended."
+      ]
+    }
+  ],
+  "notes": "Ingredient\nScaled amount\nWater\n6 cups\nButter\n4.5 tbsp\nSalt\n2.25 tsp\nGrits\n1.5 cups\nBlack pepper\n1.125 tsp\nGarlic powder\n1.125 tsp\nSharp cheddar, grated\n11.25 oz\n",
+  "tags": [
+    "favorite"
+  ]
+}

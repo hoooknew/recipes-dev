@@ -1,0 +1,96 @@
+{
+  "name": "Authentic German Potato Salad",
+  "author": "Nancy Mock",
+  "description": "The most popular salad at the table? Hot German potato salad with smoky bacon and a sweet-tangy dressing.",
+  "servings": "8 servings",
+  "prep_time": "30m",
+  "cook_time": "20m",
+  "total_time": "50m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 3,
+          "unit": "lb",
+          "ingredient": "medium red potatoes"
+        },
+        {
+          "quantity": 5,
+          "unit": "each",
+          "ingredient": "bacon strips, diced"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "medium onion, chopped"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "celery seed"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "pepper"
+        },
+        {
+          "quantity": 1.25,
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "cider vinegar"
+        },
+        {
+          "quantity": 0.75,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "minced fresh parsley"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Cook the potatoes",
+      "steps": [
+        "Scrub the potatoes clean and place them in a large Dutch oven or stockpot. Fill the pot with enough water to just cover the potatoes. Bring them to a boil over medium-high heat. Reduce the heat, cover the pot and simmer the potatoes for 25 to 30 minutes until they're tender and easily pierced with a fork. Drain the potatoes and allow them to cool. Editor's Tip: Don't overcook the potatoes! Begin checking for doneness after 15 minutes, and continue checking them every few minutes. As soon as they're easy to pierce with a fork, carefully drain the boiling water."
+      ]
+    },
+    {
+      "name": "Cook the bacon and onions",
+      "steps": [
+        "Heat a large skillet over medium heat. Add the diced bacon and cook until crisp, about 7 to 10 minutes. Use a slotted spoon to move the bacon to a paper towel-lined plate. Drain off all but four tablespoons of the bacon drippings. Add the chopped onions to the skillet and cook them in the bacon drippings until tender and translucent."
+      ]
+    },
+    {
+      "name": "Make and cook the dressing",
+      "steps": [
+        "Add the flour, salt, celery seed and pepper to the skillet with the onions, and stir everything together. Slowly add the sugar, cider vinegar and water, stirring the mixture as you do. Increase the heat to medium-high and bring the dressing to a boil; stir and cook the dressing for about two minutes until it has thickened. Turn off the heat."
+      ]
+    },
+    {
+      "name": "Assemble the salad",
+      "steps": [
+        "When the potatoes are cool enough to handle, use a sharp knife to cut them into 1/4-inch-thick slices. Add the sliced potatoes and cooked bacon to the skillet and turn the heat to low. Stir the potatoes, bacon and dressing together gently until the salad is heated through, about five minutes. Sprinkle freshly minced parsley over the top and serve the salad warm. Editor's Tip: Another reason we like using red potatoes for this recipe is that there is no need to peel them! Just slice and go. If you use another potato variety with a thicker skin, you'll need to peel them before you slice."
+      ]
+    }
+  ]
+}

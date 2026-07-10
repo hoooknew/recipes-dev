@@ -1,0 +1,51 @@
+{
+  "name": "The Azalea - the official Cocktail of The Masters",
+  "description": "The Azalea is the official cocktail of The Masters and can be made with vodka or gin. It's nice, light and refreshing!",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Ice"
+        },
+        {
+          "quantity": 1.25,
+          "unit": "oz",
+          "ingredient": "Vodka"
+        },
+        {
+          "quantity": 5,
+          "unit": "oz",
+          "ingredient": "Lemonade"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "oz",
+          "ingredient": "of grenadine"
+        }
+      ]
+    },
+    {
+      "name": "Garnish",
+      "ingredients": [
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Cherry & Orange Slice"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Make the cocktail",
+      "steps": [
+        "Add the ingredients to an iced shaker cup.",
+        "Shake 8-10 seconds.",
+        "Strain over an ice in a glass.",
+        "Garnish and enjoy!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Pancakes",
+  "description": "It's a at home version of a Michelin star pancake recipe.",
+  "ingredient_sections": [
+    {
+      "name": "Salted maple glaze",
+      "ingredients": [
+        {
+          "quantity": 100,
+          "unit": "g",
+          "ingredient": "Butter"
+        },
+        {
+          "quantity": 60,
+          "unit": "g",
+          "ingredient": "Maple Syrup"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Soy sauce (to taste)"
+        }
+      ]
+    },
+    {
+      "name": "Pancakes",
+      "ingredients": [
+        {
+          "quantity": 240,
+          "unit": "g",
+          "ingredient": "egg whites (from 8 large eggs)"
+        },
+        {
+          "quantity": 20,
+          "unit": "g",
+          "ingredient": "lemon juice"
+        },
+        {
+          "quantity": 100,
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "quantity": 20,
+          "unit": "g",
+          "ingredient": "Corn Flour"
+        },
+        {
+          "quantity": 100,
+          "unit": "g",
+          "ingredient": "egg yolks (from 5 large eggs)"
+        },
+        {
+          "quantity": 140,
+          "unit": "g",
+          "ingredient": "00 flour"
+        },
+        {
+          "quantity": 4,
+          "unit": "g",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 50,
+          "unit": "g",
+          "ingredient": "whole milk"
+        }
+      ]
+    },
+    {
+      "name": "To Finish",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "A disc of salted butter"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Maple Butter Glaze",
+      "steps": [
+        "1. To make the beurre noisette, heat the butter, swirling the pan regularly until the solids become a very dark golden.",
+        "2. Pass the butter through a cloth and fine sieve to remove the solids",
+        "3. Allow to cool to room temperature and emulsify with the maple syrup using a stick blender",
+        "4. If the glaze starts to solidify, gently reheat and re-emulsify with the stick blender.",
+        "5. To make the beurre noisette, heat the butter, swirling the pan regularly until the solids become a very black.",
+        "6. Pass the butter through a cloth and fine sieve to remove the solids and allow to cool until it resolidifies",
+        "7. In a separate pan, reduce the maple syrup on a medium heat until it has reduced by half and set aside to cool",
+        "8. Add the soy sauce to the cooled maple reduction and using a stick blender or whisk, gradually emulsify with the beurre noir",
+        "9. Keep at room temperature"
+      ]
+    },
+    {
+      "name": "Pancakes",
+      "steps": [
+        "1. Whisk the egg whites and lemon juice to 60% peaks",
+        "2. Gradually add the sugar and whisk to 80% peaks",
+        "3. Whisk in the corn flour to combine",
+        "4. Add the egg yolks and whisk to combine",
+        "5. Very gently fold in the flour and salt",
+        "6. Finally fold in the milk"
+      ]
+    },
+    {
+      "name": "Cooking the Pancakes",
+      "steps": [
+        "1. Heat a small non stick egg pan on low",
+        "2. Melt a knob of butter in the pan and wipe the pan with some kitchen paper to remove any excess butter.",
+        "3. Ladle in 200g of pancake butter and cover(about 3 ladles)",
+        "4. Cook for around 5 minutes until the edges of the pancake come away from the sides of the pan and self support",
+        "5. Gently flip the pancake (the underside should be golden) and cook the other side for around a minute (no need to colour as much as the other side or the pancake will dry out",
+        "6. Wrap the pancakes loosely in parchment paper, ready to steam."
+      ]
+    },
+    {
+      "name": "Finishing the pancakes (optional)",
+      "steps": [
+        "1. Place the pancake, still wrapped in parchment into a steamer fand cover for 4 minutes.",
+        "2. Carefully unwrap the pancake, place on a rack and pipe or spoon over the maple butter",
+        "3. Serve with a disc of salted butter"
+      ]
+    }
+  ]
+}

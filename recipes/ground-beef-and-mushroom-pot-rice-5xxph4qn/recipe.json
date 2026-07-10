@@ -1,0 +1,93 @@
+{
+  "name": "Ground Beef and Mushroom Pot Rice",
+  "author": "Aaron and Claire",
+  "servings": "4 servings",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "uncooked short-grain white rice"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "mirin"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "Korean beef stock powder (dasida), or chicken bouillon powder, mushroom stock"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "button mushrooms"
+        },
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "cloves garlic"
+        },
+        {
+          "quantity": 5,
+          "unit": "each",
+          "ingredient": "green onions, divided"
+        },
+        {
+          "quantity": 4,
+          "unit": "tbsp",
+          "ingredient": "neutral-tasting oil, divided"
+        },
+        {
+          "quantity": 1,
+          "unit": "lb",
+          "ingredient": "ground beef"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt, to taste"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "A pat of unsalted butter"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Prep Ingredients",
+      "steps": [
+        "Prepare the rice: Rinse the rice a few times to remove any dust or debris. Drain and soak in cold water for 30 minutes. (Unlike using a rice cooker, this step is important when cooking rice on the stovetop. Otherwise, the rice can be undercooked.)",
+        "Season the water for the rice: In a container, combine 2 cups of water with the soy sauce, mirin, and Korean beef stock powder. (If you don't have Korean beef stock powder, you can use chicken bouillon powder or mushroom stock instead.) Mix well and set aside.",
+        "Prepare the vegetables: Thinly slice (or quarter) the mushrooms. Finely chop the garlic cloves and thinly slice the green onions, separating the whites and greens."
+      ]
+    },
+    {
+      "name": "Make Ground Beef and Mushroom Pot Rice",
+      "steps": [
+        "In a large nonstick pot, heat 2 tablespoons of oil over medium-high heat. Once it gets nice and hot, add the ground beef, spread it out, and season with a pinch of salt. Sear for 2 minutes or until the bottom turns golden brown. Flip, break up the beef, and cook for 1 minute. ",
+        "Add the garlic and white parts of the green onions. Sauté for 3 to 4 minutes. Remove the beef and set aside.",
+        "In the same pot, add 2 tablespoons of oil, mushrooms, and a pinch of salt. Sauté for 3 to 4 minutes or until most of the moisture has evaporated. Continue sautéing for another 3 to 4 minutes or until the mushrooms turn nicely browned.",
+        "Add the beef back in along with the drained rice. Stir for 30 seconds so every grain of rice can soak up all that delicious flavor. ",
+        "Pour in the seasoned water and bring it to a boil, stirring occasionally and scraping up any browned bits from the bottom.",
+        "Reduce the heat to low and cover with a lid. Simmer for 15 minutes. Turn off the heat, but keep the lid on. Let it steam for another 10 minutes.",
+        "Add the green onions and a pat of butter. Gently fluff the rice and mix everything together. Serve with kimchi. Enjoy!"
+      ]
+    }
+  ]
+}

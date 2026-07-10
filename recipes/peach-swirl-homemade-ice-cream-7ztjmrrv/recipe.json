@@ -1,0 +1,44 @@
+{
+  "name": "Peach Swirl Homemade Ice Cream",
+  "author": "Happily the Hicks",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Ice cream base"
+        },
+        {
+          "quantity": 3,
+          "unit": "cup",
+          "ingredient": "fresh peaches, peeled and diced"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "water"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a medium sauce pan, heat the peaches, sugar and water to a boil, stirring occasionally.",
+        "Once the mixture is boiling, reduce the heat and simmer for 30 mintutes, or until the juices are thickened and the mixture is more sauce-like.",
+        "*Optional: blend the compote for a smooth sauce. I opted to leave the fruit diced.",
+        "Chill the compote overnight.",
+        "Prepare the ice cream according to the recipe. I used the recipe from Food Above Gold and it was DELISH.",
+        "Once the ice cream is made and churned to perfection, pull out the ice cream container and scoop half the ice cream into it. Add half the peach compote to the ice cream and swirl it in using a knife.",
+        "Repeat with the rest of the ice cream and peaches.",
+        "Cover and freeze until ready to eat! :)"
+      ]
+    }
+  ]
+}

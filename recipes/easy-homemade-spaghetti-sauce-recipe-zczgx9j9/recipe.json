@@ -1,0 +1,93 @@
+{
+  "name": "Easy Homemade Spaghetti Sauce Recipe ",
+  "author": "Suzy Karadsheh",
+  "description": "My family's secret homemade spaghetti sauce is easy to make using a few staple ingredients you may already have on hand! Perfectly thick and packed with flavor, you'll be ditching that store bought pasta sauce! ",
+  "servings": "Serves up to 6 people",
+  "prep_time": "10m",
+  "cook_time": "25m",
+  "total_time": "35m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "extra virgin olive oil (I used Private Reserve Greek extra virgin olive oil)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "medium yellow onion, grated"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "garlic cloves, finely minced"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "carrots, finely grated (use a food processor or a grater)"
+        },
+        {
+          "quantity": 28,
+          "unit": "oz",
+          "ingredient": "canned crushed tomatoes"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "water (pasta cooking water, preferred)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Kosher salt and black pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "dried oregano"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "sweet Spanish paprika"
+        },
+        {
+          "quantity": null,
+          "unit": "Pinch",
+          "ingredient": "red pepper flakes, optional"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "fresh basil, about ½ cup packed, torn"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "fresh parsley, about ½ cup packed, chopped"
+        },
+        {
+          "quantity": {
+            "min": 0.75,
+            "max": 1
+          },
+          "unit": "lb",
+          "ingredient": "cooked pasta of your choice"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "In a large pan heat the extra virgin olive oil over medium heat until just shimmering. Add the onions, garlic, and finely grated carrots. Cook for about 5 minutes, stirring regularly until softened.",
+        "Add the crushed tomatoes and about 1/2 cup water. Add a generous pinch of salt and pepper. Stir in oregano, paprika, crushed pepper flakes, if using. Finally, stir in the fresh basil and parsley.",
+        "Bring the sauce to a boil, then turn heat to low. Cover and let simmer for about 15 to 20 minutes. Check partway through, and if you feel the sauce is too thick, you can add a bit more water (preferably some of your pasta cooking water). When sauce is ready, throw in more fresh basil, if you like.",
+        " If serving for dinner, add cooked pasta of your choice to the sauce. Mix to combine and let the pasta cook in the sauce over low heat for about 5 minutes."
+      ]
+    }
+  ]
+}

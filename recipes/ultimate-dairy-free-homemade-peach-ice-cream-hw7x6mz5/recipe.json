@@ -1,0 +1,52 @@
+{
+  "name": "Ultimate Dairy-Free Homemade Peach Ice Cream",
+  "author": "Nicole Nared-Washington from Brown Sugar Food Blog",
+  "description": "Enjoy this Dairy Free Homemade Peach Ice Cream made with coconut cream (milk), pure raw cane sugar, and fresh peaches.",
+  "servings": "6-8 servings",
+  "prep_time": "6h",
+  "total_time": "6h",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": null,
+          "ingredient": "14 oz. Cans of full-fat coconut milk (coconut cream)"
+        },
+        {
+          "quantity": {
+            "min": 0.5,
+            "max": 0.75
+          },
+          "unit": "cup",
+          "ingredient": "pure raw cane sugar + 2 tbsp., divided)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tbsp",
+          "ingredient": "Vanilla extract"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "tsp",
+          "ingredient": "Cinnamon"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "large ripe peaches, skinned and diced"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Following the manufacturer&#8217;s instructions of your ice cream maker, place the ice cream bowl in the freezer overnight or for at least 6 hours before using.",
+        "Place your diced peaches in a bowl and sprinkle with 2 tablespoons of pure cane sugar over the peach slices. Allow to sit for 1 hour at room temperature.",
+        "Pour the coconut cream (milk), vanilla extract, and cinnamon, 1/2 cup of sugar, and pour in all the peach juice and ¼ cup of diced peaches in a food processor or blender. Blend for 2 minutes. Pour the ice cream mixture into your ice cream maker along with the rest of the peaches and allow to churn until it turns into soft serve ice cream, about 10 minutes.",
+        "Pour into a freezer-safe container or a loaf pan lined with plastic wrap. Smooth the top and cover with plastic wrap. Place in the freezer for 4-6 hours before serving."
+      ]
+    }
+  ]
+}

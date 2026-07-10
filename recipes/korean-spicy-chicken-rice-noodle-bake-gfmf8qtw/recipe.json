@@ -1,0 +1,137 @@
+{
+  "name": "Korean Spicy Chicken Rice Noodle Bake",
+  "author": "John Mitzewich",
+  "description": "This Korean spicy chicken rice noodle bake is a delicious spicy chicken, and a great way to cook rice noodles. Chicken is marinated briefly in a gochujang marinade, then dry rice vermicelli goes directly into the baking dish, chicken thighs are placed on top, and the dish bakes quickly to perfection.",
+  "servings": "6",
+  "prep_time": "30m",
+  "cook_time": "30m",
+  "total_time": "2h",
+  "ingredient_sections": [
+    {
+      "name": "Marinade",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "finely minced fresh ginger"
+        },
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "garlic, minced"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "rice vinegar"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "light soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "kosher salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "brown sugar"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "ketchup"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "sesame oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "gochujang (Korean chili paste), or to taste"
+        }
+      ]
+    },
+    {
+      "name": "Bake",
+      "ingredients": [
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "large skinless boneless chicken thighs"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "sesame oil for greasing baking dish"
+        },
+        {
+          "quantity": 8,
+          "unit": "oz",
+          "ingredient": "vermicelli rice noodles"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "hen of the woods mushrooms, or sliced brown mushrooms"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "sliced Fresno chili peppers, or any other peppers"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "sliced green onions, divided"
+        },
+        {
+          "quantity": 1.25,
+          "unit": "cup",
+          "ingredient": "chicken broth"
+        }
+      ]
+    },
+    {
+      "name": "Dressing",
+      "ingredients": [
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "rice vinegar"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "sesame oil"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "toasted sesame seeds for garnish, optional"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Add ginger and garlic to a mixing bowl, and pour over the 1/4 cup rice vinegar. Let sit for 30 seconds, then whisk in soy sauce, salt, brown sugar, ketchup, the 1 teaspoon sesame oil, and gochujang.",
+        "Add chicken thighs to marinade. Toss and turn until thoroughly coated. Cover and marinate in the refrigerator, at least 1 hour and up to 8 hours. ",
+        "Preheat the oven to 425 degrees F (220 degrees C). Grease a 9x13-inch casserole dish with 1 teaspoon sesame oil.",
+        "Lay rice vermicelli in the dish, pulling the dry noodles apart as you do, to cover the bottom evenly, breaking off sections of noodle as needed. ",
+        "Evenly scatter over mushrooms, peppers, and about half the green onions. Top with marinated chicken thighs, smooth side up. Spoon excess marinade on top of chicken.",
+        "Rinse marinade bowl with chicken broth and pour into the bottom of dish, without rinsing marinade off chicken. Top with a few tablespoons of green onions.",
+        "Bake in the preheated oven until chicken is no longer pink at the center and juices run clear, 30 to 35 minutes. An instant-read thermometer inserted near the center should read 165 degrees F (74 degrees C).",
+        "Remove chicken to a plate. Toss noodles and veggies in pan until evenly combined. Add the remaining 1/4 cup rice vinegar and 2 tablespoons sesame oil; toss one last time. Taste for seasoning. ",
+        "Serve chicken over noodles; sprinkle with sesame seeds and more green onions."
+      ]
+    }
+  ],
+  "notes": "This recipe technique was inspired by a chicken teriyaki recipe by Nadiya Hussain from Nadiya Bakes.\n\nKorean chili pastes vary greatly in level of spiciness, so taste and adjust as needed.\n\nUse rice noodles; wheat noodles will not have the same texture.\n\nIf you must have more sauce, make another batch of the marinade, plus 1/2 cup water. Bring to a simmer before using."
+}

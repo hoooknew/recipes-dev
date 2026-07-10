@@ -1,0 +1,90 @@
+{
+  "name": "Braised Beef Shank Recipe",
+  "description": "This braised beef shank recipe is a mouth-watering hearty dish made with one of the most underrated cuts! It's deceptively easy to make, and the meat falls off the bone. Watch the video below to see how I make it in my kitchen!",
+  "servings": "6 servings",
+  "prep_time": "1m",
+  "cook_time": "58m",
+  "total_time": "59m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "lb",
+          "ingredient": "beef shanks (appoximately 3 portions)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredient": "pepper"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "all purpose flour"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "large onion (dliced)"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "carrots (diced)"
+        },
+        {
+          "quantity": 1,
+          "unit": "cup",
+          "ingredient": "celery (chopped)"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "sprigs thyme"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "bay leaves"
+        },
+        {
+          "quantity": 200,
+          "unit": "ml",
+          "ingredient": "white wine (or more beef broth)"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "canned tomatoes"
+        },
+        {
+          "quantity": 1.75,
+          "unit": "cup",
+          "ingredient": "beef broth"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Pat dry the beef shanks to remove any excess moisture. Secure the meat to the bone with kitchen twine. Season each shank with salt and pepper and dredge them in flour, shaking off any excess.",
+        "In a Dutch oven pot, add oil and place it over high heat. Once hot, Add the beef shanks into the pan and brown all sides, about 3 minutes each. Remove the shanks from the pot.",
+        "In the same pot add onion, carrot and celery and saute until translucent. Add fresh thyme, bay leaves and tomato. Cook for 10 minutes then add white wine, beef stock and return the shanks in the pot. Once it boils, remove the pot from the heat.",
+        "Preheat the oven to 170C/325F. Place the lid on the Dutch oven and cook in the oven for 45 minutes or up to 2 hours, until fork tender to your liking.",
+        "Carefully remove the cooked shanks from the pot and cut off the kitchen twine and discard. Pour all the sauce from the pot over the shanks and serve immediately."
+      ]
+    }
+  ]
+}

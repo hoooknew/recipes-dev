@@ -1,0 +1,90 @@
+{
+  "name": "Green Chicken Chili",
+  "author": "I Love My Instant Pot®Soups, Stews, and Chilis Recipe Book by Kelly Jaggers",
+  "description": "The green color in this chili comes from the combination of poblano and Anaheim peppers, along with tomatillos. This combination results in a fresh, light-flavored chili. To dress it up, serve it with crushed corn chips, a mild white cheese such as queso quesadilla, chopped fresh cilantro, and sour cream as garnishes.",
+  "servings": "8 servings",
+  "prep_time": "15m",
+  "cook_time": "45m",
+  "total_time": "1h",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "medium yellow onion (peeled and chopped)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "lb",
+          "ingredient": "poblano peppers (seeded and roughly chopped)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "lb",
+          "ingredient": "Anaheim peppers (seeded and roughly chopped)"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "lb",
+          "ingredient": "tomatillos (husked and quartered)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "small jalapeño peppers (seeded and roughly chopped)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "garlic cloves (peeled and minced)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "ground cumin"
+        },
+        {
+          "quantity": 6,
+          "unit": "each",
+          "ingredient": "bone-in, skin-on chicken thighs ((2 1/2 lbs total))"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "chicken stock"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "Water"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "cup",
+          "ingredient": "roughly chopped fresh cilantro"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "cans Great Northern beans (drained and rinsed, 15 ounce cans)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Press the Sauté button on the Instant Pot® and melt butter. Add onion and cook until softened, about 3 minutes. Add poblano and Anaheim peppers, tomatillos, and jalapeños and cook 3 minutes, then add garlic and cumin and cook until fragrant, about 30 seconds. Press the Cancel button.",
+        "Add chicken thighs, stock, and water to pot. Close lid, set steam release to Sealing, press the Chili button, and cook for the default time of 30 minutes.",
+        "When the timer beeps, quick-release the pressure, open lid, and stir well. Press the Cancel button and remove chicken to a cutting board. Carefully remove skin from chicken and shred meat with two forks.",
+        "Use an immersion blender to purée sauce until smooth. Stir meat, cilantro, and beans into sauce. Serve warm."
+      ]
+    }
+  ]
+}

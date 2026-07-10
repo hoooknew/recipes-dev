@@ -1,0 +1,96 @@
+{
+  "name": "Chicken With Orange Sauce",
+  "author": "Anabella Alfaro",
+  "servings": "4 Servings",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "chicken thighs"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "mustard"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "honey"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "orange zest"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "oregano"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "olive oil"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "orange juice (strained)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "salt"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "pepper"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "Juice of 2 lemons"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "parsley"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "corn starch"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Tiny splash of cold water"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Marinate the thighs in all the ingredients and leave in the refrigerator for at least 4 Hours. (I left overnight.)",
+        "The next day, place the stainless steel inner pot inside the Instant Pot® and press Saute. Add a drizzle of olive oil and brown only the thighs on both sides.",
+        "Once this is done, press Cancel.",
+        "Add the juice to the marinade.",
+        "Close and lock the Instant Pot® lid. Make sure the steam release handle is turned to Sealing. Press Pressure Cook, pressure level High, and set time to 3 Minutes.",
+        "Once the time is up, press Cancel and turn the steam release handle to Venting. Once all the pressure has been released, open the Instant Pot® lid and stir.",
+        "Remove the thighs and press Saute. Thicken the liquid with the corn starch dissolved in a bit of water.",
+        "Put the thighs back in and add the chopped parsley.",
+        "Serve with white rice and lastly, garnish with a bit of chopped parsley."
+      ]
+    }
+  ]
+}

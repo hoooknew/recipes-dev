@@ -1,0 +1,127 @@
+{
+  "name": "French Onion Casserole",
+  "description": "This rich, delicious recipe came from a viewer - and I think by adding the chicken it got way better. And now is a proper dinner.",
+  "servings": "Serves about 6",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": {
+            "min": 2.5,
+            "max": 3
+          },
+          "unit": "lb",
+          "ingredient": "yellow or brown onions, thinly sliced"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Olive oil"
+        },
+        {
+          "quantity": 3,
+          "unit": "each",
+          "ingredient": "thin chicken cutlets"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "all purpose flour"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "corn starch"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "eggs, beaten"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "bread crumbs, crushed corn flakes, Panko anything really (I used Paxo stuffing blend)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "Kosher salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "coarse ground black pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "long, thin baguette, approximately 20-24 inches"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "garlic powder"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "dried thyme"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "cup",
+          "ingredient": "dry vermouth - not sweet!"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "cup",
+          "ingredient": "flour"
+        },
+        {
+          "quantity": 4,
+          "unit": "cup",
+          "ingredient": "beef broth (in the video I used 3, but now wish it was 4)"
+        },
+        {
+          "quantity": 3,
+          "unit": "tbsp",
+          "ingredient": "finely chopped parsley"
+        },
+        {
+          "quantity": 5,
+          "unit": "each",
+          "ingredient": "slices Swiss cheese"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "shredded Gruyere cheese"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Put a large pan over medium heat, add oil, 2 tablespoons of the butter and onions and cook, stirring often until beautifully caramelized - about 20 minutes",
+        "Preheat air fryer or oven to 400 degrees",
+        "Set up your dredging station: combine the flour & cornstarch in one bowl, the eggs in another, and the crumbs in the last one",
+        "Put the chicken in the flour first, shake off excess then dip in the eggs and finally press into the crumbs",
+        "Lightly coat baking sheet with cooking spray, put on the chicken, lightly spray the tops and bake, flipping after about 4 minutes and cook until about 160 degrees - remove. Let cool slightly then cut into 3/4 inch strips and set aside",
+        "Cut baguette into 1/4 inch slices and put on a baking sheet",
+        "Melt 1/4 cup of the butter, mix in the garlic powder and brush on the tops of the baguette slices - bake at 400 until just getting crispy, about 10 minutes - remove and set aside - turn oven down to 350",
+        "Stir another tablespoon of butter into the onions, season with the salt, pepper and thyme - mix in well and add the vermouth - stir until it mostly evaporates",
+        "Once it has, sprinkle flour over the top, mix until you no longer see flour then start adding the broth, about a cup at a time mixing well before adding more - when all added let simmer about 5 minutes until beginning to thicken, then stir in parsley - remove from heat",
+        "Grease or spray a 12 inch cast iron pan, or a 8x12 casserole dish and add half the baguette slices, top with the Swiss cheese, the chicken strips, the onion mixture, the remaining baguette slices and finally the shredded Gruyere",
+        "Cover with foil and bake 25 minutes, remove foil and broil a couple minutes until brown and bubbly",
+        "Serve"
+      ]
+    }
+  ]
+}

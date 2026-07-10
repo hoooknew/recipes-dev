@@ -1,0 +1,36 @@
+{
+  "name": "Original Bisquick Dumplings",
+  "author": "yourprincess",
+  "description": "Original Bisquick dumplings recipe straight from the box. Two ingredients, 15 minutes, fluffy every time. Drop into your favorite soup or stew and let them steam until pillowy soft.",
+  "servings": "4",
+  "prep_time": "5m",
+  "cook_time": "10m",
+  "total_time": "10m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "BISCUIT BAKING MIX (BISQUICK)"
+        },
+        {
+          "quantity": 0.666,
+          "unit": "cup",
+          "ingredient": "MILK"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "name": "Dumplings",
+      "steps": [
+        "Mix 2 cups Bisquick and ⅔ cup milk until soft dough forms.",
+        "Drop dough by spoonfuls onto stew (do not drop directly into liquid). Cook uncovered over low heat 10 minutes. Cover and cook 10 minutes longer.",
+        "Depending on where you live, you may need to add more liquid."
+      ]
+    }
+  ],
+  "notes": "The secret is... DO NOT OVER MIX! and let them set for a few minutes, so they rise."
+}

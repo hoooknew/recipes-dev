@@ -1,0 +1,51 @@
+{
+  "name": "Korean Honey Mustard Sauce",
+  "author": "Brad Prose",
+  "description": "This Korean honey mustard sauce is a complex flavor of smokey, spicy, sweet, and funky. It tastes SO GOOD on it's own for dipping, or charred on the grill.",
+  "servings": "About 1/2 cup",
+  "prep_time": "5m",
+  "total_time": "5m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "gochujang paste"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "tbsp",
+          "ingredient": "Dijon mustard, smooth"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "soy sauce"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "honey"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "sesame oil"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "water (more as needed)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Mix ingredients together in a bowl. It should be a similar consistency of ketchup. Add water as needed to thin it out. Taste and adjust."
+      ]
+    }
+  ]
+}

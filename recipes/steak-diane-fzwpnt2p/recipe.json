@@ -1,0 +1,98 @@
+{
+  "name": "Steak Diane",
+  "description": "Classic Steak Diane with tender filets smothered in a creamy cognac sauce with mushrooms and shallots and finished with parsley and chives.",
+  "servings": "2",
+  "prep_time": "10m",
+  "cook_time": "20m",
+  "total_time": "30m",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": 4,
+          "unit": "each",
+          "ingredient": "4 4-ounce beef tenderloin medallions (pounded 3/4\" thick)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "neutral oil (avocado, vegetable, etc.)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tbsp",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "quantity": 8,
+          "unit": "oz",
+          "ingredient": "cremini mushrooms (sliced)"
+        },
+        {
+          "quantity": 1,
+          "unit": "each",
+          "ingredient": "medium shallot (minced)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "tomato paste"
+        },
+        {
+          "quantity": 0.33,
+          "unit": "cup",
+          "ingredient": "cognac or brandy"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "low-sodium beef stock"
+        },
+        {
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredient": "heavy cream"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "Dijon mustard"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "Worcestershire sauce"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "chives or scallions (minced)"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "flat-leaf parsley (minced)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "salt and pepper (to taste)"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Heat a large stainless steel or cast iron pan to medium-high heat.",
+        "Pat the medallions very dry with paper towels and season well with kosher salt and pepper.",
+        "Add the oil to the hot pan and once shimmering add the beef medallions.  Cook undisturbed for 90-120 seconds per side then remove to a plate and lightly tent with foil.",
+        "To the same pan, add the mushrooms and saute until they release their water and start to brown (about 5 minutes).",
+        "Add the shallots and butter and cook for another 2 minutes then add the tomato paste and cook for 1 more minute, stirring frequently.",
+        "Remove the pan from the heat and add the cognac.  Place the pan back on the heat and turn the heat to medium-high.  Cook until the cognac is almost evaporated (~2 minutes) while scraping the bottom of the pan with a wooden spoon to dislodge all of the brown bits.",
+        "Add the beef stock, cream, mustard, and Worcestershire sauce to the pan. Bring the sauce to a simmer and cook until the sauce coats the back of a spoon (~2-3 minutes).",
+        "Test the sauce and season with salt and pepper to taste.  Add the medallions and accumulated juices back to the pan and cook until warmed through (about 2 minutes).  Top with parsley and chives and serve immediately. Enjoy!"
+      ]
+    }
+  ]
+}

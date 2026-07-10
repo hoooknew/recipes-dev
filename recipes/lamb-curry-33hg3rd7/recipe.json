@@ -1,0 +1,130 @@
+{
+  "name": "Lamb Curry",
+  "author": "Elise Bauer",
+  "description": "This savory, tender lamb curry can be made on the stovetop or in the pressure cooker. Serve simply with a pot of steamed rice and dinner is ready.",
+  "servings": "Serves 6",
+  "prep_time": "1h",
+  "cook_time": "2h",
+  "total_time": "3h",
+  "ingredient_sections": [
+    {
+      "ingredients": [
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "lb",
+          "ingredient": "boneless (or 3 pounds bone-in), lamb stew meat, lamb shanks, and/or lamb shoulder steaks"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "onions, chopped (about 3 - 4 cups)"
+        },
+        {
+          "quantity": {
+            "min": 3,
+            "max": 5
+          },
+          "unit": "each",
+          "ingredient": "cloves of garlic, crushed"
+        },
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "tbsp",
+          "ingredient": "ghee (clarified butter), or 1 tablespoon extra virgin olive oil with 1 tablespoon butter"
+        },
+        {
+          "quantity": {
+            "min": 2,
+            "max": 3
+          },
+          "unit": "tbsp",
+          "ingredient": "curry powder (to taste)"
+        },
+        {
+          "quantity": 2,
+          "unit": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "black pepper"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "ground coriander"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "cumin"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "fresh rosemary, chopped"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "thyme, dried"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "slices of lemon, with rind (use 3 slices if using Meyer lemons)"
+        },
+        {
+          "quantity": 2,
+          "unit": "each",
+          "ingredient": "peeled and chopped apples, preferably tart green Granny Smith apples (about 2 cups)"
+        },
+        {
+          "quantity": 0.25,
+          "unit": "cup",
+          "ingredient": "golden raisins"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "cup",
+          "ingredient": "chicken stock"
+        },
+        {
+          "quantity": 1.5,
+          "unit": "lb",
+          "ingredient": "small potatoes, quartered"
+        },
+        {
+          "quantity": 2,
+          "unit": "cup",
+          "ingredient": "basmati rice"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "chutney"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Brown the lamb pieces on all sides: Heat the ghee or the butter-with-olive-oil in a large, thick-bottomed pot (with cover) or Dutch oven on medium-high. Working in batches if necessary, brown the meat well on all sides and remove it from pan.",
+        "Make the curry base: Lower the heat to medium low and add the curry powder to the ghee or oil. Cook gently for a minute or two. Add onions and garlic and cook 5 minutes. Return the lamb to the pan, and add the coriander, black pepper, cumin, rosemary, thyme, sliced lemon, apples, raisins, chicken stock, and salt.",
+        "Cook the curry: Bring to a simmer, reduce the heat to low, and cover the pot. (You can also put the pot in a 300°F oven). Cook for 2 hours. Check at 2 hours to see if the meat is falling off the bone. It should be starting to do so.",
+        "Add the potatoes: Cook until tender, another 45 minutes.",
+        "Cook the rice: While the curry is cooking, cook the rice. Put 2 cups of basmati rice in a medium thick-bottomed pot. Add 3 cups of water (less or more depending on package instructions), a tablespoon of butter or ghee, and a teaspoon of salt. Bring to a boil, lower the heat to a low simmer, cover the pot and let cook for 15 minutes (again check your package instructions). Remove from heat, keep covered, and let steam for 10 minutes, then fluff with a fork.",
+        "Serve: To serve, you can pull the meat off the bones or leave it on. Taste for salt and add some more curry powder or add cayenne if you want things spicier. Serve over rice with chutney and/or yogurt for drizzling over top. Did you love the recipe? Let us know with a rating and review!"
+      ]
+    }
+  ],
+  "notes": "Have an Instant Pot or pressure cooker? You can brown the lamb and cook the onions on the sear function. Add the meat and cook at pressure for 50 minutes. Then release the pressure, add the potatoes and cook 10 minutes more."
+}

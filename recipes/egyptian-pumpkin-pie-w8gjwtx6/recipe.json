@@ -1,0 +1,169 @@
+{
+  "name": "Egyptian pumpkin pie",
+  "description": "This Egyptian pumpkin pie elevates the classic by adding a luxurious layer of sweet pumpkin flavoured bechamel that takes it to the next level. One bite of this creamy layered masterpiece and you'll be craving it all fall long.",
+  "ingredient_sections": [
+    {
+      "name": "Pumpkin",
+      "ingredients": [
+        {
+          "quantity": {
+            "min": 2,
+            "max": 2.5
+          },
+          "unit": "kg",
+          "ingredient": "pumpkin (sweet variety) peeled and sliced into 1 inch cubes"
+        },
+        {
+          "quantity": {
+            "min": 500,
+            "max": 650
+          },
+          "unit": "g",
+          "ingredient": "granulated sugar (1/4 of the weight of the pumpkin cubes)"
+        }
+      ]
+    },
+    {
+      "name": "Base",
+      "ingredients": [
+        {
+          "quantity": 140,
+          "unit": "g",
+          "ingredient": "walnuts"
+        },
+        {
+          "quantity": 500,
+          "unit": "g",
+          "ingredient": "digestives"
+        },
+        {
+          "quantity": 36,
+          "unit": "g",
+          "ingredient": "unsweetened desiccated coconut (6 tbsp)"
+        },
+        {
+          "quantity": 50,
+          "unit": "g",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 40,
+          "unit": "g",
+          "ingredient": "flour"
+        },
+        {
+          "quantity": 8,
+          "unit": "g",
+          "ingredient": "salt (1 tsp)"
+        },
+        {
+          "quantity": 2,
+          "unit": "g",
+          "ingredient": "ground cinnamon (1 tsp)"
+        },
+        {
+          "quantity": 150,
+          "unit": "g",
+          "ingredient": "butter"
+        }
+      ]
+    },
+    {
+      "name": "Bechamel",
+      "ingredients": [
+        {
+          "quantity": 135,
+          "unit": "g",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": 100,
+          "unit": "g",
+          "ingredient": "flour"
+        },
+        {
+          "quantity": 400,
+          "unit": "ml",
+          "ingredient": "milk"
+        },
+        {
+          "quantity": 500,
+          "unit": "ml",
+          "ingredient": "pumpkin liquid"
+        },
+        {
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredient": "vanilla bean paste"
+        },
+        {
+          "quantity": 200,
+          "unit": "ml",
+          "ingredient": "heavy cream"
+        }
+      ]
+    },
+    {
+      "name": "Topping",
+      "ingredients": [
+        {
+          "quantity": 150,
+          "unit": "g",
+          "ingredient": "hazelnuts"
+        },
+        {
+          "quantity": 50,
+          "unit": "g",
+          "ingredient": "sultanas"
+        },
+        {
+          "quantity": 25,
+          "unit": "g",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredient": "unsweetened desiccated coconut"
+        },
+        {
+          "quantity": 1,
+          "unit": "g",
+          "ingredient": "ground cinnamon (1/2 tsp)"
+        },
+        {
+          "quantity": null,
+          "unit": null,
+          "ingredient": "Pinch of salt"
+        },
+        {
+          "quantity": 36,
+          "unit": "g",
+          "ingredient": "butter"
+        }
+      ]
+    }
+  ],
+  "step_sections": [
+    {
+      "steps": [
+        "Toast some walnuts and hazelnuts in the oven for 5 to 10 minutes, and take them out when they're golden.",
+        "Blitz digestive biscuits, toasted walnuts, flour, sugar, salt, desiccated coconut, and cinnamon in a food processor until it reaches a sandy texture.",
+        "Stream in the butter while the machine is running until it forms clumps.",
+        "Press the biscuit base into a 10-in spring form pan, using a ramekin to press the biscuit base against the side of the pan to form a wall.",
+        "Bake the base in the oven for about 15 minutes.",
+        "Cook the pumpkin cubes (which have been macerating in sugar overnight) in their liquid over medium heat covered until soft (about 15 to 20 minutes).",
+        "Strain the pumpkin, saving the liquid, and set the pumpkin aside.",
+        "Measure out 500ml of pumpkin liquid, topping up with water if necessary.",
+        "In the same pan, melt the butter for the bechamel on medium heat, add flour, and cook for a few minutes.",
+        "Reduce to low heat and slowly add milk while constantly whisking.",
+        "Slowly add the pumpkin syrup, whisking until smooth.",
+        "Increase the heat, bring to a simmer until it thickens, then add the cream and vanilla bean paste.",
+        "Fill the cooled base with the pumpkin (about 2/3 of the way up) and pour the bechamel on top.",
+        "Bake at 180°C for about half an hour or until the top browns.",
+        "Prepare the topping by chopping toasted hazelnuts and mixing them with sultanas, light brown sugar, desiccated coconut, cinnamon, a pinch of salt, and melted butter.",
+        "Let the pie cool for about an hour or an hour and a half until it sets before serving."
+      ]
+    }
+  ]
+}
